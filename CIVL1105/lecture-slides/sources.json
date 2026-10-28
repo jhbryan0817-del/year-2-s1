@@ -1,0 +1,54 @@
+{
+  "course": "CIVL1105",
+  "downloaded_files": 6,
+  "records": [
+    {
+      "file": "01-introduction-mass-energy-transfer.pdf",
+      "title": "Chapter 1 Slides",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4251352",
+      "pages": 59,
+      "sha256": "3dc8043a6a93fd75b744f4dc0f2fa84257d4f29128e314ba452694c9c78e3d3e",
+      "accessed": "2026-10-28"
+    },
+    {
+      "file": "01b-mass-balance-tutorial.pdf",
+      "title": "Mass balance tutorial slides",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4280075",
+      "pages": 20,
+      "sha256": "a6542c420d3bc66e39b597e697278ab368376894f9cac277e6de8ca2c2a93aba",
+      "accessed": "2026-10-28"
+    },
+    {
+      "file": "02-environmental-chemistry.pdf",
+      "title": "Chapter 2 Slides",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4251355",
+      "pages": 30,
+      "sha256": "c7e21e7cfde895c9493895740080f204a605cb137cc2ae5713d641b3575edadd",
+      "accessed": "2026-10-28"
+    },
+    {
+      "file": "05-water-quality.pdf",
+      "title": "Chapter 5 Slides",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302342",
+      "pages": 100,
+      "sha256": "97a7dfa031d41a50825904d96f3a7b4a84758632d1eb0c46f4906ad5325f6b81",
+      "accessed": "2026-10-28"
+    },
+    {
+      "file": "06-water-treatment.pdf",
+      "title": "Chapter 6 Water Treatment Lecture Slides",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4316699",
+      "pages": 66,
+      "sha256": "c16d2eebc6cda186bc171cff65c71341f1aca20ef2112f990f8eecb078b8e0c7",
+      "accessed": "2026-10-28"
+    },
+    {
+      "file": "07-wastewater-treatment.pdf",
+      "title": "Lecture slides for wastewater treatment",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4335563",
+      "pages": 82,
+      "sha256": "b1fc1b5a51bb70ce6a2233c3f3124cb5de82a00c869e94b85d8ee857444e8519",
+      "accessed": "2026-10-28"
+    }
+  ]
+}

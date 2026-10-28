@@ -1,0 +1,142 @@
+[
+  {
+    "file": "00-course-schedule.pdf",
+    "resource": "4258794",
+    "pages": 1,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258794",
+    "title": "Course Schedule 2627sem1",
+    "bytes": 82420,
+    "sha256": "b2fb1b529a84fb483163db563d288af1288b34ac4ea76b73c136183c45be4fac",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "00-course-syllabus.pdf",
+    "resource": "4258795",
+    "pages": 5,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258795",
+    "title": "CIVL2108 syllabus v.260717 print",
+    "bytes": 355265,
+    "sha256": "de040236ddc6f731ec8df632a6ee7573fc5636554dadd548de6406776ae2f60d",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "01-industry-life-cycle-participants.pdf",
+    "resource": "4258801",
+    "pages": 18,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258801",
+    "title": "Industry, life cycle, participants",
+    "bytes": 2056963,
+    "sha256": "17d92954cf8c2ad8de2ae1c83128e0c4d021f1c5ee69ce99523b95f31bab7784",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "02-management-theory-and-practice.pdf",
+    "resource": "4289185",
+    "pages": 31,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4289185",
+    "title": "Management Theory and Practice",
+    "bytes": 9316241,
+    "sha256": "2eeb6529182528307488c389d03aac13bd501c1ab62ede5d6999338d201330c9",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "03-procurement-strategy.pdf",
+    "resource": "4292577",
+    "pages": 33,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4292577",
+    "title": "Procurement strategy",
+    "bytes": 3394382,
+    "sha256": "a9fbaf2dd14b84e5e4a15f9ba98b67eed6458839ba412246855dd42dc3da81a2",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "04-tendering-and-measurement.pdf",
+    "resource": "4307095",
+    "pages": 31,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4307095",
+    "title": "Tendering and measurement",
+    "bytes": 3238075,
+    "sha256": "90a3dc08bc4c2c1aba4e4bad6e7859eab55ec8ce1200170a88da168927795a1c",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "05-contract-and-quality-management.pdf",
+    "resource": "4314217",
+    "pages": 37,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4314217",
+    "title": "Contract and quality management",
+    "bytes": 7170518,
+    "sha256": "9d3f1e5ea249a9817ec1b48b84222f0f4b3cd8d9aa26975f11cfb18920b65c6a",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "06-financial-feasibility-1.pdf",
+    "resource": "4258804",
+    "pages": 16,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258804",
+    "title": "Financial feasibility study 1",
+    "bytes": 3441186,
+    "sha256": "8bda05d3d08ab1ee303b2489f14f4d0661316cdacdac3b7563f3fc73a02b6b9c",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "07-financial-feasibility-2.pdf",
+    "resource": "4258803",
+    "pages": 13,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258803",
+    "title": "Financial feasibility study 2",
+    "bytes": 1199360,
+    "sha256": "5e6d99db3d714a20640588a62bf81394825a8a243452689148b81d02efb558da",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "08-financial-feasibility-3.pdf",
+    "resource": "4258802",
+    "pages": 6,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258802",
+    "title": "Financial feasibility study 3",
+    "bytes": 765658,
+    "sha256": "564f6b79abb64fa9607cc806716871f4fd3f0b0c1ed89375b004dc707ef53456",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "09-cost-estimation.pdf",
+    "resource": "4258805",
+    "pages": 8,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258805",
+    "title": "Cost estimation",
+    "bytes": 1046557,
+    "sha256": "95d844e6dca9b8863056eedd560d6f03688d60f3af6d7034603373663c73d4a5",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "10-construction-planning.pdf",
+    "resource": "4258807",
+    "pages": 20,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258807",
+    "title": "Construction planning",
+    "bytes": 2479790,
+    "sha256": "65a6de4523ea07f1d50119e66289e1556be170b6bb8d84e3728e3f8ad749f94a",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "11-circular-construction.pdf",
+    "resource": "4258809",
+    "pages": 15,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4258809",
+    "title": "Circular Construction",
+    "bytes": 3232142,
+    "sha256": "59e5df91228903d238956dca83fc217db46751d0f85f94ad809ee4da9e971741",
+    "collected": "2026-10-28"
+  },
+  {
+    "file": "12-project-delivery.pdf",
+    "resource": "4314216",
+    "pages": 8,
+    "url": "https://moodle.hku.hk/mod/resource/view.php?id=4314216",
+    "title": "Project delivery (supplementary project-section deck)",
+    "bytes": 4026159,
+    "sha256": "c0635a17eae40ca4e7bab12b3989f91eb2388b7183cdcbdbad3399560750c40f",
+    "collected": "2026-10-28"
+  }
+]

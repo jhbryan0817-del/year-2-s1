@@ -1,0 +1,714 @@
+{
+  "retrieved_date": "2026-10-28",
+  "timezone": "Asia/Singapore",
+  "moodle_course_url": "https://moodle.hku.hk/course/view.php?id=145332",
+  "course_name": "CIVL1118 Structural Mechanics (Semester 1) [2026]",
+  "course_change_notice": "Current Moodle states CIVL1118 became an independent course this year; includes CIVL1113 mechanics plus new information such as beam deflection, which is examinable; question count may be greater.",
+  "lecture_resources_found": 12,
+  "lecture_pdfs_preserved": 12,
+  "supporting_course_pdfs_preserved": 2,
+  "past_papers_found_on_moodle": 27,
+  "past_paper_pdfs_preserved": 27,
+  "exam_comment_files_found": 3,
+  "exambase_search_status": "not needed for primary collection; all 27 lecturer-selected CIVL1113 mechanics papers on current Moodle downloaded as user instructed",
+  "access_blocker": null,
+  "lecture_resources": [
+    {
+      "lecture": 1,
+      "title": "Introduction",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187292",
+      "status": "available",
+      "bytes": 2017973,
+      "sha256": "39113ae305ea6cc789f00f8716845d4e25d86101346335ddfc9c037a678a914c",
+      "pages": 37,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/01-introduction.pdf",
+      "original_download_filename": "CIVL1118_HYe_L1_Introduction (1).pdf"
+    },
+    {
+      "lecture": 2,
+      "title": "Axial Loading (Updated)",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187293",
+      "status": "available",
+      "bytes": 3855513,
+      "sha256": "9128ffc0331e7159a6b712bd7796b509ef2ad9c36689b71aaeba3aba22668583",
+      "pages": 42,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/02-axial-loading.pdf",
+      "original_download_filename": "CIVL1118_HYe_L2_Axial Loading (1).pdf"
+    },
+    {
+      "lecture": 3,
+      "title": "Bending Internal Force",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187294",
+      "status": "available",
+      "bytes": 1767073,
+      "sha256": "ffee3966614b4e0f7645522e2fb1445db07f99df563a1a8e67807730703e719a",
+      "pages": 65,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/03-bending-internal-force.pdf",
+      "original_download_filename": "CIVL1118_HYe_L3_Bending Internal Force (1).pdf"
+    },
+    {
+      "lecture": 4,
+      "title": "Bending Stress",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187295",
+      "status": "available",
+      "bytes": 1731818,
+      "sha256": "76607c9f2158a737207633d114ae210dee17ffd8b6ed07d26039fe151f94d7fa",
+      "pages": 38,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/04-bending-stress.pdf",
+      "original_download_filename": "CIVL1118_HYe_L4_Bending Stress (1).pdf"
+    },
+    {
+      "lecture": 5,
+      "title": "Normal Stress Advanced Topics",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4306202",
+      "status": "available",
+      "bytes": 1666849,
+      "sha256": "ee64f0e78fbd807c26da3c8982568c3e95cbe70fc6712ad017636822de77491a",
+      "pages": 53,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/05-normal-stress-advanced-topics.pdf",
+      "original_download_filename": "CIVL1118_Lecture 5_v3.pdf"
+    },
+    {
+      "lecture": 6,
+      "title": "Shear Stress basic topics",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4313311",
+      "status": "available",
+      "file": "lecture-slides/06-shear-stress-basic-topics.pdf",
+      "bytes": 2088029,
+      "sha256": "491aa731845a66431bfb6e5e8aeffee4333fff374540538b47e93a8507863ada",
+      "pages": 28,
+      "original_download_filename": "CIVL1118_Lecture 6_v5.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "lecture": 7,
+      "title": "Shear Stress Advanced Topics",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4320103",
+      "status": "available",
+      "file": "lecture-slides/07-shear-stress-advanced-topics.pdf",
+      "bytes": 1214564,
+      "sha256": "f54cbdd8e400e65fbad8932e86a2e8aeb225a6907d7e4044f40ccda4df1a15e7",
+      "pages": 64,
+      "original_download_filename": "CIVL1118_Lecture 7_v1 (revised).pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "lecture": 8,
+      "title": "Torsion",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4320104",
+      "status": "available",
+      "file": "lecture-slides/08-torsion.pdf",
+      "bytes": 1790263,
+      "sha256": "7e93838540640fbb4ec2e756f85fc0d81925e1a339529a44d41e8a4bfa61ae0d",
+      "pages": 33,
+      "original_download_filename": "civl1118_Lecture 8_torsion.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "lecture": 9,
+      "title": "Stress Transformation",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4331858",
+      "status": "available",
+      "bytes": 1969062,
+      "sha256": "5b414a0ed9234ba27924ed104ce6dafca0cedeaed1527af5fa5ebec0cc909898",
+      "pages": 47,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/09-stress-transformation.pdf",
+      "original_download_filename": "CIVL1118_Lecture 9_Stress_Transformation (1).pdf"
+    },
+    {
+      "lecture": 10,
+      "title": "Strength Theory",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4331859",
+      "status": "available",
+      "file": "lecture-slides/10-strength-theory.pdf",
+      "bytes": 628652,
+      "sha256": "20bda27be4ab246324ab273098ebf985713154f0d8a973f016cca0a7b2b6be48",
+      "pages": 21,
+      "original_download_filename": "CIVL1118_Lecutre 10_Strength Theory.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "lecture": 11,
+      "title": "Column Buckling",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4331860",
+      "status": "available",
+      "file": "lecture-slides/11-column-buckling.pdf",
+      "bytes": 2092525,
+      "sha256": "be3b90990f29c34927404d72473f256a5995e318074614c35db32133247b9760",
+      "pages": 27,
+      "original_download_filename": "CIVL1118_mechanics_11_Column Buckling.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "lecture": 12,
+      "title": "Deflection",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4331863",
+      "status": "available",
+      "file": "lecture-slides/12-deflection.pdf",
+      "bytes": 864390,
+      "sha256": "e4715baf57700491c1b4f309e3a2bd9a3afd851113ee8398d9c50afc8e2a91b2",
+      "pages": 72,
+      "original_download_filename": "CIVL1118_Lecture12_deflection.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "title": "Course description",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187289",
+      "status": "available",
+      "bytes": 229198,
+      "sha256": "494b341158e05551770a4891071c41700e12c500a282b33a9f81432a0fe1997d",
+      "pages": 5,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/course-description.pdf",
+      "original_download_filename": "CIVL1118_Course Description_202627 (1).pdf"
+    },
+    {
+      "title": "Teaching schedule",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4187290",
+      "status": "available",
+      "bytes": 105722,
+      "sha256": "4c835eec0042b050e87523e80529f4ec5819cb3c6dd18b71a692b94eac2aa4fe",
+      "pages": 1,
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "file": "lecture-slides/teaching-schedule.pdf",
+      "original_download_filename": "CIVL1118_Teaching Schedule_202627S1 (1).pdf"
+    }
+  ],
+  "past_papers": [
+    {
+      "session": "2009 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2009 May",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "bytes": 86676,
+      "sha256": "907ce66f0a0423cdffe4e62e6cc9b9d253f6fcd5d6d92736aba99f81e95e7235",
+      "pages": 3,
+      "original_download_filename": "2009 May.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2010 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302662",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2010 May",
+      "file": "past-papers/CIVL1113-2010-may-mechanics.pdf",
+      "bytes": 90959,
+      "sha256": "b079e284114366dd85a52789c83493f11b45e2a3b98818073fa553ddf71517f0",
+      "pages": 3,
+      "original_download_filename": "2010 May.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2011 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2011 May",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "bytes": 75544,
+      "sha256": "aba7351ca381f5034bb759ed8174d35712b328b321a08342f2060d8cf4128c35",
+      "pages": 4,
+      "original_download_filename": "2011 May.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2012 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2012 May",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "bytes": 56733,
+      "sha256": "4fef5eba76f344ef1e32e46a711bb9ecae010989aa3260aad95e884bf08909ea",
+      "pages": 3,
+      "original_download_filename": "2012 May.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2012 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2012 Dec",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "bytes": 51923,
+      "sha256": "a5c7fc027b2340cae99796554457e2b51de269a45dd8e0c840d3978d8315a4cc",
+      "pages": 3,
+      "original_download_filename": "CIVL1113_2012_Dec_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2013 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2013 Dec",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "bytes": 66110,
+      "sha256": "53d1afed71761a2d1391b9b7171c6f5d43945a14a110b4d1eb17dd8b2587adbf",
+      "pages": 4,
+      "original_download_filename": "CIVL1113_2013_Dec_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2014 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2014 Dec",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "bytes": 62576,
+      "sha256": "0573a0ac459e1089ba7d2a341f96be2cc90b8a259a708d467209e4d049847b39",
+      "pages": 3,
+      "original_download_filename": "CIVL1113_2014_Dec_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2015 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302668",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2015 May",
+      "file": "past-papers/CIVL1113-2015-may-mechanics.pdf",
+      "bytes": 70208,
+      "sha256": "955bddacec0176a676b02af0dfe60fbe5c3544fbf72722a1d9c9af2ba7874156",
+      "pages": 3,
+      "original_download_filename": "CIVL1113_2015_May_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2015 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2015 Dec",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "bytes": 317610,
+      "sha256": "dc4bd7eb14c891b9414e7339f392ca33e0738a7ee362d89a4615b0771c5ea424",
+      "pages": 5,
+      "original_download_filename": "CIVL1113_2015_Dec_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2016 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2016 May",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "bytes": 311064,
+      "sha256": "8dcae1fd0e45be84b3ca27353d2ab90441598b2e11a2f7398c83d8cb799008e0",
+      "pages": 4,
+      "original_download_filename": "CIVL1113_2016_May_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2016 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2016 Dec",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "bytes": 84739,
+      "sha256": "6c60bd392140813854aa103acf19198197bac79c76ce226976ef7e3971b9e525",
+      "pages": 4,
+      "original_download_filename": "1113 Dec 2016-Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2017 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2017 May",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "bytes": 156661,
+      "sha256": "c713ba3f1cabd88912ec29e39c7c9488dd462713adaedb92742b322ca02457cb",
+      "pages": 5,
+      "original_download_filename": "1113 May 2017-Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2017 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2017 Dec",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "bytes": 113798,
+      "sha256": "e001e91e4786cf7295bc55688cfdeb6f9067e38442c7e1ca2abbf48a448fefec",
+      "pages": 5,
+      "original_download_filename": "1113 Dec 2017 Mechanics Part Questions.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2018 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2018 May",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "bytes": 110130,
+      "sha256": "657f549ae0f7db115ebe5ba49518246a2de03ca14b81ef8f9606c6b07c558117",
+      "pages": 5,
+      "original_download_filename": "1113 May 2018-Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2018 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302675",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2018 Dec",
+      "file": "past-papers/CIVL1113-2018-dec-mechanics.pdf",
+      "bytes": 110130,
+      "sha256": "657f549ae0f7db115ebe5ba49518246a2de03ca14b81ef8f9606c6b07c558117",
+      "pages": 5,
+      "original_download_filename": "1113 May 2018-Mechanics (1).pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session",
+      "duplicate_of": "past-papers/CIVL1113-2018-may-mechanics.pdf"
+    },
+    {
+      "session": "2019 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2019 May",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "bytes": 214317,
+      "sha256": "ef689d5ba71ef15d9d1bfce0befe645a482045f9a9117bda1a2415955b154d3f",
+      "pages": 4,
+      "original_download_filename": "1113 May 2019-mechanics part.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2020 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2020 May",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "bytes": 97716,
+      "sha256": "44e897392ea1d825f6017a7f6d633f5726275a5149ba4d993457e17d3fc1c928",
+      "pages": 4,
+      "original_download_filename": "CIVL1113 May 2020 exam.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2020 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2020 Dec",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "bytes": 92665,
+      "sha256": "fa0db655d8e030a693553297c06eaf967b2aac15a5f8524427bdf357c54b5fc5",
+      "pages": 4,
+      "original_download_filename": "CIVL1113 Dec 2020 exam.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2021 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302679",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2021 May",
+      "file": "past-papers/CIVL1113-2021-may-mechanics.pdf",
+      "bytes": 65509,
+      "sha256": "3a54a57d3b8fb60c0a7f02b67031362f2cbfd745a220e1c5ce7bfd17d3a9833c",
+      "pages": 4,
+      "original_download_filename": "CIVL1113 May 2021 exam.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2021 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2021 Dec",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "bytes": 73114,
+      "sha256": "fe8a10352f5b0ade83b3b3447c976d1cd0f87ddad873d634fe34d595c281425f",
+      "pages": 3,
+      "original_download_filename": "CIVL 1113 Dec 2021 exam.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2022 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2022 May",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "bytes": 402272,
+      "sha256": "9a084be09d76218bb8562f930bba4f0097c779eecba923886798cc1a1500a8a6",
+      "pages": 5,
+      "original_download_filename": "2022-23 spring CIVL1113 exam mechanics part.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2023 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2023 Dec",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "bytes": 3209857,
+      "sha256": "cb2b1478e49ae171b3eb3355cff49ddf3cf7738beb6f71873349d45aa925c714",
+      "pages": 6,
+      "original_download_filename": "CIVL1113_2023_Dec_Mechanics.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2024 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2024 May",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "bytes": 2985914,
+      "sha256": "87b637255f982c31647d755e3a434bd660c564f30498ddc7de6e099dfd6c7709",
+      "pages": 7,
+      "original_download_filename": "CIVL1113-exam-202405.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2024 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2024 Dec",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "bytes": 247418,
+      "sha256": "6d198eec8955a67c1ffe662fd05dcc8fb715c91306b24179991fea1bad3e6758",
+      "pages": 7,
+      "original_download_filename": "2024S1_CIVL1113_exam_final.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2025 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2025 May",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "bytes": 304010,
+      "sha256": "4184e485a1e455b4f6cc7a52c6b6b7fbd8a0e2df87cb316ff56476623625d00e",
+      "pages": 7,
+      "original_download_filename": "2024S2_CIVL1113_exam Mechanics part.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2025 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2025 Dec exam mechanics",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "bytes": 350693,
+      "sha256": "e041dba3c5425a20503c94ac1d0a05ea9c0d6c761b456dca47f3facaa974abc6",
+      "pages": 7,
+      "original_download_filename": "1113 exam mechanics 2025 Dec.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2026 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699",
+      "source_course": "CIVL1113 mechanics part (provided under current CIVL1118 Moodle)",
+      "status": "available",
+      "moodle_label": "2026 May exam",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "bytes": 264091,
+      "sha256": "744b5e44d9f322c732ab7caee6cb251994752964c12396c4f8d8c7d5a6f7cdda",
+      "pages": 7,
+      "original_download_filename": "2025S2-CIVL1113-exam-Question-final2.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    }
+  ],
+  "exam_comments": [
+    {
+      "session": "2024 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302685",
+      "type": "exam comments",
+      "status": "available",
+      "file": "past-papers/CIVL1113-2024-may-comments.pdf",
+      "bytes": 34733,
+      "sha256": "04e7ff0e9ffa902d1fbe0cd53a64567d8a523de52a25c7404d7f6b1e5fd1992e",
+      "pages": 2,
+      "original_download_filename": "CIVL1113-mechanics-2023S2-Exam-comments.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2024 Dec",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302687",
+      "type": "exam comments",
+      "status": "available",
+      "file": "past-papers/CIVL1113-2024-dec-comments.pdf",
+      "bytes": 91961,
+      "sha256": "ae4baa930e542cc0653e52a2262c504faf1bf4de39b6b627499fc62ac9b0e82a",
+      "pages": 2,
+      "original_download_filename": "SA202405_comments.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    },
+    {
+      "session": "2025 May",
+      "moodle_resource_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302689",
+      "type": "exam comments",
+      "status": "available",
+      "file": "past-papers/CIVL1113-2025-may-comments.pdf",
+      "bytes": 170775,
+      "sha256": "16d63cdaa812c652f96cf84f4593cdd23b184940695f13d0b941d308499f1a5c",
+      "pages": 2,
+      "original_download_filename": "CIVL1113-202405comments.pdf",
+      "provenance": "downloaded from authenticated current Moodle course in this session"
+    }
+  ],
+  "distinct_past_paper_pdfs": 26,
+  "question_workflow_rows": 179,
+  "workflow_groups": [
+    {
+      "workflow": "Beam internal-force diagrams",
+      "rows": 38,
+      "distinct_papers": 20
+    },
+    {
+      "workflow": "Numerical plane-stress transformation",
+      "rows": 19,
+      "distinct_papers": 16
+    },
+    {
+      "workflow": "Euler buckling calculations",
+      "rows": 15,
+      "distinct_papers": 15
+    },
+    {
+      "workflow": "Frame internal-force diagrams",
+      "rows": 12,
+      "distinct_papers": 12
+    },
+    {
+      "workflow": "Bending stress and section sizing",
+      "rows": 12,
+      "distinct_papers": 10
+    },
+    {
+      "workflow": "Axial deformation and compatibility",
+      "rows": 10,
+      "distinct_papers": 7
+    },
+    {
+      "workflow": "Beam combined stresses and failure checks",
+      "rows": 8,
+      "distinct_papers": 8
+    },
+    {
+      "workflow": "Beam deflection by integration or compatibility",
+      "rows": 8,
+      "distinct_papers": 8
+    },
+    {
+      "workflow": "Coupled-member deflection and compatibility",
+      "rows": 8,
+      "distinct_papers": 4
+    },
+    {
+      "workflow": "Circular-shaft torsion",
+      "rows": 7,
+      "distinct_papers": 7
+    },
+    {
+      "workflow": "Layered-beam strength and load sharing",
+      "rows": 7,
+      "distinct_papers": 3
+    },
+    {
+      "workflow": "Failure criteria for a plane-stress element",
+      "rows": 6,
+      "distinct_papers": 6
+    },
+    {
+      "workflow": "Layered-beam deflection and load sharing",
+      "rows": 6,
+      "distinct_papers": 3
+    },
+    {
+      "workflow": "Beam shear stress and connector design",
+      "rows": 3,
+      "distinct_papers": 3
+    },
+    {
+      "workflow": "Euler buckling and material-failure comparison",
+      "rows": 3,
+      "distinct_papers": 3
+    },
+    {
+      "workflow": "Plane-stress transformation derivations",
+      "rows": 3,
+      "distinct_papers": 3
+    },
+    {
+      "workflow": "Buckling and yield transition concepts",
+      "rows": 2,
+      "distinct_papers": 2
+    },
+    {
+      "workflow": "Composite-section bending",
+      "rows": 2,
+      "distinct_papers": 2
+    },
+    {
+      "workflow": "Truss equilibrium and member forces",
+      "rows": 2,
+      "distinct_papers": 2
+    },
+    {
+      "workflow": "Beam kinematics and differential-equation derivations",
+      "rows": 2,
+      "distinct_papers": 1
+    },
+    {
+      "workflow": "Indeterminate compound-shaft torsion",
+      "rows": 2,
+      "distinct_papers": 1
+    },
+    {
+      "workflow": "Buckling-axis identification",
+      "rows": 1,
+      "distinct_papers": 1
+    },
+    {
+      "workflow": "Curvature from bending moment",
+      "rows": 1,
+      "distinct_papers": 1
+    },
+    {
+      "workflow": "Deformation sketches from support constraints",
+      "rows": 1,
+      "distinct_papers": 1
+    },
+    {
+      "workflow": "Moment-area theorem explanation",
+      "rows": 1,
+      "distinct_papers": 1
+    }
+  ],
+  "source_notes": [
+    "The 2016 Dec, 2017 Dec and 2018 May mechanics extracts omit the original cover; session names follow Moodle labels. Their internal page numbers skip removed material-section pages.",
+    "2020 May and 2020 Dec cover pages describe 24-hour take-home assessments; 2021 May describes a four-hour take-home assessment. Their format differs from timed exams.",
+    "Beam deflection appears in 2017 Dec Q3, 2018 May Q2-Q3 and 2021 May Q1. Current-course warning about added deflection content should not be paraphrased as claiming no predecessor question ever assessed deflection.",
+    "2018 May Q2(b) and Q2(d) contain apparent cross-reference typos in the printed source; descriptions identify the intended case without reproducing the typo.",
+    "2021 Dec Q2 text refers to Figure 3 but the stress-state figure is captioned Figure 2; figure and supplied stresses were reviewed directly.",
+    "Moodle 2022 May extract lacks dated cover; original filename 2022-23 spring retained in manifest; no alternate session inferred.",
+    "Some PDFs include materials Section B; question index includes mechanics Section A only."
+  ],
+  "question_review_method": "Text extraction checked against relevant PDF renders for text-backed sources; all pages of scanned papers visually read. Questions grouped by coherent solution workflow, with dependent printed parts combined where appropriate."
+}

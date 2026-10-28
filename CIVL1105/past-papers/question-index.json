@@ -1,0 +1,4042 @@
+[
+  {
+    "date": "2013-12-10",
+    "ref": "A Q1",
+    "workflow": "water_characteristics",
+    "description": "Compare typical surface-water and groundwater contaminants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q2",
+    "workflow": "softening",
+    "description": "Select a process for water softening",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q3",
+    "workflow": "nutrients",
+    "description": "Identify the limiting nutrient from an N/P mass ratio",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q4",
+    "workflow": "disinfectant_selection",
+    "description": "Select a secondary disinfectant",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q5",
+    "workflow": "log",
+    "description": "Convert membrane log removal to percentage rejection",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q6",
+    "workflow": "henry",
+    "description": "Estimate the Henry constant for dissolved oxygen",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q7",
+    "workflow": "settling",
+    "description": "Assess sedimentation geometry and flow changes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q8",
+    "workflow": "hardness",
+    "description": "Calculate carbonate hardness from ionic composition",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q9",
+    "workflow": "bod_kinetics",
+    "description": "Infer ultimate BOD from two timed BOD measurements",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q10",
+    "workflow": "sag",
+    "description": "Identify conditions that increase river oxygen depletion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q11",
+    "workflow": "nitrogen_transform",
+    "description": "Order nitrogen transformations after sewage disposal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Identify nitrogen transformation pathways"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q12",
+    "workflow": "pollutant_properties",
+    "description": "Identify asbestos properties and origin",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Identify asbestos and dioxin properties"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q13",
+    "workflow": "pollutant_properties",
+    "description": "Identify dioxin properties and sources",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Identify asbestos and dioxin properties"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q14",
+    "workflow": "ozone",
+    "description": "Assess CFC physical and chemical properties",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q15",
+    "workflow": "stability",
+    "description": "Identify factors affecting adiabatic lapse rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q16",
+    "workflow": "monod_theory",
+    "description": "Interpret substrate-dependent Monod degradation kinetics",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Interpret microbial growth-rate assumptions"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q17",
+    "workflow": "gas",
+    "description": "Convert NO2 mass concentration to ppm",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q18",
+    "workflow": "air_control",
+    "description": "Assess exhaust-gas recirculation operation",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q19",
+    "workflow": "noise",
+    "description": "Calculate traffic-noise change from increased traffic volume",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Combine sound levels on a logarithmic scale"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "A Q20",
+    "workflow": "air_control",
+    "description": "Identify electrostatic-precipitator operating voltage",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q1",
+    "workflow": "treatment_removal",
+    "description": "Identify contaminants poorly removed by conventional secondary treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Check expected contaminant removal by treatment stage"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q2",
+    "workflow": "noise",
+    "description": "Combine noise from three machines",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Combine sound levels on a logarithmic scale"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q3",
+    "workflow": "softening",
+    "description": "Identify an unsuitable hardness-removal process",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q4",
+    "workflow": "disinfectant_selection",
+    "description": "Compare disinfectant strength",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q5",
+    "workflow": "gas",
+    "description": "Estimate air density using gas properties",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q6",
+    "workflow": "greenhouse_gases",
+    "description": "Identify a gas without a greenhouse effect",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q7",
+    "workflow": "air_criteria",
+    "description": "Identify pollutants included in the historical HK AQHI",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q8",
+    "workflow": "air_control",
+    "description": "Identify pollutants treated by a three-way converter",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q9",
+    "workflow": "mixing_depth",
+    "description": "Calculate mixing depth from a piecewise temperature profile",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Calculate mixing depth from temperature profiles"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q10",
+    "workflow": "greenhouse",
+    "description": "Distinguish effects of increased CO2 emissions",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q11",
+    "workflow": "carbonate",
+    "description": "Predict limestone dissolution and pH changes when CO2 is added",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q12",
+    "workflow": "oxygen_demand",
+    "description": "Calculate total theoretical oxygen demand of an organic compound",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q13",
+    "workflow": "decay",
+    "description": "Calculate remaining radon after radioactive decay",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q14",
+    "workflow": "log",
+    "description": "Convert microorganism rejection to log removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q15",
+    "workflow": "sludge",
+    "description": "Order anaerobic-digestion transformation stages",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Compare anaerobic digestion, aerobic treatment and sludge processing"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q16",
+    "workflow": "water_process",
+    "description": "Choose the drinking-water treatment sequence",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q17",
+    "workflow": "lake",
+    "description": "Identify thermal stratification from the lake temperature profile",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q18",
+    "workflow": "gas",
+    "description": "Convert a CO ppm standard to mass concentration",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q19",
+    "workflow": "bio_types",
+    "description": "Identify an attached-growth biological process",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "A Q20",
+    "workflow": "air_control",
+    "description": "Select an SO2 flue-gas treatment",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert SO2 mass concentration to ppmv",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q2",
+    "workflow": "noise",
+    "description": "Combine noise from five identical machines",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Combine sound levels on a logarithmic scale"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q3",
+    "workflow": "decay",
+    "description": "Infer first-order decay and calculate remaining isotope",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q4",
+    "workflow": "softening",
+    "description": "Select a hardness-removal process",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q5",
+    "workflow": "disinfectant_selection",
+    "description": "Select a secondary disinfectant",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q6",
+    "workflow": "acidbase",
+    "description": "Calculate HOCl/OCl ratio from pH and pKa",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q7",
+    "workflow": "oxygen_demand",
+    "description": "Calculate nitrogenous oxygen demand from molecular composition",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q8",
+    "workflow": "membranes",
+    "description": "Select a membrane for virus removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q9",
+    "workflow": "bio_types",
+    "description": "Identify anaerobic treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q10",
+    "workflow": "log",
+    "description": "Combine log inactivation in two series contactors",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q11",
+    "workflow": "hardness",
+    "description": "Calculate carbonate hardness of groundwater",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q12",
+    "workflow": "henry",
+    "description": "Assess environmental factors controlling dissolved oxygen",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q13",
+    "workflow": "air_primary_secondary",
+    "description": "Distinguish a secondary from primary air pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q14",
+    "workflow": "acid_rain",
+    "description": "Assess NOx/SOx sources and acid-rain effects",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q15",
+    "workflow": "air_control",
+    "description": "Select particle-control equipment for flue gas",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q16",
+    "workflow": "nitrogen_transform",
+    "description": "Identify conversion of nitrate to nitrogen gas",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Identify nitrogen transformation pathways"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q17",
+    "workflow": "mixing_depth",
+    "description": "Calculate mixing depth from the stated temperature profile",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Calculate mixing depth from temperature profiles"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q18",
+    "workflow": "box",
+    "description": "Predict ventilation/source effects using an indoor box model",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Build a well-mixed air box model"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q19",
+    "workflow": "ozone",
+    "description": "Identify compounds with low ozone-depletion potential",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "A Q20",
+    "workflow": "ozone",
+    "description": "Distinguish climate-change effects from ozone depletion",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert CO mass concentration to ppmv",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q2",
+    "workflow": "softening",
+    "description": "Identify an unsuitable hardness-removal process",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q3",
+    "workflow": "decay",
+    "description": "Calculate time for first-order radioactive removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q4",
+    "workflow": "decay",
+    "description": "Calculate the corresponding half-life",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q5",
+    "workflow": "hardness",
+    "description": "Calculate total hardness from calcium and magnesium",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q6",
+    "workflow": "mbr",
+    "description": "Select a membrane for an MBR",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q7",
+    "workflow": "bio_types",
+    "description": "Identify an attached-growth process",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q8",
+    "workflow": "log",
+    "description": "Combine membrane log removal and UV percentage inactivation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q9",
+    "workflow": "sludge",
+    "description": "Identify reactions outside anaerobic digestion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Compare anaerobic digestion, aerobic treatment and sludge processing"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q10",
+    "workflow": "bod_test",
+    "description": "Choose a BOD-test dilution factor",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q11",
+    "workflow": "latent_heat",
+    "description": "Estimate energy needed to distil a cubic metre of water",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Apply latent-heat energy balances"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q12",
+    "workflow": "settling",
+    "description": "Relate particle diameter to sedimentation removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q13",
+    "workflow": "disinfectant_selection",
+    "description": "Compare disinfectant strength",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q14",
+    "workflow": "coagulation",
+    "description": "Identify coagulation/flocculation mechanisms",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q15",
+    "workflow": "radiation",
+    "description": "Identify the mode of solar-energy transfer",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Interpret radiation heat transfer and photon energy"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q16",
+    "workflow": "combustion",
+    "description": "Calculate bioenergy in methane generated from food waste",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q17",
+    "workflow": "ksp",
+    "description": "Calculate CaF2 solubility product from equilibrium calcium",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Check solubility, precipitation and scaling"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q18",
+    "workflow": "greenhouse",
+    "description": "Distinguish consequences of increased atmospheric CO2",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q19",
+    "workflow": "air_primary_secondary",
+    "description": "Identify a secondary air pollutant",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "A Q20",
+    "workflow": "oxygen_demand",
+    "description": "Determine whether the organic formula creates nitrogenous demand",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q1",
+    "workflow": "air_criteria",
+    "description": "Identify pollutants monitored under historical HK AQHI",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q2",
+    "workflow": "alkalinity",
+    "description": "Assess chemical additions that change alkalinity",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q3",
+    "workflow": "ksp",
+    "description": "Compare ion product with CaF2 solubility product",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Check solubility, precipitation and scaling"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q4",
+    "workflow": "bod_concepts",
+    "description": "Identify measures of wastewater organic strength",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q5",
+    "workflow": "nutrients",
+    "description": "Recognise characteristics of a eutrophic lake",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q6",
+    "workflow": "bio_types",
+    "description": "Identify anaerobic biological treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q7",
+    "workflow": "water_process",
+    "description": "Identify processes intended for particle removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q8",
+    "workflow": "greenhouse_gases",
+    "description": "Identify a greenhouse gas",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q9",
+    "workflow": "solids",
+    "description": "Classify the residual solids after filtration and ignition",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Classify solids fractions and biomass indicators"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "A Q10",
+    "workflow": "gas",
+    "description": "Estimate oxygen mass concentration in ambient air",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q1",
+    "workflow": "air_control",
+    "description": "Identify emissions controlled by a three-way converter",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q2",
+    "workflow": "combustion",
+    "description": "Calculate heat released by burning methane",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q3",
+    "workflow": "solids",
+    "description": "Select the solids measure representing activated-sludge biomass",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Classify solids fractions and biomass indicators"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q4",
+    "workflow": "coagulation",
+    "description": "Identify coagulation mechanisms",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q5",
+    "workflow": "bio_types",
+    "description": "Identify attached aerobic treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q6",
+    "workflow": "air_control",
+    "description": "Identify flue-gas particle-removal equipment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q7",
+    "workflow": "bod_concepts",
+    "description": "Identify organic-strength measures",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q8",
+    "workflow": "greenhouse_gases",
+    "description": "Identify compounds related to the greenhouse effect",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q9",
+    "workflow": "nitrogen_transform",
+    "description": "Define denitrification by the nitrogen transformation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Identify nitrogen transformation pathways"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "A Q10",
+    "workflow": "gas",
+    "description": "Estimate atmospheric CO2 mass concentration using paper-era conditions",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q1",
+    "workflow": "alkalinity",
+    "description": "Assess which added chemical increases alkalinity",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q2",
+    "workflow": "softening",
+    "description": "Identify reagents used in lime-soda softening",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q3",
+    "workflow": "solids",
+    "description": "Identify the solids fraction representing activated-sludge biomass",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Classify solids fractions and biomass indicators"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q4",
+    "workflow": "coagulation",
+    "description": "Identify an irrelevant coagulation mechanism",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q5",
+    "workflow": "air_control",
+    "description": "Select SO2-removal control",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q6",
+    "workflow": "disinfectant_selection",
+    "description": "Select an effective disinfectant against Cryptosporidium",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q7",
+    "workflow": "air_primary_secondary",
+    "description": "Identify a secondary air pollutant",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q8",
+    "workflow": "bio_types",
+    "description": "Identify suspended aerobic treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q9",
+    "workflow": "asp_concepts",
+    "description": "Identify inputs needed for the F/M ratio",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Interpret activated-sludge operation and F/M"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "A Q10",
+    "workflow": "ocean",
+    "description": "Identify the cause of ocean acidification",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q1",
+    "workflow": "softening",
+    "description": "Identify an unsuitable hardness-removal method",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q2",
+    "workflow": "air_primary_secondary",
+    "description": "Identify a secondary air pollutant",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q3",
+    "workflow": "alkalinity",
+    "description": "Assess alkalinity definitions and process effects",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q4",
+    "workflow": "air_control",
+    "description": "Select vehicle NOx-control equipment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q5",
+    "workflow": "membranes",
+    "description": "Identify contaminants not removed by microfiltration",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q6",
+    "workflow": "ocean",
+    "description": "Assess ocean-acidification mechanisms and chemical changes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q7",
+    "workflow": "lake",
+    "description": "Assess stratification and oxygen depletion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q8",
+    "workflow": "bio_types",
+    "description": "Identify anaerobic treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q9",
+    "workflow": "ozone",
+    "description": "Distinguish greenhouse gases from ozone-depleting compounds",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "A Q10",
+    "workflow": "acidbase",
+    "description": "Choose pH for ammonia air stripping from acid-base speciation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q1",
+    "workflow": "nutrients",
+    "description": "Recognise oligotrophic-lake characteristics",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q2",
+    "workflow": "bod_test",
+    "description": "Choose a BOD-test dilution ratio",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q3",
+    "workflow": "water_process",
+    "description": "Identify processes intended for particle removal",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q4",
+    "workflow": "solids",
+    "description": "Identify the biomass measure used in F/M",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Classify solids fractions and biomass indicators"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q5",
+    "workflow": "coagulation",
+    "description": "Identify coagulation mechanisms",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q6",
+    "workflow": "bio_types",
+    "description": "Identify oxygen requirements of biological processes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q7",
+    "workflow": "mbr",
+    "description": "Select a membrane type for MBR",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q8",
+    "workflow": "alkalinity",
+    "description": "Assess the alkalinity effect of dissolving CO2",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q9",
+    "workflow": "air_control",
+    "description": "Select vehicle NOx-removal equipment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "A Q10",
+    "workflow": "nuclear",
+    "description": "Identify the emitted particle from a nuclear-decay equation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Balance a nuclear-decay transformation"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q1",
+    "workflow": "air_control",
+    "description": "Select NOx-control equipment for a coal power plant",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q2",
+    "workflow": "ozone",
+    "description": "Distinguish halogenated greenhouse gases from ozone depleters",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q3",
+    "workflow": "ozone",
+    "description": "Compare atmospheric lifetimes of halogenated compounds",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q4",
+    "workflow": "alkalinity",
+    "description": "Assess alum addition and alkalinity",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q5",
+    "workflow": "coagulation",
+    "description": "Assess actions that destabilise negatively charged colloids",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q6",
+    "workflow": "bio_types",
+    "description": "Identify limits of conventional wastewater treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q7",
+    "workflow": "greenhouse_gases",
+    "description": "Identify gases with a greenhouse effect",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q8",
+    "workflow": "bio_types",
+    "description": "Identify attached-growth treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q9",
+    "workflow": "log",
+    "description": "Calculate the second-stage removal needed for an overall target",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "A Q10",
+    "workflow": "lake",
+    "description": "Assess conditions causing thermal stratification",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q1",
+    "workflow": "nutrients",
+    "description": "Calculate phosphorus concentration at which nutrient limitation changes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q2",
+    "workflow": "nutrients",
+    "description": "Assess eutrophication effects",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q3",
+    "workflow": "lake",
+    "description": "Assess causes of stratification",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q4",
+    "workflow": "water_process",
+    "description": "Identify processes used in typical HK drinking-water treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q5",
+    "workflow": "water_characteristics",
+    "description": "Identify requested drinking-water quality parameters",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q6",
+    "workflow": "mixing",
+    "description": "Calculate the BOD/nitrogen ratio after mixing two wastewater streams",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Balance conservative mixing and immediate oxygen deficit"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q7",
+    "workflow": "bio_types",
+    "description": "Classify activated-sludge treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q8",
+    "workflow": "treatment_removal",
+    "description": "Assess expected secondary-effluent quality",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Check expected contaminant removal by treatment stage"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q9",
+    "workflow": "greenhouse_gases",
+    "description": "Identify a greenhouse gas",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "A Q10",
+    "workflow": "remediation",
+    "description": "Select a groundwater-remediation technology for LNAPLs",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Select groundwater-contamination controls"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q1",
+    "workflow": "energy",
+    "description": "Calculate power-station cooling-water flow from waste heat",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q2",
+    "workflow": "combustion",
+    "description": "Calculate clean-air dilution volume for controlled sulfur emissions",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q3",
+    "workflow": "solid_waste",
+    "description": "Assess sanitary-landfill gas, leachate and space requirements",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Explain sanitary-landfill behaviour"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q4",
+    "workflow": "acidbase",
+    "description": "Choose pH to suppress dissolved H2S by speciation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q5",
+    "workflow": "hardness",
+    "description": "Compare hardness of different cation mixtures",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q6",
+    "workflow": "water_process",
+    "description": "Identify a typical surface-water treatment step",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q7",
+    "workflow": "air_criteria",
+    "description": "Identify the criteria air pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q8",
+    "workflow": "stability",
+    "description": "Infer a temperature profile from plume shapes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q9",
+    "workflow": "log",
+    "description": "Combine two membrane log-removal stages",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Combine removal stages and convert log reduction"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "A Q10",
+    "workflow": "nutrients",
+    "description": "Identify the purpose of tertiary wastewater treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q1",
+    "workflow": "units",
+    "description": "Distinguish mass-concentration from molar units",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Convert aqueous concentration, mass and molarity"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q2",
+    "workflow": "gas",
+    "description": "Calculate ideal-gas molar volume",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q3",
+    "workflow": "oxygen_demand",
+    "description": "Calculate oxygen required to oxidise glucose",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q4",
+    "workflow": "henry",
+    "description": "Calculate dissolved CO2 concentration under pressure",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q5",
+    "workflow": "bod_concepts",
+    "description": "Identify oxygen-demanding organic pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q6",
+    "workflow": "bod_concepts",
+    "description": "Assess COD-test properties",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q7",
+    "workflow": "coagulation",
+    "description": "Identify common coagulants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Interpret coagulation and colloid destabilisation"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q8",
+    "workflow": "biology",
+    "description": "Identify structures absent from prokaryotic cells",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Identify prokaryotic-cell structures"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q9",
+    "workflow": "water_characteristics",
+    "description": "Identify a wastewater characteristic",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "A Q10",
+    "workflow": "greenhouse_gases",
+    "description": "Identify a typical greenhouse gas",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert atmospheric CO2 ppmv to mass concentration",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q2",
+    "workflow": "decay",
+    "description": "Calculate time for first-order chlorine decay",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q3",
+    "workflow": "oxygen_demand",
+    "description": "Calculate total and nitrogenous demand from molecular composition",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q4",
+    "workflow": "water_characteristics",
+    "description": "Classify water pollutants and give examples",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q5",
+    "workflow": "bod_kinetics",
+    "description": "Infer BOD kinetics and apply temperature correction",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q6",
+    "workflow": "disinfectant_selection",
+    "description": "Describe chlorine reactions and compare active chlorine species",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q7",
+    "workflow": "monod_theory",
+    "description": "State assumptions behind first-order biomass growth and death",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Interpret microbial growth-rate assumptions"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q8",
+    "workflow": "bio_types",
+    "description": "State the purposes of wastewater treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Classify biological wastewater-treatment processes"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q9",
+    "workflow": "air_criteria",
+    "description": "List the criteria air pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "A Q10",
+    "workflow": "ocean",
+    "description": "Explain major ocean effects of climate change",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert exhaust-gas volume fraction to mass concentration",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q2",
+    "workflow": "carnot",
+    "description": "Calculate Carnot efficiency using reservoir temperatures",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Calculate the Carnot efficiency limit"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q3",
+    "workflow": "units",
+    "description": "Convert dissolved glucose mass to molarity",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Convert aqueous concentration, mass and molarity"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q4",
+    "workflow": "bod_concepts",
+    "description": "Compare ThOD, COD and BOD",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q5",
+    "workflow": "water_characteristics",
+    "description": "Classify chemical versus biological pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q6",
+    "workflow": "hardness",
+    "description": "Calculate total hardness as CaCO3",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q7",
+    "workflow": "settling",
+    "description": "Calculate clarifier depth using overflow rate and HRT",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q8",
+    "workflow": "asp_concepts",
+    "description": "Identify parameters controlling F/M",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Interpret activated-sludge operation and F/M"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q9",
+    "workflow": "air_criteria",
+    "description": "Identify criteria air pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "A Q10",
+    "workflow": "ocean",
+    "description": "Assess ocean effects of warming and acidification",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Calculate ideal-gas molar volume at altitude",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q2",
+    "workflow": "energy",
+    "description": "Calculate sensible heat required for a bottle of water",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q3",
+    "workflow": "radiation",
+    "description": "Compare photon energy for different wavelengths",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Interpret radiation heat transfer and photon energy"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q4",
+    "workflow": "disinfectant_selection",
+    "description": "Compare disinfectant strength",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q5",
+    "workflow": "settling",
+    "description": "Calculate sedimentation overflow rate from depth and HRT",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q6",
+    "workflow": "asp_concepts",
+    "description": "Identify inputs affecting F/M",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Interpret activated-sludge operation and F/M"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q7",
+    "workflow": "sludge",
+    "description": "Compare anaerobic digestion with aerobic treatment",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Compare anaerobic digestion, aerobic treatment and sludge processing"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q8",
+    "workflow": "henry",
+    "description": "Assess dissolved-oxygen properties",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q9",
+    "workflow": "hardness",
+    "description": "Calculate total hardness from water composition",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q10",
+    "workflow": "air_control",
+    "description": "Identify catalytic-converter products",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "A Q11",
+    "workflow": "air_primary_secondary",
+    "description": "Identify primary pollutants",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert SO2 ppb to mass concentration",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q2",
+    "workflow": "latent_heat",
+    "description": "Calculate latent heat from melting energy and mass",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Apply latent-heat energy balances"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q3",
+    "workflow": "combustion",
+    "description": "Calculate methane combustion heat from formation enthalpies and volume",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q4",
+    "workflow": "water_characteristics",
+    "description": "Assess the distribution of Earth's water resources",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q5",
+    "workflow": "nutrients",
+    "description": "Assess eutrophication and nutrient limitation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q6",
+    "workflow": "disinfectant_selection",
+    "description": "Assess chlorination chemistry and disinfection purposes",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q7",
+    "workflow": "membranes",
+    "description": "Choose membranes for metal-ion separation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q8",
+    "workflow": "settling",
+    "description": "Calculate clarifier area, diameter and depth from population, HRT and overflow rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q9",
+    "workflow": "ozone",
+    "description": "Compare ozone-depletion effects of halogenated compounds",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "A Q10",
+    "workflow": "greenhouse_gases",
+    "description": "Identify gases contributing to greenhouse warming",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Relate ideal-gas volume ratios to molar ratios",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q2",
+    "workflow": "energy",
+    "description": "Calculate water-temperature rise with heating efficiency",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q3",
+    "workflow": "carbonate",
+    "description": "Identify the dominant carbonate species at a specified pH",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q4",
+    "workflow": "water_characteristics",
+    "description": "Assess water properties, resources and pollutant categories",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q5",
+    "workflow": "henry",
+    "description": "Assess temperature, salinity and pressure effects on DO",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q6",
+    "workflow": "bod_test",
+    "description": "Calculate BOD5 from dilution and bottle DO depletion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q7",
+    "workflow": "disinfectant_selection",
+    "description": "Assess disinfection objectives and chemistry",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q8",
+    "workflow": "treatment_removal",
+    "description": "Compare primary-treatment removal of solids, BOD and nutrients",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Check expected contaminant removal by treatment stage"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q9",
+    "workflow": "acid_rain",
+    "description": "Identify pollutants contributing to acid rain",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "A Q10",
+    "workflow": "greenhouse_gases",
+    "description": "Identify greenhouse gases",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Identify greenhouse gases"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q1",
+    "workflow": "units",
+    "description": "Calculate solute mass needed for a specified aqueous ppm solution",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Convert aqueous concentration, mass and molarity"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q2",
+    "workflow": "acidbase",
+    "description": "Identify the acid and calculate the HOCl fraction at given pH",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q3",
+    "workflow": "carbonate",
+    "description": "Identify the dominant carbonate species at high pH",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q4",
+    "workflow": "water_characteristics",
+    "description": "Assess water chemistry and pollutant classifications",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q5",
+    "workflow": "bod_test",
+    "description": "Calculate BOD5 from dilution and bottle DO depletion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q6",
+    "workflow": "water_process",
+    "description": "Assess sedimentation, coagulation, disinfection and alkalinity statements",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q7",
+    "workflow": "settling",
+    "description": "Calculate clarifier area, diameter and depth from population, HRT and overflow rate",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q8",
+    "workflow": "asp_concepts",
+    "description": "Assess activated-sludge operation and F/M",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Interpret activated-sludge operation and F/M"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q9",
+    "workflow": "air_primary_secondary",
+    "description": "Identify secondary air pollutants",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "A Q10",
+    "workflow": "ozone",
+    "description": "Identify compounds that deplete ozone",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q1",
+    "workflow": "gas",
+    "description": "Convert atmospheric CO2 ppm to mass concentration",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q2",
+    "workflow": "carbonate",
+    "description": "Predict carbonate-species changes as pH decreases",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q3",
+    "workflow": "energy",
+    "description": "Calculate final water temperature and account for reaching boiling",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q4",
+    "workflow": "water_characteristics",
+    "description": "Assess water properties and pollutant sources",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Assess water properties, resources and pollutant categories"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q5",
+    "workflow": "henry",
+    "description": "Calculate saturation DO from oxygen partial pressure",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Apply Henry law and dissolved-oxygen saturation"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q6",
+    "workflow": "bod_test",
+    "description": "Calculate BOD5 from dilution and bottle DO depletion",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q7",
+    "workflow": "membranes",
+    "description": "Assess membrane selectivity, jar testing and separation principles",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q8",
+    "workflow": "monod",
+    "description": "Calculate lagoon removal after determining influent BOD from a bottle test",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q9",
+    "workflow": "acid_rain",
+    "description": "Identify acid-rain precursors",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "A Q10",
+    "workflow": "ozone",
+    "description": "Identify ozone-depleting compound classes",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Distinguish ozone depletion, gas persistence and warming"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "B Q21(a)",
+    "workflow": "dbp",
+    "description": "Explain disinfection byproducts and propose rational control approaches.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Explain and control disinfection byproducts"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "B Q21(b)(i-iii)",
+    "workflow": "disinfection_cstr",
+    "description": "Derive the stirred-contactor Chick-model equation; infer lethality and size ozone dose for target inactivation; compare disinfectants.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Derive Chick-model stirred-contactor disinfection"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "B Q22(a)",
+    "workflow": "orbital",
+    "description": "Explain the three orbital cycles affecting global climate.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Explain orbital climate cycles"
+  },
+  {
+    "date": "2013-12-10",
+    "ref": "B Q22(b)",
+    "workflow": "greenhouse",
+    "description": "Discuss three anthropogenic greenhouse gases and their warming effects.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2013-12-10.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "B Q21(a-b)",
+    "workflow": "box",
+    "description": "Calculate traffic emission per area; derive a city-box steady concentration, required inputs and roadside-model limitations.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Build a well-mixed air box model"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "B Q21(c)",
+    "workflow": "smog",
+    "description": "Explain photochemical smog and its relation to NOx.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Explain photochemical smog formation"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "B Q22(a)",
+    "workflow": "bod_concepts",
+    "description": "Compare BOD and COD and interpret the BOD/COD ratio for treatment choice.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "B Q22(b)",
+    "workflow": "bod_test",
+    "description": "Calculate ultimate BOD using bottle dilution, DO depletion and a reaction-rate constant.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2014-05-14",
+    "ref": "B Q22(c)",
+    "workflow": "sag",
+    "description": "Sketch and explain the oxygen-sag mechanisms and temperature effect.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-05-14.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "B Q21(a)",
+    "workflow": "water_process",
+    "description": "Propose a drinking-water treatment train and state each unit's purpose.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "B Q21(b)",
+    "workflow": "ocean",
+    "description": "Explain ocean acidification and its ecological effects.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "B Q21(c)",
+    "workflow": "bod_kinetics",
+    "description": "Convert BOD5 between temperatures using first-order kinetics.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "B Q22(a)",
+    "workflow": "cstr",
+    "description": "Develop a lake-phosphorus balance with inflows, outflow and sedimentation; state assumptions and particle-size effects.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Formulate a reactive mixed-system mass balance and size it"
+  },
+  {
+    "date": "2014-12-15",
+    "ref": "B Q22(b-c)",
+    "workflow": "nutrients",
+    "description": "Explain phosphorus-driven eutrophication and recommend ways to reduce lake phosphorus.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2014-12-15.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "B Q21(a)",
+    "workflow": "carbonate",
+    "description": "Use Henry's law and carbonate equilibria to calculate dissolved inorganic-carbon species and identify the dominant form.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "B Q21(b)",
+    "workflow": "alkalinity",
+    "description": "Calculate ocean-water alkalinity from carbonate species.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "B Q21(c)",
+    "workflow": "carbon_inventory",
+    "description": "Outline how to estimate total ocean inorganic-carbon storage, additional data and assumptions.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Estimate a reservoir carbon inventory"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "B Q22(a)(i-ii)",
+    "workflow": "stability",
+    "description": "Sketch stable, neutral and unstable air; explain inversion and pollutant dispersion.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2015-05-16",
+    "ref": "B Q22(b)",
+    "workflow": "bod_kinetics",
+    "description": "Infer the rate constant from BOD5 and ultimate BOD, then apply a temperature correction.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-05-16.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q11(a-b)",
+    "workflow": "lake",
+    "description": "Sketch seasonal thermal stratification and explain anoxic bottom-water formation of reduced compounds.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q11(c)",
+    "workflow": "air_health",
+    "description": "Discuss the environmental significance of hydrogen sulfide.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Explain pollutant health and environmental effects"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q12(a)",
+    "workflow": "mixing_depth",
+    "description": "Determine mixing depth from the altitude-temperature table and dry lapse rate.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Calculate mixing depth from temperature profiles"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q12(b)",
+    "workflow": "cstr",
+    "description": "Derive a first-order lagoon balance and minimum treatment volume; state assumptions.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Formulate a reactive mixed-system mass balance and size it"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q13(a)",
+    "workflow": "bod_kinetics",
+    "description": "Infer BOD rate, correct to colder temperature and interpret biological-treatment effectiveness.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q13(b)",
+    "workflow": "wastewater_train",
+    "description": "Draw conventional activated-sludge treatment and explain its unit processes.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Draw and explain a wastewater/sludge treatment train"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q13(c)",
+    "workflow": "asp_concepts",
+    "description": "Explain the food-to-microorganism ratio.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Interpret activated-sludge operation and F/M"
+  },
+  {
+    "date": "2015-12-18",
+    "ref": "B Q13(d)",
+    "workflow": "mbr",
+    "description": "Explain MBR operation, advantages and limitations relative to conventional activated sludge.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2015-12-18.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q11(a)",
+    "workflow": "sag",
+    "description": "Explain the oxygen-sag curve.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q11(b)",
+    "workflow": "stability",
+    "description": "Explain temperature inversion.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q12(a)",
+    "workflow": "carbonate",
+    "description": "Calculate groundwater bicarbonate, carbonate and calcium in equilibrium with CO2 and limestone.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q12(b)",
+    "workflow": "hardness",
+    "description": "Calculate alkalinity, total hardness and carbonate hardness as CaCO3.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q12(c)",
+    "workflow": "carbonate",
+    "description": "Predict chemical changes when equilibrium CO2 pressure increases.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q13(a)",
+    "workflow": "combustion",
+    "description": "Use plant efficiency and fuel composition to calculate coal consumption, carbon, SO2 and particulate emissions.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q13(b)",
+    "workflow": "air_control",
+    "description": "Explain SO2 impacts and choose emission-control measures for the plant.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q13(c)",
+    "workflow": "energy",
+    "description": "Calculate cooling-water flow from waste-heat allocation and allowable temperature rise.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2016-05-13",
+    "ref": "B Q13(d)",
+    "workflow": "combustion",
+    "description": "Evaluate whether natural gas is a cleaner fuel than coal.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-05-13.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q11(a-c)",
+    "workflow": "nutrients",
+    "description": "Explain eutrophication, calculate algal N/P mass ratio and limiting nutrient, and recommend water-quality improvements.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q12(a)",
+    "workflow": "oxygen_demand",
+    "description": "Balance oxidation to calculate carbonaceous and total theoretical oxygen demand.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q12(b)",
+    "workflow": "bod_kinetics",
+    "description": "Convert BOD5 between temperatures using corrected first-order rates.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q12(c)",
+    "workflow": "sag",
+    "description": "Sketch and explain river DO following accidental wastewater discharge.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q13(a)",
+    "workflow": "monod_theory",
+    "description": "Interpret microbial growth dependence on substrate using the Monod equation.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Interpret microbial growth-rate assumptions"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q13(b)",
+    "workflow": "mbr",
+    "description": "Identify MBR membrane types and their separation purpose.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2016-12-22",
+    "ref": "B Q13(c)",
+    "workflow": "asp_design",
+    "description": "Formulate a biomass mass balance for the submerged MBR and sludge-wasting stream.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2016-12-22.pdf",
+    "workflow_title": "Balance activated-sludge biomass and calculate HRT/SRT"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q11(a)",
+    "workflow": "oxygen_demand",
+    "description": "Calculate nitrogenous and total theoretical oxygen demand from an organic molecular formula.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q11(b)",
+    "workflow": "bod_concepts",
+    "description": "Compare COD, BOD5 and ultimate BOD and use BOD5/COD to select treatment.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q12(a)",
+    "workflow": "gas",
+    "description": "Convert CO ppmv to mass concentration at specified pressure and temperature.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Use the ideal-gas law and convert gas concentrations"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q12(b)",
+    "workflow": "acid_rain",
+    "description": "Explain acid rain, air-pollutant precursors and building-material erosion.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q12(c)",
+    "workflow": "stability",
+    "description": "Explain adiabatic/ambient lapse rates, air stability and dispersion effects.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2017-05-24",
+    "ref": "B Q13(a-c)",
+    "workflow": "disinfection_cstr",
+    "description": "Derive stirred-reactor disinfection efficiency, design volume from CT/log target and propose efficiency improvements.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-05-24.pdf",
+    "workflow_title": "Derive Chick-model stirred-contactor disinfection"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q11(a)(i)",
+    "workflow": "acid_rain",
+    "description": "Explain acid rain.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q11(a)(ii)",
+    "workflow": "ocean",
+    "description": "Explain ocean acidification.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q11(a)(iii)",
+    "workflow": "disinfectant_selection",
+    "description": "Explain secondary disinfection.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q11(a)(iv)",
+    "workflow": "dbp",
+    "description": "Explain disinfection byproducts.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Explain and control disinfection byproducts"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q11(b)",
+    "workflow": "lake",
+    "description": "Sketch winter stratification and assess whether it occurs in Hong Kong reservoirs.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Explain lake stratification and oxygen conditions"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q12(a)",
+    "workflow": "oxygen_demand",
+    "description": "Calculate theoretical and nitrogenous oxygen demand from an organic formula.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q12(b)",
+    "workflow": "decay",
+    "description": "Use a plug-flow river model and temperature-corrected decay to calculate downstream organic concentration.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q13(a)",
+    "workflow": "carbonate",
+    "description": "Calculate carbonate species from atmospheric equilibrium and pH.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q13(b)",
+    "workflow": "hardness",
+    "description": "Calculate alkalinity and total, carbonate and non-carbonate hardness as CaCO3.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q13(c)",
+    "workflow": "ksp",
+    "description": "Check calcium-carbonate scaling potential from the ion product.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Check solubility, precipitation and scaling"
+  },
+  {
+    "date": "2017-12-16",
+    "ref": "B Q13(d)",
+    "workflow": "softening",
+    "description": "Recommend a hardness-removal method.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2017-12-16.pdf",
+    "workflow_title": "Select hardness-removal methods"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q11(a)(i)",
+    "workflow": "nutrients",
+    "description": "Explain eutrophication.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q11(a)(ii)",
+    "workflow": "stability",
+    "description": "Explain temperature inversion.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q11(a)(iii)",
+    "workflow": "mbr",
+    "description": "Explain membrane bioreactors.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q11(a)(iv)",
+    "workflow": "air_primary_secondary",
+    "description": "Explain secondary air pollutants.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Classify primary and secondary air pollutants"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q11(b)",
+    "workflow": "greenhouse",
+    "description": "Illustrate a positive feedback loop in global warming.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q12(a)",
+    "workflow": "oxygen_demand",
+    "description": "Calculate total and carbonaceous theoretical oxygen demand.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q12(b)",
+    "workflow": "bod_concepts",
+    "description": "Explain BOD, measurement and the BOD-versus-time curve.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q13(a)",
+    "workflow": "mixing_depth",
+    "description": "Calculate mixing depth from a piecewise temperature profile.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Calculate mixing depth from temperature profiles"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q13(b)",
+    "workflow": "box",
+    "description": "Use traffic emissions, wind and mixing depth in a city-box NOx concentration calculation.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Build a well-mixed air box model"
+  },
+  {
+    "date": "2018-05-18",
+    "ref": "B Q13(c)",
+    "workflow": "air_health",
+    "description": "Identify environmental and health effects of NOx.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-05-18.pdf",
+    "workflow_title": "Explain pollutant health and environmental effects"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q11(a)",
+    "workflow": "air_criteria",
+    "description": "Define the air-quality health index.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Identify criteria pollutants and historical AQHI scope"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q11(b)",
+    "workflow": "greenhouse",
+    "description": "Define greenhouse gas.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q11(c)",
+    "workflow": "groundwater_flow",
+    "description": "Define hydraulic gradient for groundwater flow.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Use well hydraulics and groundwater travel time"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q11(d)",
+    "workflow": "hydrology",
+    "description": "Identify the basic hydrologic-cycle elements.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Describe the hydrologic cycle"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q11(e)",
+    "workflow": "disinfectant_selection",
+    "description": "Distinguish primary and secondary disinfectants.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Compare disinfectants and chlorination chemistry"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q12(a)",
+    "workflow": "energy",
+    "description": "Calculate power-station cooling-water flow from efficiency and heat allocation.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q12(b)",
+    "workflow": "combustion",
+    "description": "Calculate clean-air dilution volume after sulfur-emission control.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q13(a-b)",
+    "workflow": "population",
+    "description": "Calculate historical and projected exponential population-growth rates.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Calculate exponential population growth"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q13(c)(i-iv)",
+    "workflow": "reclamation",
+    "description": "Estimate reclamation population density and unit cost; assess environmental impacts and population-projection assumptions.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Assess reclamation scale and assumptions"
+  },
+  {
+    "date": "2018-12-17",
+    "ref": "B Q14(i-iv)",
+    "workflow": "groundwater_flow",
+    "description": "Use unconfined-well drawdown to find conductivity, another drawdown and contaminant travel time; discuss real transport effects.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2018-12-17.pdf",
+    "workflow_title": "Use well hydraulics and groundwater travel time"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q11(a)",
+    "workflow": "stability",
+    "description": "Explain adiabatic lapse rate and its environmental application.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q11(b)",
+    "workflow": "settling",
+    "description": "Explain sedimentation and its environmental application.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q11(c)",
+    "workflow": "solid_waste",
+    "description": "Explain sanitary landfill and its environmental application.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Explain sanitary-landfill behaviour"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q11(d)",
+    "workflow": "greenhouse",
+    "description": "Explain global warming potential and its application.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q11(e)",
+    "workflow": "hardness",
+    "description": "Explain water hardness and alkalinity and their applications.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q12(a)",
+    "workflow": "bod_kinetics",
+    "description": "Convert effluent BOD5 to ultimate BOD.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q12(b)",
+    "workflow": "mixing",
+    "description": "Calculate ultimate BOD after river-effluent mixing.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Balance conservative mixing and immediate oxygen deficit"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q12(c)",
+    "workflow": "decay",
+    "description": "Use river travel time and first-order decay for downstream remaining BOD.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q12(d)",
+    "workflow": "sag",
+    "description": "Describe downstream changes in organic waste, BOD and dissolved oxygen.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q13(a-d)",
+    "workflow": "climate_projection",
+    "description": "Combine population/economic/intensity growth rates, integrate carbon emissions and calculate future CO2, warming and doubling year.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Project emissions, atmospheric CO2 and warming"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q14(a-c)",
+    "workflow": "groundwater_flow",
+    "description": "Calculate confined-aquifer conductivity, pumping-well drawdown and contaminant travel time.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Use well hydraulics and groundwater travel time"
+  },
+  {
+    "date": "2019-05-06",
+    "ref": "B Q14(d)",
+    "workflow": "remediation",
+    "description": "Propose measures to control contaminant movement and explain their mechanisms.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2019-05-06.pdf",
+    "workflow_title": "Select groundwater-contamination controls"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(a)(i)",
+    "workflow": "oxygen_demand",
+    "description": "Explain nitrogenous biochemical oxygen demand.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(a)(ii)",
+    "workflow": "nutrients",
+    "description": "Explain eutrophication.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Diagnose eutrophication and nutrient limitation"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(a)(iii)",
+    "workflow": "settling",
+    "description": "Explain superficial velocity.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Size sedimentation tanks and interpret settling"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(a)(iv)",
+    "workflow": "stability",
+    "description": "Explain stable air.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(b)(i)",
+    "workflow": "mixing",
+    "description": "Calculate ultimate BOD immediately after wastewater-river mixing.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Balance conservative mixing and immediate oxygen deficit"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(b)(ii)",
+    "workflow": "decay",
+    "description": "Calculate remaining BOD at a specified downstream distance.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Apply first-order decay or plug-flow travel time"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q11(b)(iii)",
+    "workflow": "mixing",
+    "description": "Calculate initial oxygen deficit from mixed dissolved oxygen and saturation DO.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Balance conservative mixing and immediate oxygen deficit"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q12(a)",
+    "workflow": "ksp",
+    "description": "Determine sulfate concentration after finite CaSO4 dissolution reaches equilibrium.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Check solubility, precipitation and scaling"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q12(b)",
+    "workflow": "ksp",
+    "description": "Calculate equilibrium dissolved calcium and precipitated CaCO3 using carbonate speciation and solubility.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Check solubility, precipitation and scaling"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q12(c)",
+    "workflow": "ocean",
+    "description": "Discuss warming and ocean acidification.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q13(a)",
+    "workflow": "sag",
+    "description": "Explain effects of untreated sewage on river DO and ecosystem.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q13(b)",
+    "workflow": "wastewater_train",
+    "description": "Explain the units and sludge return in the supplied wastewater-treatment diagram.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Draw and explain a wastewater/sludge treatment train"
+  },
+  {
+    "date": "2021-12-18",
+    "ref": "B Q13(c)",
+    "workflow": "sludge",
+    "description": "Compare centrifugation with anaerobic digestion and their effects on treated sludge.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2021-12-18.pdf",
+    "workflow_title": "Compare anaerobic digestion, aerobic treatment and sludge processing"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q11(a)",
+    "workflow": "carbonate",
+    "description": "Calculate unpolluted rainwater pH in equilibrium with atmospheric CO2.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q11(b)",
+    "workflow": "acidbase",
+    "description": "Set up charge balance and calculate pH of rain containing a strong nitric-acid pollutant.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q12(a)",
+    "workflow": "bod_test",
+    "description": "Calculate seeded-bottle BOD5 with dilution-water oxygen-demand correction.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q12(b)",
+    "workflow": "alkalinity",
+    "description": "Calculate alkalinity as CaCO3 from carbonate, bicarbonate and pH.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Calculate or predict changes in alkalinity"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q12(c)",
+    "workflow": "air_control",
+    "description": "Discuss air-pollutant origins and appropriate control measures.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q13(a)",
+    "workflow": "sludge",
+    "description": "Compare activated sludge with anaerobic digestion.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Compare anaerobic digestion, aerobic treatment and sludge processing"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q13(b)",
+    "workflow": "wastewater_train",
+    "description": "Draw activated-sludge and anaerobic-digestion treatment with the specified water and biomass streams.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Draw and explain a wastewater/sludge treatment train"
+  },
+  {
+    "date": "2022-05-23",
+    "ref": "B Q13(c-d)",
+    "workflow": "asp_design",
+    "description": "Calculate activated-sludge reactor volume from HRT and determine SRT from solids inventory and sludge-wasting flows.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-05-23.pdf",
+    "workflow_title": "Balance activated-sludge biomass and calculate HRT/SRT"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q11(a)",
+    "workflow": "oxygen_demand",
+    "description": "Balance TNT oxidation and calculate its theoretical oxygen demand.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Balance reactions and calculate oxygen demand"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q11(b)",
+    "workflow": "carbonate",
+    "description": "Calculate pressurised CO2 soft-drink pH using weak-acid equilibrium.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q12(a)",
+    "workflow": "bod_kinetics",
+    "description": "Convert BOD5 between temperatures with a rate expressed per hour.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Infer BOD kinetics and correct for temperature"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q12(b)",
+    "workflow": "sag",
+    "description": "Draw and explain the oxygen-sag curve.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q12(c)",
+    "workflow": "hardness",
+    "description": "Use electroneutrality to find missing sodium and calculate total hardness.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Calculate and interpret hardness as CaCO3"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q13(a)",
+    "workflow": "monod",
+    "description": "Calculate well-mixed lagoon efficiency using HRT, growth, decay and half-saturation constants.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2022-12-12",
+    "ref": "B Q13(b)",
+    "workflow": "greenhouse",
+    "description": "Discuss global warming and adverse effects.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2022-12-12.pdf",
+    "workflow_title": "Explain greenhouse warming, effects and feedbacks"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q12(a)",
+    "workflow": "carbonate",
+    "description": "Calculate groundwater carbonate species and calcium from CO2 and limestone equilibria.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q12(b)",
+    "workflow": "charge",
+    "description": "Check electroneutrality of the calculated groundwater and explain whether charge balance is satisfied.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Formulate and check electroneutrality"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q13(a)",
+    "workflow": "water_process",
+    "description": "Compare water treatment and wastewater treatment.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q13(b)",
+    "workflow": "sag",
+    "description": "Draw the oxygen-sag curve and explain its controlling factors.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q13(c)",
+    "workflow": "water_process",
+    "description": "Design a drinking-water treatment train for a very hard inland source and explain its purposes.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q14(a)",
+    "workflow": "monod",
+    "description": "Determine reactor volume from circular geometry and calculate Monod biological-treatment efficiency.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2023-05-08",
+    "ref": "B Q14(b)",
+    "workflow": "ocean",
+    "description": "Explain formation and effects of ocean acidification and rising sea level.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-05-08.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q11(a)(i-ii)",
+    "workflow": "combustion",
+    "description": "Balance petroleum combustion and estimate annual CO2 emissions from energy demand and fuel heating value.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Connect fuel, energy and emissions"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q11(b)",
+    "workflow": "acidbase",
+    "description": "Derive the HOCl fraction as a pH function and evaluate it at three pH values.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Calculate non-carbonate acid-base speciation and pH"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q12(a)(i-iii)",
+    "workflow": "bod_concepts",
+    "description": "Complete CBOD, NBOD and remaining-demand curves; mark BOD5 and define the oxygen-demand terms.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Interpret BOD, COD, ThOD and biodegradability"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q12(b)",
+    "workflow": "bod_test",
+    "description": "Calculate ultimate CBOD from an unseeded dilution bottle and first-order kinetics.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Calculate BOD from dilution-bottle oxygen depletion"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q13(a)",
+    "workflow": "membranes",
+    "description": "Evaluate membrane water treatment relative to conventional treatment methods.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q13(b)",
+    "workflow": "water_process",
+    "description": "Design treatment for saline-region hard groundwater intended for drinking.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q13(c)",
+    "workflow": "monod",
+    "description": "Calculate a well-mixed lagoon's biological removal efficiency from volume, flow and Monod/decay constants.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q14(a-b)",
+    "workflow": "air_health",
+    "description": "Explain SO2/NO2 health and environmental effects and why PM2.5 poses greater risks than PM10.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Explain pollutant health and environmental effects"
+  },
+  {
+    "date": "2023-12-13",
+    "ref": "B Q14(c)",
+    "workflow": "air_control",
+    "description": "Propose strategies for reducing vehicle-pollutant emissions.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2023-12-13.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q11(1-2)",
+    "workflow": "cstr",
+    "description": "Balance water and pollutant in a two-inlet first-order stirred reactor and design volume for the effluent limit.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Formulate a reactive mixed-system mass balance and size it"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q12(1)(i-iv)",
+    "workflow": "sag",
+    "description": "Draw oxygen-sag/deoxygenation/reaeration curves, locate minimum DO/deficit and explain competing rates.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q12(2)",
+    "workflow": "monod",
+    "description": "Calculate bottle-test influent BOD and then Monod lagoon efficiency.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q13(1)",
+    "workflow": "recovery_process",
+    "description": "Design a membrane-based lithium-recovery train for acidic spent-battery leachate with competing metal ions.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Design a membrane-assisted resource-recovery train"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q13(2)",
+    "workflow": "water_process",
+    "description": "Design hospital-wastewater treatment for pathogens, organics, radioactive elements and ionic pollutants.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Select and justify a water-treatment train"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q14(1-3)",
+    "workflow": "ocean",
+    "description": "Explain carbonate chemistry, coral/ecosystem effects and mitigation of ocean acidification.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2024-05-18",
+    "ref": "B Q14(4)",
+    "workflow": "air_health",
+    "description": "Explain why PM2.5 is more hazardous than PM10.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-05-18.pdf",
+    "workflow_title": "Explain pollutant health and environmental effects"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q11(a)",
+    "workflow": "mixing",
+    "description": "Balance water and NaCl in the two-inlet stirred flask to find effluent concentration.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Balance conservative mixing and immediate oxygen deficit"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q11(b)",
+    "workflow": "carbonate",
+    "description": "Identify the carbonate species present in the mixed flask.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q11(c)",
+    "workflow": "charge",
+    "description": "Formulate charge balance for the flask solution.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Formulate and check electroneutrality"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q11(d-e)",
+    "workflow": "carbonate",
+    "description": "Calculate pH of air-equilibrated pure water and of the bicarbonate influent.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Solve carbonate speciation and CO2-water equilibria"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q12(a-b)",
+    "workflow": "sag",
+    "description": "Calculate the critical oxygen-deficit time/distance and draw/explain sag, deoxygenation and reaeration curves.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q13(a)",
+    "workflow": "recovery_process",
+    "description": "Design sustainable fluoride/silica recovery from semiconductor wastewater using separation and reaction steps.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Design a membrane-assisted resource-recovery train"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q13(b)",
+    "workflow": "mbr",
+    "description": "Classify MBRs and evaluate their advantages and disadvantages in sludge treatment.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q14(a-b)",
+    "workflow": "air_control",
+    "description": "Describe power-plant air controls and explain SCR NOx reduction.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q14(c)",
+    "workflow": "acid_rain",
+    "description": "Define acid rain and explain its harmful effects.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Explain acid-rain formation and damage"
+  },
+  {
+    "date": "2024-12-18",
+    "ref": "B Q14(d)",
+    "workflow": "ocean",
+    "description": "Explain three climate-change effects on oceans.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2024-12-18.pdf",
+    "workflow_title": "Explain ocean acidification and climate effects"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q11(A-B)",
+    "workflow": "cstr",
+    "description": "Calculate first-order treatment effluent; choose wastewater flow and determine reactor volume and groundwater dilution flow.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Formulate a reactive mixed-system mass balance and size it"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q11(C)",
+    "workflow": "energy",
+    "description": "Balance power-station waste heat to find the discharged cooling-stream temperature.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Balance sensible heat and cooling-water energy"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q11(D)",
+    "workflow": "thermal_pollution",
+    "description": "Assess environmental effects of the cooling discharge on the harbour.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Assess thermal-discharge impacts"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q12(A)(i-iv)",
+    "workflow": "sag",
+    "description": "Draw oxygen sag, locate minimum DO/deficit, explain deoxygenation/reaeration and assess the discharge.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Explain or calculate river oxygen sag"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q12(B)",
+    "workflow": "monod",
+    "description": "Determine effluent VSS for a well-mixed pond from growth, decay, substrate-utilisation and hydraulic conditions.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Solve Monod biological-reactor performance"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q12(C)",
+    "workflow": "mbr",
+    "description": "Classify MBR configurations and evaluate their sludge-treatment advantages and disadvantages.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Classify and evaluate membrane bioreactors"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q13(A)",
+    "workflow": "membranes",
+    "description": "Classify polymeric membranes by pore size, driving force and other relevant properties.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Classify membrane separation and selectivity"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q13(B)",
+    "workflow": "recovery_process",
+    "description": "Design an integrated membrane/reaction process to recover lithium, nickel and phosphate from spent batteries.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Design a membrane-assisted resource-recovery train"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q14(A-B)",
+    "workflow": "air_control",
+    "description": "Describe power-plant air controls and explain selective catalytic reduction of NOx.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Match pollutant sources to air-pollution controls"
+  },
+  {
+    "date": "2025-12-17",
+    "ref": "B Q14(C-D)",
+    "workflow": "stability",
+    "description": "Explain inversion, adiabatic lapse rate and why displaced parcels continue moving in unstable air.",
+    "page": 5,
+    "status": "Not solved",
+    "file": "CIVL1105-2025-12-17.pdf",
+    "workflow_title": "Interpret lapse rates, inversion and atmospheric stability"
+  }
+]

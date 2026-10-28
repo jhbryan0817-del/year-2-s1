@@ -1,0 +1,248 @@
+{
+  "course": "CIVL1105",
+  "catalogue_records": 23,
+  "downloaded_papers": 20,
+  "records": [
+    {
+      "date": "2026-05-13",
+      "record_id": "alma991045317897703414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991045317897703414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "status": "Skipped: restricted; contact lecturer"
+    },
+    {
+      "date": "2025-12-17",
+      "record_id": "alma991045224240303414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991045224240303414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2025-12-17.pdf",
+      "original_download_name": "exambase_168037.pdf",
+      "pages": 6,
+      "status": "Downloaded",
+      "sha256": "a6040246eff9995b63e748249f5deaef9c457bb5ffa4241ac5861fb95d066365"
+    },
+    {
+      "date": "2024-05-18",
+      "record_id": "alma991044986677503414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044986677503414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2024-05-18.pdf",
+      "original_download_name": "exambase_166089.pdf",
+      "pages": 5,
+      "status": "Downloaded",
+      "sha256": "61ae1398f9c505d3c68deb843fe3bf6accd7bacf9578185ec4d16dbbd528bd4a"
+    },
+    {
+      "date": "2025-05-14",
+      "record_id": "alma991045008098903414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991045008098903414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "status": "Skipped: restricted; contact lecturer"
+    },
+    {
+      "date": "2023-12-13",
+      "record_id": "alma991044986404003414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044986404003414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2023-12-13.pdf",
+      "original_download_name": "exambase_165502.pdf",
+      "pages": 6,
+      "status": "Downloaded",
+      "sha256": "58267305edb70668bf55f8e07b1a30cbbc3733982899bf1befe3ff3f3b694e82"
+    },
+    {
+      "date": "2022-12-12",
+      "record_id": "alma991044986311303414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044986311303414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2022-12-12.pdf",
+      "original_download_name": "exambase_164251.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "381fb327426da5a97d4aaa5f02390211a731f4718669736aedb550b12f987755"
+    },
+    {
+      "date": "2023-05-08",
+      "record_id": "alma991044986301003414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044986301003414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2023-05-08.pdf",
+      "original_download_name": "exambase_164827 (1).pdf",
+      "pages": 4,
+      "status": "Downloaded",
+      "sha256": "65f35e20f65c90a4db18e91a95c12118dad9a66bda64b5a0613116f67bf42dc2"
+    },
+    {
+      "date": "2024-12-18",
+      "record_id": "alma991044986269703414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044986269703414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2024-12-18.pdf",
+      "original_download_name": "exambase_166735.pdf",
+      "pages": 6,
+      "status": "Downloaded",
+      "sha256": "d553cc698810e9c5faf4e0691e456f6f11f92a50a5363f69d2ab8c64809d9f97"
+    },
+    {
+      "date": "2021-12-18",
+      "record_id": "alma991044985965103414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985965103414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2021-12-18.pdf",
+      "original_download_name": "exambase_163014.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "9b1431fabed93bbc9472859297d7b08f181a436b2dbb8608a8636ea0f0d3dfaf"
+    },
+    {
+      "date": "2022-05-23",
+      "record_id": "alma991044985943603414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985943603414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2022-05-23.pdf",
+      "original_download_name": "exambase_163567.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "7d0628cacf381528f2dad5bc8daf79c6ea82893fcf5e6adf3c0b4340e57c6bd2"
+    },
+    {
+      "date": "2019-05-06",
+      "record_id": "alma991044985795203414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985795203414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2019-05-06.pdf",
+      "original_download_name": "exambase_158059.pdf",
+      "pages": 4,
+      "status": "Downloaded",
+      "sha256": "ba02069a5df73d27b8b488837a58788b2e41b874ded7755ec98f921ba64b8344"
+    },
+    {
+      "date": "2021-05-17",
+      "record_id": "alma991044985709903414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985709903414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "status": "Skipped: restricted; contact lecturer"
+    },
+    {
+      "date": "2018-12-17",
+      "record_id": "alma991044985694203414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985694203414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2018-12-17.pdf",
+      "original_download_name": "exambase_157238.pdf",
+      "pages": 4,
+      "status": "Downloaded",
+      "sha256": "fb1446fb81969d41effa7bc6b7a84b1b50f8304ae411cf5cb322803f07781cbd"
+    },
+    {
+      "date": "2017-05-24",
+      "record_id": "alma991044985467903414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985467903414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2017-05-24.pdf",
+      "original_download_name": "exambase_155041.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "8489cc44d45a0214cec9af593854d9f991850844d04291d07c43e34cb3f8bacb"
+    },
+    {
+      "date": "2017-12-16",
+      "record_id": "alma991044985437703414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985437703414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2017-12-16.pdf",
+      "original_download_name": "exambase_155573.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "599daa892016accde89fef2680a593087c2abff5718197a5f91b9cb453d044f9"
+    },
+    {
+      "date": "2018-05-18",
+      "record_id": "alma991044985422403414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985422403414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2018-05-18.pdf",
+      "original_download_name": "exambase_156193.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "363fe3b60dbb52aed05a21bbe3f023be31444ec8959809a4ade5b9c6e41ca6ac"
+    },
+    {
+      "date": "2015-05-16",
+      "record_id": "alma991044985182603414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985182603414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2015-05-16.pdf",
+      "original_download_name": "exambase_152273.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "c2ed3ce4e14b4f451e3b41394064b8cc51d5b0fcf41a3c89db030178bb7ceaf2"
+    },
+    {
+      "date": "2015-12-18",
+      "record_id": "alma991044985160703414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985160703414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2015-12-18.pdf",
+      "original_download_name": "exambase_152904.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "25aadf3f0283811c8fb4396ff8fdcdb6a277d1866f97890cab10ddc92d48394f"
+    },
+    {
+      "date": "2016-05-13",
+      "record_id": "alma991044985135503414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985135503414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2016-05-13.pdf",
+      "original_download_name": "exambase_153581.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "1d230fce17b520cc0b92efb6ee97ad136f6d9f0fe53999d1c1e8b39d76d8b7f1"
+    },
+    {
+      "date": "2016-12-22",
+      "record_id": "alma991044985100703414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985100703414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2016-12-22.pdf",
+      "original_download_name": "exambase_154256.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "165ebeb5e9111620a37cc9ce9b87b70cf2b71e4b39419887adfa2962aad9f2d1"
+    },
+    {
+      "date": "2014-12-15",
+      "record_id": "alma991044985017403414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985017403414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2014-12-15.pdf",
+      "original_download_name": "exambase_151527.pdf",
+      "pages": 3,
+      "status": "Downloaded",
+      "sha256": "84c13a0f927a140d74619f46493932ee58dd73ea89383f189b17f687b06efde9"
+    },
+    {
+      "date": "2013-12-10",
+      "record_id": "alma991044984892003414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044984892003414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2013-12-10.pdf",
+      "original_download_name": "exambase_150124.pdf",
+      "pages": 4,
+      "status": "Downloaded",
+      "sha256": "13e87fbb262c8e52801c456fad14c7d455970b0622ebbd2feaa83d3f1d0a5f8d"
+    },
+    {
+      "date": "2014-05-14",
+      "record_id": "alma991044985077303414",
+      "source_url": "https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991044985077303414&context=L&vid=852JULAC_HKU:HKU&lang=en",
+      "accessed": "2026-10-28",
+      "file": "CIVL1105-2014-05-14.pdf",
+      "original_download_name": "exambase_150758.pdf",
+      "pages": 4,
+      "status": "Downloaded",
+      "sha256": "982d5bb8af36e82442cf922615076678a6ce9cf99a9d673d8a81a390ebb9bfa8"
+    }
+  ]
+}

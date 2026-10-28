@@ -1,0 +1,1796 @@
+{
+  "scope": "All mechanics Section A questions in 26 unique lecturer-selected predecessor papers; 2018 Dec duplicate excluded",
+  "row_unit": "One coherent workflow; dependent printed parts can be combined",
+  "questions": [
+    {
+      "session": "2009 May",
+      "question": "Q1(a-c)",
+      "workflow": "Beam deflection by integration or compatibility",
+      "description": "Find reactions, form a Macaulay bending-moment expression, and calculate deflection at C.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2009 May",
+      "question": "Q1(d)",
+      "workflow": "Moment-area theorem explanation",
+      "description": "State the First Moment-Area Theorem and illustrate it with suitable diagrams.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2009 May",
+      "question": "Q2(a-d)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find reactions and shear/moment either side of B; draw full SFD and tension-side BMD for an overhanging beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2009 May",
+      "question": "Q3(a)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Construct Mohr's circle for the given plane-stress element and calculate principal stresses.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2009 May",
+      "question": "Q3(b)",
+      "workflow": "Euler buckling calculations",
+      "description": "Size the wall thickness of a pin-ended rectangular hollow strut for a specified Euler buckling capacity.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2009 May",
+      "question": "Q3(c)",
+      "workflow": "Buckling and yield transition concepts",
+      "description": "Plot critical stress against slenderness, including the Euler branch and the yield-stress limit.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2009-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302661"
+    },
+    {
+      "session": "2010 May",
+      "question": "Q1(a-d)",
+      "workflow": "Beam deflection by integration or compatibility",
+      "description": "Find reactions, derive the deflection curve of a cantilever under linearly varying load, and obtain end deflections and rotations.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2010-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302662"
+    },
+    {
+      "session": "2010 May",
+      "question": "Q2(a-d)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find reactions, shear and moment at B, SFD and tension-side BMD for a beam with overhangs; locate maximum moment.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2010-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302662"
+    },
+    {
+      "session": "2010 May",
+      "question": "Q3(a)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Construct Mohr's circle and calculate the principal stresses of the given stress element.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2010-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302662"
+    },
+    {
+      "session": "2010 May",
+      "question": "Q3(b)(i-ii)",
+      "workflow": "Euler buckling calculations",
+      "description": "Compare axis-specific restraints of a hollow column; find load capacity and the length at which yielding precedes buckling.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2010-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302662"
+    },
+    {
+      "session": "2011 May",
+      "question": "Q1(a,b,d)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Express box-section second moment of area, size its width for a point load, and find load capacity for a specified width.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663"
+    },
+    {
+      "session": "2011 May",
+      "question": "Q1(c)",
+      "workflow": "Curvature from bending moment",
+      "description": "Determine the beam curvature for the section and loading obtained in the preceding part.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663"
+    },
+    {
+      "session": "2011 May",
+      "question": "Q1(e)",
+      "workflow": "Beam shear stress and connector design",
+      "description": "Calculate maximum section shear stress in the welded box-section beam under the specified central load.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663"
+    },
+    {
+      "session": "2011 May",
+      "question": "Q2(a-c)",
+      "workflow": "Beam deflection by integration or compatibility",
+      "description": "Find cantilever reactions, derive the elastic curve by the differential-equation method, and evaluate end deflections.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663"
+    },
+    {
+      "session": "2011 May",
+      "question": "Q3",
+      "workflow": "Plane-stress transformation derivations",
+      "description": "Derive the transformed normal-stress equation from first principles using the original and rotated stress elements.",
+      "pdf_page": 4,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2011-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302663"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q1(a)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for an overhanging beam under UDL alone.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q1(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for the same beam under an end point load alone.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q1(c)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for the same beam under an applied couple alone.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q1(d)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Superpose the individual-load diagrams to obtain the combined-load SFD/BMD, including all possible cases.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q2(a-c)",
+      "workflow": "Beam deflection by integration or compatibility",
+      "description": "Find reactions, derive the entire elastic curve by Macaulay's method, and choose the point load that makes midspan deflection zero.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 May",
+      "question": "Q3(a-b)",
+      "workflow": "Plane-stress transformation derivations",
+      "description": "Derive maximum/minimum principal stresses and prove that maximum-shear planes are 45 degrees to principal planes.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302664"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q1(a)",
+      "workflow": "Beam kinematics and differential-equation derivations",
+      "description": "Derive the relationship between curvature and rotation gradient and explain the physical meaning of curvature.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q1(b)(i-iii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find reactions, draw SFD/BMD, and locate maximum shear and moment for the given beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q2(a)",
+      "workflow": "Beam kinematics and differential-equation derivations",
+      "description": "Derive the elastic-curve differential equation dÂ²v/dxÂ² = M/(EI) from first principles.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q2(b)",
+      "workflow": "Beam deflection by integration or compatibility",
+      "description": "Find the prop reaction of a propped cantilever by enforcing zero vertical movement at B.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q3(a)",
+      "workflow": "Plane-stress transformation derivations",
+      "description": "Derive the equation of Mohr's circle from the stress-transformation equations.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2012 Dec",
+      "question": "Q3(b)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Construct Mohr's circle and plot the stress state for a counterclockwise rotated element.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2012-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302665"
+    },
+    {
+      "session": "2013 Dec",
+      "question": "Q1(a)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for an overhanging beam under full-length UDL.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666"
+    },
+    {
+      "session": "2013 Dec",
+      "question": "Q1(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for an overhanging beam under an end point load.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666"
+    },
+    {
+      "session": "2013 Dec",
+      "question": "Q1(c)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for an overhanging beam under a support couple.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666"
+    },
+    {
+      "session": "2013 Dec",
+      "question": "Q2(a-c)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Locate the T-section centroid, find maximum allowable UDL from the tensile limit, and calculate the largest flange bending stress.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666"
+    },
+    {
+      "session": "2013 Dec",
+      "question": "Q3(a-b)",
+      "workflow": "Euler buckling calculations",
+      "description": "Use joint equilibrium and member lengths to identify the critical L-section strut, then calculate the applied load causing Euler buckling.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2013-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302666"
+    },
+    {
+      "session": "2014 Dec",
+      "question": "Q1(a)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Calculate total change in length of two connected tapered circular bars under end and intermediate axial loads.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667"
+    },
+    {
+      "session": "2014 Dec",
+      "question": "Q1(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Sketch SFD/BMD for a UDL-loaded overhanging beam; derive the uplift condition and show its effect on the span BMD.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667"
+    },
+    {
+      "session": "2014 Dec",
+      "question": "Q2(a-b)",
+      "workflow": "Composite-section bending",
+      "description": "Compare allowable UDL for stacked dissimilar-material beams with and without composite action.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667"
+    },
+    {
+      "session": "2014 Dec",
+      "question": "Q3(a)",
+      "workflow": "Beam shear stress and connector design",
+      "description": "Choose bolt diameter and spacing to join the T-beam flange and web without exceeding allowable bolt shear.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667"
+    },
+    {
+      "session": "2014 Dec",
+      "question": "Q3(b)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Find bending/shear stresses at the specified T-beam point and obtain principal stresses and maximum shear stress.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2014-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302667"
+    },
+    {
+      "session": "2015 May",
+      "question": "Q1(a-c)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find reactions and draw scaled BMD, SFD and AFD for a multi-support beam with internal hinges and mixed loading.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302668"
+    },
+    {
+      "session": "2015 May",
+      "question": "Q2(a)",
+      "workflow": "Composite-section bending",
+      "description": "Find allowable UDL for an overhanging composite beam using the different elastic moduli and stress limits.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302668"
+    },
+    {
+      "session": "2015 May",
+      "question": "Q2(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Sketch SFD/BMD for the equal-panel beam with unequal point loads.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302668"
+    },
+    {
+      "session": "2015 May",
+      "question": "Q3",
+      "workflow": "Beam shear stress and connector design",
+      "description": "Design longitudinal bolt spacing for a made-up timber box beam and count the bolts subject to installation-spacing restrictions.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302668"
+    },
+    {
+      "session": "2015 Dec",
+      "question": "Q1",
+      "workflow": "Bending stress and section sizing",
+      "description": "Find allowable UDL for an overhanging beam with unequal I-section flanges and different tension/compression limits.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669"
+    },
+    {
+      "session": "2015 Dec",
+      "question": "Q2(a)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Sketch AFD, SFD and tension-side BMD for a simply supported rigid frame under horizontal loading.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669"
+    },
+    {
+      "session": "2015 Dec",
+      "question": "Q2(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Sketch SFD/BMD for an overhanging beam with UDL over the supported portion.",
+      "pdf_page": 4,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669"
+    },
+    {
+      "session": "2015 Dec",
+      "question": "Q2(c)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Sketch SFD/BMD for a beam with unequal end point loads and unequal overhangs, showing relative diagram values.",
+      "pdf_page": 4,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669"
+    },
+    {
+      "session": "2015 Dec",
+      "question": "Q3",
+      "workflow": "Euler buckling calculations",
+      "description": "Compare major/minor-axis buckling of an I-section column with intermediate restraints on its minor axis and find the critical load.",
+      "pdf_page": 5,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2015-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302669"
+    },
+    {
+      "session": "2016 May",
+      "question": "Q1",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Resolve loading and reactions for a beam with an inclined middle segment; draw AFD/SFD/BMD along its shape and locate maximum moment.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670"
+    },
+    {
+      "session": "2016 May",
+      "question": "Q2",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "At a specified point in a Z-section beam, calculate principal stresses and maximum shear stress, with their directions.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670"
+    },
+    {
+      "session": "2016 May",
+      "question": "Q3(a)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Find stresses in two dissimilar concentric bars between fixed supports after the support separation is reduced.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670"
+    },
+    {
+      "session": "2016 May",
+      "question": "Q3(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Sketch SFD/BMD for a simply supported beam under an off-centre couple, showing relative values.",
+      "pdf_page": 4,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670"
+    },
+    {
+      "session": "2016 May",
+      "question": "Q3(c)",
+      "workflow": "Buckling-axis identification",
+      "description": "Identify and draw the expected buckling axis for rectangular, T, I and equal-angle cross-sections.",
+      "pdf_page": 4,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302670"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw signed SFD and tension-side BMD for a cantilever with partial UDL.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw SFD/BMD for a three-hinge frame under a moment applied beside its internal hinge.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q2(a-b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for the beam supported through an axially deformable pinned truss member.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q2(c)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Find maximum beam stress and its location for the beam-truss assembly.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q2(d)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Calculate displacement of connection C using the axial deformation of its truss support.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q2(e)",
+      "workflow": "Coupled-member deflection and compatibility",
+      "description": "Combine support-member movement and beam bending to determine the deflection at B.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q3(a)",
+      "workflow": "Euler buckling calculations",
+      "description": "Use end-restraint conditions and Euler theory to calculate critical loads of two frames with axially rigid members.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2017 May",
+      "question": "Q3(b)",
+      "workflow": "Buckling and yield transition concepts",
+      "description": "Explain how the two frame buckling loads change as member axial rigidity is reduced from infinity to zero.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302672"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for a simply supported beam loaded by a moment on its overhang.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for connected beam segments with an internal hinge and partial UDL.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q2(a)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw the BMD for a concrete beam under self-weight, suspended by two steel wires.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q2(b)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Find elongation of the two suspension wires under the beam's gravity load.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q2(c)",
+      "workflow": "Coupled-member deflection and compatibility",
+      "description": "Sketch the suspended beam deformation and calculate central deflection, including support-wire extension.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q2(d)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Determine the largest additional central point load before tensile cracking and identify where the first crack occurs.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q2(e)",
+      "workflow": "Deformation sketches from support constraints",
+      "description": "Sketch the beam deformation after adding a third, infinitely stiff suspension wire at midspan.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q3(a)",
+      "workflow": "Euler buckling calculations",
+      "description": "Find the applied load limited by Euler buckling of the circular steel brace supporting a T-section beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q3(b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw AFD, SFD and BMD for the beam supported by the inclined brace.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q3(c)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Calculate maximum tensile and compressive bending stresses and their positions in the T-section beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2019 May",
+      "question": "Q3(d-e)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Find the brace contraction, then use rigid-beam kinematics to obtain end displacement when beam bending stiffness is infinite.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2019-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302676"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw signed SFD and tension-side BMD for an inclined simply supported beam under vertical UDL.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw SFD/BMD for a pin-supported frame with a moment-release joint and three applied forces.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q2(a-b)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw BMD and AFD for an overhanging beam under vertical/horizontal point loads and partial UDL.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q2(c)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Find extreme tensile/compressive normal stress from the combination of axial force and bending moment.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q2(d)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Build the stress element at the section centroid including transverse shear, then find principal tensile/compressive stresses.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q2(e)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Evaluate von Mises safety at top, bottom and centre on both sides of a critical section and locate the governing point.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q3(a)(i-ii)",
+      "workflow": "Circular-shaft torsion",
+      "description": "Calculate shear stress and angle of twist of a thin-walled hollow circular cantilever shaft.",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2022 May",
+      "question": "Q3(b)(i-ii)",
+      "workflow": "Euler buckling calculations",
+      "description": "Calculate truss member axial forces, then check which compression members buckle individually under Euler theory.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2022-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302681"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw signed SFD and tension-side BMD for a simply supported beam with upward point load and partial UDL.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Use the zero moment at a release joint to draw frame SFD/BMD under column point load and beam UDL.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q2(a)(i-ii)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Find maximum normal/shear stresses of an axially loaded cantilever I-beam and check von Mises safety, including its flange/web junction.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Calculate maximum and minimum principal stresses for the given plane-stress element.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Check the specified plane-stress element against the Tresca criterion using its uniaxial yield stress.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q3(a)(i-ii)",
+      "workflow": "Circular-shaft torsion",
+      "description": "Find maximum shaft shear stress and the angle of twist at C for a solid circular shaft with torque at an interior point.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q3(b)(i)",
+      "workflow": "Euler buckling calculations",
+      "description": "Find allowable load of a circular pin-ended column with midpoint lateral restraint and a factor of safety.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2023 Dec",
+      "question": "Q3(b)(ii)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Calculate column shortening at the allowable load obtained from Euler buckling.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2023-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302683"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for a horizontal beam under UDL and an external couple.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw SFD/BMD for a fixed/pin/roller frame under lateral distributed load and a beam point load.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q2(a)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Convert beam self-weight to loading, determine combined bending/shear stresses and check a slender-web cantilever with von Mises.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Find principal tensile/compressive stresses and the direction of the principal compressive stress.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Check the given plane-stress state using the von Mises criterion and the allowable equivalent stress.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q3(a)",
+      "workflow": "Circular-shaft torsion",
+      "description": "Choose the minimum solid-shaft diameter satisfying both allowable shear stress and allowable twist per unit length.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 May",
+      "question": "Q3(b)",
+      "workflow": "Euler buckling calculations",
+      "description": "Compare in-plane and out-of-plane buckling of a rectangular column with one-direction midpoint restraint; find governing load and compressive stress.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302684"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw SFD/BMD for a beam under two applied moments and a point load on its overhang.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw SFD/BMD for every member of a two-pin-supported frame with an internal hinge.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q2(a)(i-ii)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Find maximum bending/shear stresses in a UDL-loaded cantilever I-beam and evaluate von Mises safety.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Transform the given plane-stress state to an element rotated 45 degrees counterclockwise.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Check von Mises safety of the plane-stress point against the given yield strength.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q3(i)",
+      "workflow": "Euler buckling calculations",
+      "description": "Compare both principal-axis buckling modes for a midpoint-restrained column and find allowable load with a factor of safety of two.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2024 Dec",
+      "question": "Q3(ii)",
+      "workflow": "Axial deformation and compatibility",
+      "description": "Calculate the column end displacement at the allowable load.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2024-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302686"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q1(a)(i-ii)",
+      "workflow": "Circular-shaft torsion",
+      "description": "Find maximum shear stress and free-end twist of a thick-walled circular tube, using a nonuniform shear-stress distribution.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw SFD/BMD for all members of a frame with an internal hinge, two hinge supports, and loads on a column and beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q2(a)(i-ii)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Combine self-weight bending, transverse shear and axial tension in a thin-web cantilever; check strength using Tresca.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Transform the plane-stress element through 30 degrees counterclockwise.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Check von Mises safety of the given stress state using its yield strength.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 May",
+      "question": "Q3",
+      "workflow": "Euler buckling calculations",
+      "description": "Check the hollow steel tube supporting a rigid loaded beam for buckling with the stated guided/sliding base restraint.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302688"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q1(a)(i)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Draw a tension-side BMD for a hinged beam with supports at C and E under its end point load.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q1(a)(ii)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Choose the smallest square solid beam section satisfying the flexural stress limit.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q1(b)(i)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Draw BMD for every member of a rigidly connected beam-column frame under horizontal point load and beam UDL.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q1(b)(ii)",
+      "workflow": "Bending stress and section sizing",
+      "description": "Determine maximum compressive normal stress in the box-section frame, including the internal axial force where applicable.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q2(a)(i-ii)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Find maximum normal/shear stresses in a point-loaded simply supported beam and check von Mises safety.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Transform the given plane-stress state to a 60-degree counterclockwise orientation.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Evaluate von Mises safety of the plane-stress point.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2025 Dec",
+      "question": "Q3",
+      "workflow": "Euler buckling calculations",
+      "description": "Use the beam load split and different lower-end restraints to find the critical applied load governed by either supporting column.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2025-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302690"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q1(a)(i)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find the overhang/span ratio giving zero midpoint moment and draw the BMD for the uniformly loaded double-overhang beam.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q1(a)(ii)",
+      "workflow": "Beam internal-force diagrams",
+      "description": "Find the overhang/span ratio equalising positive midpoint moment and the magnitude of negative support moment; draw the BMD.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q1(b)(i-ii)",
+      "workflow": "Frame internal-force diagrams",
+      "description": "Resolve an inclined end load and draw AFD/SFD/BMD for every member of a rigidly joined beam-column frame.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q2(a)(i-ii)",
+      "workflow": "Beam combined stresses and failure checks",
+      "description": "Find tensile/compressive normal stresses and maximum shear in the given beam section, then check Tresca safety.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q2(b)(i)",
+      "workflow": "Numerical plane-stress transformation",
+      "description": "Transform the plane-stress state to a 45-degree counterclockwise rotated element.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q2(b)(ii)",
+      "workflow": "Failure criteria for a plane-stress element",
+      "description": "Check von Mises safety of the specified plane-stress point.",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q3(a)",
+      "workflow": "Circular-shaft torsion",
+      "description": "Find the maximum rod diameter consistent with a specified end rotation and allowable shear strain.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2026 May",
+      "question": "Q3(b)",
+      "workflow": "Euler buckling calculations",
+      "description": "Compare in-plane and out-of-plane Euler buckling of a rectangular column with midpoint restraint in only one direction.",
+      "pdf_page": 3,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2026-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302699"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q1(a)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a simply supported beam loaded by a UDL over its middle segment.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q1(b)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a three-hinged frame with opposite applied moments either side of the crown hinge.",
+      "workflow": "Frame internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q2(a)",
+      "description": "Draw the BMD of an overhanging beam carrying an inclined point force and UDL.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q2(b)",
+      "description": "Draw the AFD of the overhanging beam under the inclined point force.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q2(c)",
+      "description": "Find maximum tensile and compressive stresses and their positions in the T-beam under combined axial force and bending.",
+      "workflow": "Bending stress and section sizing",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q2(d)",
+      "description": "Check the T-beam against the Tresca allowable-shear criterion and locate the maximum shear.",
+      "workflow": "Beam combined stresses and failure checks",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q3(a)",
+      "description": "Find every bar force in each of two square trusses with opposite diagonal arrangements, in terms of the applied horizontal load.",
+      "workflow": "Truss equilibrium and member forces",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2016 Dec",
+      "question": "Q3(b)",
+      "description": "Use Euler buckling of pin-ended truss members to find each truss critical applied load and identify the member that buckles.",
+      "workflow": "Euler buckling calculations",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2016-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302671"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q1(a)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a 30-degree inclined simply supported beam under vertical UDL.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q1(b)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a pin-and-roller-supported frame with a horizontal point force on a column.",
+      "workflow": "Frame internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q2(a)(i)",
+      "description": "Draw the AFD of a two-material axial bar fixed at one end and loaded at its junction.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q2(a)(ii)",
+      "description": "Calculate displacements of the free end and loaded junction of a two-material axial bar.",
+      "workflow": "Axial deformation and compatibility",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q2(b)(i)",
+      "description": "For an axial bar fixed at both ends with equal elastic moduli, find the AFD and junction displacement.",
+      "workflow": "Axial deformation and compatibility",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q2(b)(ii)",
+      "description": "For an axial bar fixed at both ends with unequal elastic moduli, find the AFD and junction displacement.",
+      "workflow": "Axial deformation and compatibility",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q3(a)(i)",
+      "description": "Draw the BMD for a square-section cantilever column under a horizontal force at its free end.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q3(a)(ii)",
+      "description": "Find the cantilever-column tip deflection and the maximum positive bending stress and its position.",
+      "workflow": "Beam deflection by integration or compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q3(b)(i)",
+      "description": "For two cantilever columns linked at their tops by a truss element with zero axial stiffness, draw BMD and calculate loaded-top deflection.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2017 Dec",
+      "question": "Q3(b)(ii)",
+      "description": "Repeat BMD and loaded-top deflection for the two-column system when the linking truss has infinite axial stiffness.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2017-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302673"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q1(a)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a beam fixed at one end, roller-supported at the other, with a central hinge and point force.",
+      "workflow": "Beam internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q1(b)(i-ii)",
+      "description": "Draw signed SFD and tensile-side BMD for a frame under UDL on its horizontal member.",
+      "workflow": "Frame internal-force diagrams",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q2(a)",
+      "description": "Calculate tip deflection for two stacked, unbonded cantilever beams of thickness h and 3h.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q2(b)",
+      "description": "Calculate tip deflection for the same two cantilever beams when pinned together at the loaded end.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q2(c)",
+      "description": "Find the allowable tip load and failure surface for the two stacked, unbonded beams using the allowable normal stress.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q2(d)",
+      "description": "Find the allowable tip load and failure surface when the two beams are pinned together at the loaded end.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q3(a)",
+      "description": "Express the central point load on a simply supported beam in terms of its central deflection, EI and span.",
+      "workflow": "Beam deflection by integration or compatibility",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q3(b)",
+      "description": "Derive the central load-deflection relation when a linear spring supports the beam midpoint.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 1,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q3(c)",
+      "description": "Derive the central load-deflection relation when a finite-axial-stiffness vertical rod supports the midpoint; neglect rod buckling.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q3(d)",
+      "description": "Derive the load-deflection relation for two identical simply supported beams linked at their midpoints by an axially rigid rod.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2018 May",
+      "question": "Q3(e)",
+      "description": "Repeat the two-beam midpoint load-deflection relation for a rod with finite axial stiffness.",
+      "workflow": "Coupled-member deflection and compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2018-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302674"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q1(a)",
+      "description": "Calculate tip deflection for two stacked, unbonded cantilever beams with upper/lower thicknesses 3h and h.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q1(b)",
+      "description": "Calculate tip deflection for the same two beams when pinned together at their loaded ends.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q1(c)",
+      "description": "Find the allowable tip load and failure surface of the unbonded two-beam system using the allowable normal stress.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q1(d)",
+      "description": "Find the allowable tip load and failure surface of the end-pinned two-beam system.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q2(a)",
+      "description": "For a circular bar under end torque and bending moment, locate and calculate maximum torsional shear stress.",
+      "workflow": "Circular-shaft torsion",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q2(b)",
+      "description": "For the same circular bar, locate and calculate maximum bending stress.",
+      "workflow": "Bending stress and section sizing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q1(a)",
+      "description": "Calculate tip deflection for two stacked, unbonded cantilever beams with upper/lower thicknesses 4h and h.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q1(b)",
+      "description": "Calculate tip deflection for the same two beams when pinned together at their loaded ends.",
+      "workflow": "Layered-beam deflection and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q1(c)",
+      "description": "Find the allowable tip load and failure surface of the unbonded two-beam system using the allowable normal stress.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q1(d)",
+      "description": "Find the allowable tip load and failure surface of the end-pinned two-beam system.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q1(e)",
+      "description": "Compare the conclusions from the unbonded and end-pinned layered-beam cases.",
+      "workflow": "Layered-beam strength and load sharing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q3(a)",
+      "description": "For a circular bar under end torque and bending moment, locate and calculate maximum torsional shear stress.",
+      "workflow": "Circular-shaft torsion",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q3(b)",
+      "description": "For the same circular bar, locate and calculate maximum bending stress.",
+      "workflow": "Bending stress and section sizing",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2021 May",
+      "question": "Q3(a)",
+      "description": "Find maximum shear stress and its directions for a biaxial stress state using plane-stress transformation equations; show the stress state.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302679"
+    },
+    {
+      "session": "2021 May",
+      "question": "Q3(b)",
+      "description": "Find the same maximum shear stress and directions using Mohr's circle; show the stress state.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302679"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q1(a)",
+      "description": "Find the maximum applied junction torque in a bronze-steel compound shaft restrained by rigid end supports.",
+      "workflow": "Indeterminate compound-shaft torsion",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q1(b)",
+      "description": "Choose the bronze/steel length ratio so both shaft materials reach their allowable shear stress together, and find the corresponding torque.",
+      "workflow": "Indeterminate compound-shaft torsion",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q2(a)",
+      "description": "Use plane-stress transformation equations to find stresses on a plane rotated 40 degrees counterclockwise for a given biaxial-plus-shear state.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q2(b)",
+      "description": "Find stresses on the same rotated plane using Mohr's circle.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q2(c)",
+      "description": "Use Mohr's circle to find principal stresses, maximum shear stress and their directions; show the stress states.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q3(a)",
+      "description": "Find every bar force in two square trusses with different diagonal arrangements under horizontal load.",
+      "workflow": "Truss equilibrium and member forces",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2021 Dec",
+      "question": "Q3(b)",
+      "description": "Use Euler buckling to find each truss critical applied load and identify the bar that buckles.",
+      "workflow": "Euler buckling calculations",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302680"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q3(a–b)",
+      "description": "Find the maximum compressive load of a rectangular vertical bar fixed at its base and pin-connected to a long horizontal beam; determine whether buckling or material failure governs.",
+      "workflow": "Euler buckling and material-failure comparison",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q2(a–b)",
+      "description": "Find the maximum compressive load of a rectangular vertical bar fixed at its base and pin-connected to a long horizontal beam; determine whether buckling or material failure governs.",
+      "workflow": "Euler buckling and material-failure comparison",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2021 May",
+      "question": "Q2(a–b)",
+      "description": "Find the maximum compressive load of a pin-ended I-section column with midpoint lateral restraint in one plane only; determine whether buckling or material failure governs.",
+      "workflow": "Euler buckling and material-failure comparison",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302679"
+    },
+    {
+      "session": "2020 May",
+      "question": "Q2(c–d)",
+      "description": "Locate and calculate maximum and minimum principal stresses under combined torsion and bending.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302677"
+    },
+    {
+      "session": "2020 Dec",
+      "question": "Q3(c–d)",
+      "description": "Locate and calculate maximum and minimum principal stresses under combined torsion and bending.",
+      "workflow": "Numerical plane-stress transformation",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2020-dec-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302678"
+    },
+    {
+      "session": "2021 May",
+      "question": "Q1(a–b)",
+      "description": "Derive the elastic-curve equations for a cantilever with partial UDL and a tip force, then determine its tip deflection.",
+      "workflow": "Beam deflection by integration or compatibility",
+      "pdf_page": 2,
+      "status": "Not solved",
+      "file": "past-papers/CIVL1113-2021-may-mechanics.pdf",
+      "source_url": "https://moodle.hku.hk/mod/resource/view.php?id=4302679"
+    }
+  ]
+}

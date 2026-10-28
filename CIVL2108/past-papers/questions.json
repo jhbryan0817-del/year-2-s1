@@ -1,0 +1,1460 @@
+[
+  {
+    "date": "2013-05-13",
+    "ref": "Q1(a-b)",
+    "description": "Compare lump-sum and remeasurement contracts for phased university renovations; explain and recommend or reject a term contract.",
+    "workflow": "contract_types",
+    "page": 1,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q2(a)",
+    "description": "Explain activity-on-arrow networks and their main disadvantage.",
+    "workflow": "network_methods",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q2(b-c)",
+    "description": "Complete the activity-on-node network; calculate early/late dates and total/free floats.",
+    "workflow": "cpm",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q2(d)",
+    "description": "Explain measures to monitor and control project progress.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q3(a-b)",
+    "description": "Design functional units and an organisation chart for an expanding contractor; compare project and matrix structures.",
+    "workflow": "organisation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q4(a-b)",
+    "description": "Critique residual land valuation using its components, assumptions, risks and sensitivity to uncertain inputs.",
+    "workflow": "appraisal_methods",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q5(a)",
+    "description": "Build the unit rate of a sloping reinforced-concrete roof slab from materials, gang constants, plant and difficulty allowances.",
+    "workflow": "unit_rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-05-13",
+    "ref": "Q5(b)",
+    "description": "Explain front/rear loading with an example and the client's response to loaded tenders.",
+    "workflow": "tender_errors",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-05-13.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q1(a)",
+    "description": "Map civil engineers' competent, collaborative and ethical responsibilities across project stages.",
+    "workflow": "roles",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q1(b)",
+    "description": "Evaluate forming rings and cover pricing, and explain how consultant engineers should respond.",
+    "workflow": "ethics",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q2(a-b)",
+    "description": "Diagram design-and-build and management contracting and allocate the parties' risks under each route.",
+    "workflow": "procurement",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q3(a)",
+    "description": "Explain a tender qualification and respond to the contractor's proposed extra substructure cost.",
+    "workflow": "tender_errors",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q3(b-d)",
+    "description": "Calculate and interpret the percentage adjustment after an arithmetic error; explain the two tender-error procedure options.",
+    "workflow": "tender_arithmetic",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q4(a)",
+    "description": "Calculate wind-farm IRR with changing revenue, operating costs, six-year replacement costs and reversion.",
+    "workflow": "irr",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q4(b)",
+    "description": "Identify government considerations when evaluating a design-build-finance-operate proposal.",
+    "workflow": "procurement",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q5(a)",
+    "description": "Explain activity logic and the four common predecessor relationships using examples.",
+    "workflow": "activity_logic",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2013-12-14",
+    "ref": "Q5(b-c)",
+    "description": "Draw a resource-requirement histogram from dates, durations and BQ amounts; assess and improve its resource profile.",
+    "workflow": "resource_profile",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2013-12-14.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q1(a-c)",
+    "description": "Assess lump-sum pricing for emergency railway repairs; recommend alternatives and a contract for planned track maintenance.",
+    "workflow": "contract_types",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q2(a-b)",
+    "description": "Compare functional, project and matrix structures; select and chart a structure for an airport joint venture.",
+    "workflow": "organisation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q3(a)",
+    "description": "Calculate a hotel site's maximum land price using floor areas, income, operating cost, finance, yield and developer profit.",
+    "workflow": "residual",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q3(b)",
+    "description": "Explain the stated limitation of discounted-cash-flow methods in the maximum-land-price exercise.",
+    "workflow": "appraisal_methods",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q4(a)",
+    "description": "Identify five circumstances permitting an Engineer's Instruction under the civil-engineering conditions of contract.",
+    "workflow": "engineer_instruction",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q4(b)",
+    "description": "Audit and revise the contractor's 150 mm concrete-slab estimate in Appendix I, checking quantities, plant and gang-output calculations.",
+    "workflow": "unit_rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q5(a)(i-iv)",
+    "description": "Explain and schedule coordination of information, materials, project parties, plant and equipment.",
+    "workflow": "progress",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-05-12",
+    "ref": "Q5(b)",
+    "description": "Distinguish client-caused and contractor-caused delay and explain their different consequences.",
+    "workflow": "delay_entitlements",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-05-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q1(a-b)",
+    "description": "Evaluate design-and-build and other procurement routes for innovation and sustainable residential development.",
+    "workflow": "procurement",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q2(a)",
+    "description": "Diagnose front loading and qualifications in a tender and explain the engineer's response.",
+    "workflow": "tender_errors",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q2(b)",
+    "description": "Explain arithmetic-error procedures for a lump-sum tender and their purpose from the client's perspective.",
+    "workflow": "tender_arithmetic",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q2(c)",
+    "description": "Explain cover pricing and evaluate whether submitting a covered-price tender is ethical.",
+    "workflow": "ethics",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q3(a)",
+    "description": "Calculate toll-road IRR and assess viability with periodic major maintenance and concession handback.",
+    "workflow": "irr",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q3(b)",
+    "description": "Identify the toll-road investment's main risks and ways to avoid or reduce them.",
+    "workflow": "project_risks",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q4(a)",
+    "description": "Explain why major infrastructure is exposed to delay, cost-overrun and quality risks, using examples.",
+    "workflow": "project_risks",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q4(b)",
+    "description": "Explain project-manager duties across stages and how they support project objectives.",
+    "workflow": "roles",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q5(a)(i-iii)",
+    "description": "Draw the activity-on-node network, identify its critical path and calculate/explain total and free floats.",
+    "workflow": "cpm",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2014-12-12",
+    "ref": "Q5(b)",
+    "description": "Diagram a repetitive programme to avoid idle resources and explain how turnover is determined.",
+    "workflow": "repetitive",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2014-12-12.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q1(a-b)",
+    "description": "Evaluate two-stage selective and serial tendering for a series of Smart City projects.",
+    "workflow": "tendering",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q2(a), Q2(c) (hand-corrected b)",
+    "description": "Draw the network with start-to-start lags, find the critical path and calculate early/late dates and floats.",
+    "workflow": "cpm",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q2(d) (hand-corrected c)",
+    "description": "Explain project-manager measures for monitoring and controlling progress.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q3(a)",
+    "description": "Relate civil-engineering responsibilities to competent, collaborative and ethical project delivery.",
+    "workflow": "roles",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q3(b)",
+    "description": "Identify unethical behaviour when selecting approved-list tenderers and propose the consultant's response.",
+    "workflow": "ethics",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q4(a-b)",
+    "description": "Build a tapered concrete retaining-wall unit rate; justify labour allowances and the effect of wall thickness.",
+    "workflow": "unit_rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q5(a-b), first b",
+    "description": "Compare appraisal methods, recommend one for hotel-site auction valuation, and explain its components and assumptions.",
+    "workflow": "appraisal_methods",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-05-18",
+    "ref": "Q5(b), second b",
+    "description": "Discuss risks affecting the success of the hotel investment.",
+    "workflow": "project_risks",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-05-18.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q1(a-c)",
+    "description": "Select contracts for urgent bridge-damage repairs and planned pavement replacement; justify their mechanisms.",
+    "workflow": "contract_types",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q2(a)",
+    "description": "Calculate maximum service-apartment site value using occupancy, floor space, rent, finance, yield and advertising cost.",
+    "workflow": "residual",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q2(b)",
+    "description": "Explain residual-method weaknesses and when discounted cash flow should be used instead.",
+    "workflow": "appraisal_methods",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q3(a-c)",
+    "description": "Compare functional, project and matrix structures for a company's first mainland mega-project; select and chart one.",
+    "workflow": "organisation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q4(a-c)",
+    "description": "Calculate turnover and prepare a repetitive programme for twenty identical residential units; justify turnover planning.",
+    "workflow": "repetitive",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q4(d)",
+    "description": "Distinguish the repetitive programme from outline and master programmes.",
+    "workflow": "programmes",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q5(a)",
+    "description": "Explain cover pricing and ring formation and evaluate the associated ethical issues.",
+    "workflow": "ethics",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q5(b)",
+    "description": "Explain qualifications and front loading and determine the engineer's response.",
+    "workflow": "tender_errors",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2015-12-09",
+    "ref": "Q5(c)",
+    "description": "Explain confirm-or-withdraw tender-error procedures for lump sum and whether they also apply to remeasurement.",
+    "workflow": "tender_arithmetic",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2015-12-09.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q1(a-b)",
+    "description": "Evaluate open tendering, negotiation and serial tendering for university halls on different sites and schedules.",
+    "workflow": "tendering",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q2(a)",
+    "description": "Calculate power-plant IRR with changing annual income, six-year replacement costs and terminal reversion.",
+    "workflow": "irr",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q2(b)",
+    "description": "Explain the residual method and assess its suitability for the power-generation scheme.",
+    "workflow": "appraisal_methods",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q3(a-c)",
+    "description": "Explain unit-rate elements and raw-material factors; compare concrete column and foundation rates of equal volume.",
+    "workflow": "estimate_theory",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q4(a)",
+    "description": "Identify pre/post-contract project-manager tasks that reduce the client's time, cost and quality risks.",
+    "workflow": "roles",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q4(b)",
+    "description": "Identify site information and records needed to support management decisions and justify retaining them.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-05-16",
+    "ref": "Q5(a-d)",
+    "description": "Explain tender-error options, calculate the signed percentage error, and apply pre/post-contract and negotiation consequences.",
+    "workflow": "tender_arithmetic",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-05-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q1(a-b)",
+    "description": "Compare lump-sum, remeasurement and term contracts for prolonged alteration of vacant public-housing units.",
+    "workflow": "contract_types",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q2(a)",
+    "description": "Calculate early/late dates and total/free floats for the network, including a start-to-start lag.",
+    "workflow": "cpm",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q2(b)",
+    "description": "Explain the project manager's measures for monitoring and controlling progress.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q3(a)",
+    "description": "Calculate maximum hotel land-acquisition price using occupancy changes, floor area, costs, finance and yield.",
+    "workflow": "residual",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q3(b)",
+    "description": "Identify hotel-investment risks and ways to avoid or reduce them.",
+    "workflow": "project_risks",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q4(a-c)",
+    "description": "Evaluate qualifications, front loading, cover prices and tender errors; explain lump-sum and remeasurement responses.",
+    "workflow": "tender_errors",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2016-12-16",
+    "ref": "Q5(a-b)",
+    "description": "Assess functional branch offices for overseas tendering and when project or matrix structures suit later work.",
+    "workflow": "organisation",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2016-12-16.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q1(a-b)",
+    "description": "Diagram and evaluate management contracting and alternative fast-track procurement routes for public housing.",
+    "workflow": "procurement",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q2(a-c)",
+    "description": "Calculate turnover and draw a repetitive programme for eighty road sections within the overall deadline; justify the method.",
+    "workflow": "repetitive",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q2(d)",
+    "description": "Specify coordination measures that keep the road-project turnover on schedule.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q3(a)",
+    "description": "Explain with examples why civil-engineering projects face delay and cost-overrun risks.",
+    "workflow": "project_risks",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q3(b)",
+    "description": "Explain civil-engineer roles across stages and how they help achieve project objectives.",
+    "workflow": "roles",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q4(a)",
+    "description": "Calculate the NPV of two unequal-life investment schemes at the specified discount rate.",
+    "workflow": "npv",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q4(b)",
+    "description": "Calculate both schemes' IRRs and rank them by IRR.",
+    "workflow": "irr",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q4(c)",
+    "description": "Compare NPV and IRR and justify the method used to make the investment decision.",
+    "workflow": "npv_irr_comparison",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-05-08",
+    "ref": "Q5",
+    "description": "Build a block-wall unit rate from block dimensions, mortar mix, material prices, unloading and labour productivity.",
+    "workflow": "unit_rate",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-05-08.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q1(a-b)",
+    "description": "Evaluate serial tendering, negotiation and open tendering for Smart City projects.",
+    "workflow": "tendering",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q2(a-b)",
+    "description": "Calculate total/free floats and explain their difference and the planning value of free float.",
+    "workflow": "cpm",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q2(c)",
+    "description": "Identify and justify contractor site information and records needed for management decisions.",
+    "workflow": "progress",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q3(a-c)",
+    "description": "Compare functional, project and matrix structures for a Greater Bay Area mega-project; recommend and chart one.",
+    "workflow": "organisation",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q4(a)",
+    "description": "Calculate a toll-road BOOT scheme's IRR with construction time, operating income, maintenance and handback.",
+    "workflow": "irr",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q4(b-c)",
+    "description": "Evaluate government BOOT award criteria and whether a higher toll suitably offsets low-traffic risk.",
+    "workflow": "procurement",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q5(a)",
+    "description": "Explain competent, collaborative and ethical civil-engineer responsibilities across the project life cycle.",
+    "workflow": "roles",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2017-12-22",
+    "ref": "Q5(b)",
+    "description": "Recognise unethical approved-list tender selection and state the consultant's response.",
+    "workflow": "ethics",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2017-12-22.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q1(a)-(b)",
+    "workflow": "procurement",
+    "description": "Diagram management contracting and assess traditional procurement for an inexperienced university renovation client.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q2(a)",
+    "workflow": "tender_errors",
+    "description": "Explain patent errors, front/rear loading and tender qualifications; advise the consultant response.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q2(b)",
+    "workflow": "tender_arithmetic",
+    "description": "Handle an erroneous lump-sum tender when genuine errors cannot be corrected and the client seeks the correct sum.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q3(a)",
+    "workflow": "residual",
+    "description": "Calculate maximum land value for a 300-room service apartment with declining vacancy and financing costs.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q3(b)",
+    "workflow": "appraisal_methods",
+    "description": "Explain residual-method limitations and when to use discounted cash flow.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q4(a)-(d)",
+    "workflow": "repetitive",
+    "description": "Plan repetitive identical residential units: determine turnover to meet 270 days, draw the programme and improve productivity.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q5(a)",
+    "workflow": "unit_rate",
+    "description": "Audit the contractor concrete-slab variation unit rate and correct quantities, plant and labour productivity calculations.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-05-17",
+    "ref": "Q5(b)",
+    "workflow": "markup",
+    "description": "Define markup and explain how it appears in a tender.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-05-17.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q1(a)-(b)",
+    "workflow": "tendering",
+    "description": "Compare two-stage/conventional selective tendering; assess serial tendering for Lantau reclamation projects.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q2(a)-(b)",
+    "workflow": "cpm",
+    "description": "Build the SS-lag network and compute critical path, dates and total/free floats.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q2(c)",
+    "workflow": "progress",
+    "description": "Describe project-manager progress monitoring/control measures.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q3(a)-(b)",
+    "workflow": "organisation",
+    "description": "Compare functional/project structures and assess whether matrix suits a first overseas mega-project.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q4(a)",
+    "workflow": "residual",
+    "description": "Calculate maximum site value for a 200-unit service apartment with initial occupancy voids, finance and yield.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q4(b)",
+    "workflow": "cost_indices",
+    "description": "Distinguish tender price and building cost indices and illustrate applications.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q5(a)",
+    "workflow": "roles",
+    "description": "Describe civil-engineer duties across a building life cycle.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2018-12-21",
+    "ref": "Q5(b)",
+    "workflow": "ethics",
+    "description": "Identify problems with approved-list tenderer selection and actions when discovered.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2018-12-21.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q1(a)-(b)",
+    "workflow": "procurement",
+    "description": "Assess BOOT for a wind farm, then compare traditional and D&B when public funding is available.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q2(a)",
+    "workflow": "residual",
+    "description": "Calculate maximum site value from floor areas, rent, design/construction periods, finance and yield.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q2(b)",
+    "workflow": "estimate_theory",
+    "description": "Explain factors causing construction-cost changes in a residual valuation.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q3(a)",
+    "workflow": "roles",
+    "description": "Discuss civil-engineer duties at project stages to protect client and society interests.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q3(b)",
+    "workflow": "ethics",
+    "description": "Evaluate collusive rings/cover pricing and the consultant response.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q4(a)",
+    "workflow": "programmes",
+    "description": "Explain outline, master and sequence/repetitive programmes and illustrate their uses.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q4(b)",
+    "workflow": "progress",
+    "description": "Monitor/control construction progress to avoid deviation from the master programme.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q5(a)",
+    "workflow": "unit_rate",
+    "description": "Calculate a curved 150 mm concrete-roof-slab unit rate, including the extra effort for curvature.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2019-05-10",
+    "ref": "Q5(b)",
+    "workflow": "tender_errors",
+    "description": "Explain front/rear loading with examples and how the client should handle loaded tenders.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2019-05-10.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q1(a)-(b)",
+    "workflow": "procurement",
+    "description": "Diagram D&B and management contracting and allocate risks between their parties.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q2(a)",
+    "workflow": "residual",
+    "description": "Calculate maximum site value for a 200-unit service apartment with initial voids, fees, finance and profit.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q2(b)",
+    "workflow": "appraisal_methods",
+    "description": "Explain residual-method drawbacks and when DCF should be used.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q3(a)",
+    "workflow": "npv",
+    "description": "Compute NPVs of two unequal-life investment schemes with maintenance and reversion cash flows at 8%.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q3(b)",
+    "workflow": "irr",
+    "description": "Compute both scheme IRRs and judge attractiveness by that criterion.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q4(a), Q4(c)",
+    "workflow": "cpm",
+    "description": "Draw the SS-lag network; find critical path, dates and total/free floats (paper skips label b).",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q4(d)",
+    "workflow": "progress",
+    "description": "Describe monitoring and control measures for project progress.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2021-12-16",
+    "ref": "Q5(a)-(b)",
+    "workflow": "organisation",
+    "description": "Evaluate functional organisation for new Belt and Road offices and conditions for project/matrix structures.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2021-12-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q1(a)-(b)",
+    "workflow": "procurement",
+    "description": "Diagram traditional and design-and-build systems, then explain BOOT using examples.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q2(a)",
+    "workflow": "residual",
+    "description": "Calculate maximum site value for a 100-unit service apartment with staged occupancy, fees, finance and developer profit.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q2(b)",
+    "workflow": "appraisal_methods",
+    "description": "Explain residual-method strengths/weaknesses and when to use DCF.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q2(c)",
+    "workflow": "sensitivity",
+    "description": "Use an IRR sensitivity diagram to discuss financial viability uncertainty as input variables change.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q3(a)",
+    "workflow": "programmes",
+    "description": "Distinguish outline and master construction programmes with diagrams.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q3(b)",
+    "workflow": "activity_logic",
+    "description": "Define activity logic and illustrate different predecessor relationship types.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q4(a)",
+    "workflow": "ethics",
+    "description": "Assess forming rings/cover prices and the consultant engineer response.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q4(b)",
+    "workflow": "unit_rate",
+    "description": "Build a unit rate for a 100 mm in-situ reinforced-concrete wall from material, labour and mixer cost data.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-05-16",
+    "ref": "Q5(a)-(b)",
+    "workflow": "organisation",
+    "description": "Compare functional/project/matrix structures; select and chart an organisation for a mega-bridge joint venture.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-05-16.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q1(a)-(c)",
+    "workflow": "circular",
+    "description": "Explain circular economy, examine whether circular means sustainable, and recommend strategies for a university hall.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q2(a)-(b)",
+    "workflow": "npv",
+    "description": "Compare four hotel renovations using net annual benefit and net present worth at 10% over ten years.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q2(c)",
+    "workflow": "direct_bc",
+    "description": "Find the hotel renovation alternative with the highest direct B/C ratio.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q2(d)",
+    "workflow": "incremental_bc",
+    "description": "Select the best hotel renovation using incremental benefit/cost analysis.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q3(a)-(b)",
+    "workflow": "cpm",
+    "description": "Draw the activity-on-node network and compute critical path, early/late dates and free floats.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q4(a)",
+    "workflow": "social_impacts",
+    "description": "Identify social costs and benefits of the Tseung Kwan O Cross Bay Link.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2022-12-09",
+    "ref": "Q4(b)(i)-(iii)",
+    "workflow": "roles",
+    "description": "Assign participants/duties to conceptual planning/feasibility, procurement and construction.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2022-12-09.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q1(a)-(b)",
+    "workflow": "npv",
+    "description": "Derive a break-even toll charge for a highway, then a PPP toll that provides an 80% profit after 20 years.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q1(c)",
+    "workflow": "procurement",
+    "description": "Explain PPP and its benefits in the highway BOOT context.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q2(a)",
+    "workflow": "roles",
+    "description": "Describe project-manager duties throughout the building life cycle.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q2(b)",
+    "workflow": "circular",
+    "description": "Propose circular construction strategies with new-building examples.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q3(a)-(b)",
+    "workflow": "cpm",
+    "description": "Build a lagged activity-on-node network, identify the critical path and compute dates and activity C start/finish floats.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q4(a)",
+    "workflow": "procurement",
+    "description": "Diagram design-and-build procurement and discuss advantages and disadvantages.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-05-17",
+    "ref": "Q4(b)-(c)",
+    "workflow": "npv",
+    "description": "Compare hall tenders over 18 months using monthly rent/quarterly payments; value compensation for delayed completion.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-05-17.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q1(a)-(c)",
+    "workflow": "procurement",
+    "description": "Compare D&B/traditional engagement and contracts, advise on management-procurement insolvency risk, and justify BOOT for road tunnels.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q2(a)-(b)",
+    "workflow": "cpm",
+    "description": "Construct the SS/FF-lag network; identify critical paths and calculate total/free floats of non-critical activities.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q2(c)",
+    "workflow": "progress",
+    "description": "Describe measures to monitor and control project progress.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q3(a)",
+    "workflow": "incremental_bc",
+    "description": "Rank four investment options using incremental B/C at an 8% discount rate.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q3(b)",
+    "workflow": "irr",
+    "description": "Evaluate Option C against a 5% required return using its IRR.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q3(c)",
+    "workflow": "npv",
+    "description": "Evaluate Option A using equivalent net annual benefit at 10%.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q3(d)",
+    "workflow": "time_value_concept",
+    "description": "Explain the time value of money.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q4(a)",
+    "workflow": "tendering",
+    "description": "Choose and justify a competitive tendering approach for a technically specialised project above $10 billion.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q4(b)",
+    "workflow": "organisation",
+    "description": "Explain functional organisation, assess its pros/cons and give a civil-engineering consultancy example.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2023-12-20",
+    "ref": "Q4(c)",
+    "workflow": "feasibility_purpose",
+    "description": "Explain feasibility-study purpose and benefits to the general public.",
+    "page": 4,
+    "status": "Not solved",
+    "file": "CIVL2108-2023-12-20.pdf"
+  },
+  {
+    "date": "2024-05-17",
+    "ref": "Q1(a)-(c)",
+    "workflow": "circular",
+    "description": "Define circular economy, explain benefits and adapt project management for Northern Metropolis housing.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-05-17.pdf"
+  },
+  {
+    "date": "2024-05-17",
+    "ref": "Q2(a)-(d)",
+    "workflow": "cpm",
+    "description": "Build the network, compute dates/critical path/free floats, then revise it for an added activity and shorter durations to assess time savings.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-05-17.pdf"
+  },
+  {
+    "date": "2024-05-17",
+    "ref": "Q3(a)",
+    "workflow": "social_impacts",
+    "description": "Identify social benefits and social costs of the Hong Kong-Zhuhai-Macao Bridge.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-05-17.pdf"
+  },
+  {
+    "date": "2024-05-17",
+    "ref": "Q3(b)",
+    "workflow": "roles",
+    "description": "Map participants and responsibilities across the bridge project life cycle.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-05-17.pdf"
+  },
+  {
+    "date": "2024-05-17",
+    "ref": "Q4(a)-(b)",
+    "workflow": "npv",
+    "description": "Test sewerage investment viability over 30 years, first with constant fees and then with doubled income after ten years.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-05-17.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q1(a)-(b)",
+    "workflow": "procurement",
+    "description": "Diagram design-and-build and management contracting; compare their advantages and disadvantages.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q1(c)",
+    "workflow": "roles",
+    "description": "Assign key parties and duties to conceptual planning/feasibility, design/engineering and procurement.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q2(a)-(b)",
+    "workflow": "cpm",
+    "description": "Draw the lagged SS/FF activity-on-node network and find ES, EF, LS and LF for D, H, I and F.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q2(c)",
+    "workflow": "progress",
+    "description": "Describe project-manager measures for monitoring and controlling construction progress.",
+    "page": 2,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q3(a)-(c)",
+    "workflow": "npv",
+    "description": "Discount highway administration, periodic replacements, stepped OMR and toll-income streams over the specified horizons.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q3(d)",
+    "workflow": "direct_bc",
+    "description": "Compare three toll-highway options by their direct benefit/cost ratios over 30 years.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q4(a)",
+    "workflow": "organisation",
+    "description": "Explain matrix and project-oriented organisation structures.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  },
+  {
+    "date": "2024-12-12",
+    "ref": "Q4(b)",
+    "workflow": "labour_management",
+    "description": "Explain MiC advantages for labour and material management.",
+    "page": 3,
+    "status": "Not solved",
+    "file": "CIVL2108-2024-12-12.pdf"
+  }
+]
