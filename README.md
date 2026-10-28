@@ -12,9 +12,9 @@ The CIVL1118 bank uses the CIVL1113 mechanics papers provided on current CIVL111
 
 ## How to use the tables
 
-1. Start near the top: each tracker sorts workflow groups by number of question rows, largest first. The distinct-paper count helps judge how broadly the workflow recurs.
+1. Start with a **priority question** near the top: each tracker sorts workflow groups by number of question rows, largest first, and papers within each table from newest to oldest. The distinct-paper count helps judge how broadly the workflow recurs.
 2. Attempt one question without notes. Write the model, assumptions, diagram or cash-flow timeline, equations, units and checks before substituting values.
-3. If stuck, identify the precise missing step and consult the linked lecture. Retry the question, then solve another row from the same workflow with different data or framing.
+3. If stuck, identify the precise missing step and consult the linked lecture. Retry the question, then solve one of the rows listed beside its `Priority status`. For example, `true: 3, 7` marks a representative question whose core steps repeat in rows 3 and 7 of that same table. Other rows show `false`; singleton groups and groups without a clear near-repeat have no priority representative.
 4. Change **Not solved** to **Solved** only after completing and checking the question independently. Keep worked solutions and mistakes beside your own study notes.
 5. After learning the main workflows, mix groups and attempt whole papers under their printed time and choice rules. Reserve a recent paper for this check.
 

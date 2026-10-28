@@ -8,6 +8,14 @@ Recent coverage matters: **all five available papers from December 2022 to Decem
 
 The tracker contains **162 question/workflow rows covering all 95 numbered questions** in the 20 papers. Related subparts within one numbered question share a row when they use the same workflow; distinct workflows are separated. Thus row totals measure practice opportunities, and the separate paper count indicates how widely a pattern occurs. Groups are sorted by row count, largest first; ties are alphabetical. Rows within each group are most recent first. Every status starts as **Not solved**.
 
+## Row ordering and priority status
+
+Every workflow table lists **newest papers first**; question/part order breaks ties within a paper. The `#` column is renumbered within each table. Workflow tables themselves remain ordered by row count, largest first.
+
+`Priority status` is separate from the solved status. `true: 3, 7, 9` means **this row is a representative priority question**, and rows **3, 7 and 9 in this same table** repeat or closely reuse its core solution steps. These are the table's current row numbers, not the question numbers printed in the papers; the representative's own number is omitted. Differences in numbers, loading, context or a subsidiary step can remain. The references identify method reuse, not identical wording or guaranteed future exam content.
+
+Tables with **10 or more rows** have **2-3 priority questions**; smaller tables with a demonstrated near-repeat have **1-2**. Selection favours clear, transferable representatives of repeated subworkflows, with recent examples where suitable. `false` means the row was not selected as a representative. Singletons, and groups without a clear near-repeat, stay `false`; a note explains the latter cases. All existing solved statuses are preserved. Shared-step rationales and the same row references are also recorded in the question index JSON.
+
 ## Priority index
 
 | Priority | Workflow | Question rows | Papers out of 20 |
@@ -56,21 +64,21 @@ The tracker contains **162 question/workflow rows covering all 95 numbered quest
 
 Identify client/designer/contractor/manager relationships, draw who contracts with whom, then judge risk, finance, speed and control against the scenario.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q1(a)-(b)](CIVL2108-2024-12-12.pdf#page=2) | Diagram design-and-build and management contracting; compare their advantages and disadvantages. | Not solved |
-| 2 | [2023 Dec, Q1(a)-(c)](CIVL2108-2023-12-20.pdf#page=2) | Compare D&B/traditional engagement and contracts, advise on management-procurement insolvency risk, and justify BOOT for road tunnels. | Not solved |
-| 3 | [2023 May, Q4(a)](CIVL2108-2023-05-17.pdf#page=4) | Diagram design-and-build procurement and discuss advantages and disadvantages. | Not solved |
-| 4 | [2023 May, Q1(c)](CIVL2108-2023-05-17.pdf#page=2) | Explain PPP and its benefits in the highway BOOT context. | Not solved |
-| 5 | [2022 May, Q1(a)-(b)](CIVL2108-2022-05-16.pdf#page=2) | Diagram traditional and design-and-build systems, then explain BOOT using examples. | Not solved |
-| 6 | [2021 Dec, Q1(a)-(b)](CIVL2108-2021-12-16.pdf#page=2) | Diagram D&B and management contracting and allocate risks between their parties. | Not solved |
-| 7 | [2019 May, Q1(a)-(b)](CIVL2108-2019-05-10.pdf#page=2) | Assess BOOT for a wind farm, then compare traditional and D&B when public funding is available. | Not solved |
-| 8 | [2018 May, Q1(a)-(b)](CIVL2108-2018-05-17.pdf#page=2) | Diagram management contracting and assess traditional procurement for an inexperienced university renovation client. | Not solved |
-| 9 | [2017 Dec, Q4(b-c)](CIVL2108-2017-12-22.pdf#page=3) | Evaluate government BOOT award criteria and whether a higher toll suitably offsets low-traffic risk. | Not solved |
-| 10 | [2017 May, Q1(a-b)](CIVL2108-2017-05-08.pdf#page=2) | Diagram and evaluate management contracting and alternative fast-track procurement routes for public housing. | Not solved |
-| 11 | [2014 Dec, Q1(a-b)](CIVL2108-2014-12-12.pdf#page=2) | Evaluate design-and-build and other procurement routes for innovation and sustainable residential development. | Not solved |
-| 12 | [2013 Dec, Q4(b)](CIVL2108-2013-12-14.pdf#page=3) | Identify government considerations when evaluating a design-build-finance-operate proposal. | Not solved |
-| 13 | [2013 Dec, Q2(a-b)](CIVL2108-2013-12-14.pdf#page=2) | Diagram design-and-build and management contracting and allocate the parties' risks under each route. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q1(a)-(b)](CIVL2108-2024-12-12.pdf#page=2) | Diagram design-and-build and management contracting; compare their advantages and disadvantages. | Not solved | true: 4, 6, 8, 10, 12 |
+| 2 | [2023 Dec, Q1(a)-(c)](CIVL2108-2023-12-20.pdf#page=2) | Compare D&B/traditional engagement and contracts, advise on management-procurement insolvency risk, and justify BOOT for road tunnels. | Not solved | false |
+| 3 | [2023 May, Q1(c)](CIVL2108-2023-05-17.pdf#page=2) | Explain PPP and its benefits in the highway BOOT context. | Not solved | false |
+| 4 | [2023 May, Q4(a)](CIVL2108-2023-05-17.pdf#page=4) | Diagram design-and-build procurement and discuss advantages and disadvantages. | Not solved | false |
+| 5 | [2022 May, Q1(a)-(b)](CIVL2108-2022-05-16.pdf#page=2) | Diagram traditional and design-and-build systems, then explain BOOT using examples. | Not solved | false |
+| 6 | [2021 Dec, Q1(a)-(b)](CIVL2108-2021-12-16.pdf#page=2) | Diagram D&B and management contracting and allocate risks between their parties. | Not solved | false |
+| 7 | [2019 May, Q1(a)-(b)](CIVL2108-2019-05-10.pdf#page=2) | Assess BOOT for a wind farm, then compare traditional and D&B when public funding is available. | Not solved | true: 2, 3, 5, 9, 13 |
+| 8 | [2018 May, Q1(a)-(b)](CIVL2108-2018-05-17.pdf#page=2) | Diagram management contracting and assess traditional procurement for an inexperienced university renovation client. | Not solved | false |
+| 9 | [2017 Dec, Q4(b-c)](CIVL2108-2017-12-22.pdf#page=3) | Evaluate government BOOT award criteria and whether a higher toll suitably offsets low-traffic risk. | Not solved | false |
+| 10 | [2017 May, Q1(a-b)](CIVL2108-2017-05-08.pdf#page=2) | Diagram and evaluate management contracting and alternative fast-track procurement routes for public housing. | Not solved | false |
+| 11 | [2014 Dec, Q1(a-b)](CIVL2108-2014-12-12.pdf#page=2) | Evaluate design-and-build and other procurement routes for innovation and sustainable residential development. | Not solved | false |
+| 12 | [2013 Dec, Q2(a-b)](CIVL2108-2013-12-14.pdf#page=2) | Diagram design-and-build and management contracting and allocate the parties' risks under each route. | Not solved | false |
+| 13 | [2013 Dec, Q4(b)](CIVL2108-2013-12-14.pdf#page=3) | Identify government considerations when evaluating a design-build-finance-operate proposal. | Not solved | false |
 
 <a id="workflow-cpm"></a>
 
@@ -78,20 +86,20 @@ Identify client/designer/contractor/manager relationships, draw who contracts wi
 
 Translate precedence and SS/FF lags into constraints; make forward/backward passes; derive critical paths and floats, then reassess any proposed change.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q2(a)-(b)](CIVL2108-2024-12-12.pdf#page=2) | Draw the lagged SS/FF activity-on-node network and find ES, EF, LS and LF for D, H, I and F. | Not solved |
-| 2 | [2024 May, Q2(a)-(d)](CIVL2108-2024-05-17.pdf#page=2) | Build the network, compute dates/critical path/free floats, then revise it for an added activity and shorter durations to assess time savings. | Not solved |
-| 3 | [2023 Dec, Q2(a)-(b)](CIVL2108-2023-12-20.pdf#page=2) | Construct the SS/FF-lag network; identify critical paths and calculate total/free floats of non-critical activities. | Not solved |
-| 4 | [2023 May, Q3(a)-(b)](CIVL2108-2023-05-17.pdf#page=3) | Build a lagged activity-on-node network, identify the critical path and compute dates and activity C start/finish floats. | Not solved |
-| 5 | [2022 Dec, Q3(a)-(b)](CIVL2108-2022-12-09.pdf#page=3) | Draw the activity-on-node network and compute critical path, early/late dates and free floats. | Not solved |
-| 6 | [2021 Dec, Q4(a), Q4(c)](CIVL2108-2021-12-16.pdf#page=3) | Draw the SS-lag network; find critical path, dates and total/free floats (paper skips label b). | Not solved |
-| 7 | [2018 Dec, Q2(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Build the SS-lag network and compute critical path, dates and total/free floats. | Not solved |
-| 8 | [2017 Dec, Q2(a-b)](CIVL2108-2017-12-22.pdf#page=2) | Calculate total/free floats and explain their difference and the planning value of free float. | Not solved |
-| 9 | [2016 Dec, Q2(a)](CIVL2108-2016-12-16.pdf#page=2) | Calculate early/late dates and total/free floats for the network, including a start-to-start lag. | Not solved |
-| 10 | [2015 May, Q2(a), Q2(c) (hand-corrected b)](CIVL2108-2015-05-18.pdf#page=2) | Draw the network with start-to-start lags, find the critical path and calculate early/late dates and floats. | Not solved |
-| 11 | [2014 Dec, Q5(a)(i-iii)](CIVL2108-2014-12-12.pdf#page=3) | Draw the activity-on-node network, identify its critical path and calculate/explain total and free floats. | Not solved |
-| 12 | [2013 May, Q2(b-c)](CIVL2108-2013-05-13.pdf#page=2) | Complete the activity-on-node network; calculate early/late dates and total/free floats. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q2(a)-(b)](CIVL2108-2024-12-12.pdf#page=2) | Draw the lagged SS/FF activity-on-node network and find ES, EF, LS and LF for D, H, I and F. | Not solved | true: 3, 4 |
+| 2 | [2024 May, Q2(a)-(d)](CIVL2108-2024-05-17.pdf#page=2) | Build the network, compute dates/critical path/free floats, then revise it for an added activity and shorter durations to assess time savings. | Not solved | false |
+| 3 | [2023 Dec, Q2(a)-(b)](CIVL2108-2023-12-20.pdf#page=2) | Construct the SS/FF-lag network; identify critical paths and calculate total/free floats of non-critical activities. | Not solved | false |
+| 4 | [2023 May, Q3(a)-(b)](CIVL2108-2023-05-17.pdf#page=3) | Build a lagged activity-on-node network, identify the critical path and compute dates and activity C start/finish floats. | Not solved | false |
+| 5 | [2022 Dec, Q3(a)-(b)](CIVL2108-2022-12-09.pdf#page=3) | Draw the activity-on-node network and compute critical path, early/late dates and free floats. | Not solved | true: 2, 8, 11, 12 |
+| 6 | [2021 Dec, Q4(a), Q4(c)](CIVL2108-2021-12-16.pdf#page=3) | Draw the SS-lag network; find critical path, dates and total/free floats (paper skips label b). | Not solved | true: 7, 9, 10 |
+| 7 | [2018 Dec, Q2(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Build the SS-lag network and compute critical path, dates and total/free floats. | Not solved | false |
+| 8 | [2017 Dec, Q2(a-b)](CIVL2108-2017-12-22.pdf#page=2) | Calculate total/free floats and explain their difference and the planning value of free float. | Not solved | false |
+| 9 | [2016 Dec, Q2(a)](CIVL2108-2016-12-16.pdf#page=2) | Calculate early/late dates and total/free floats for the network, including a start-to-start lag. | Not solved | false |
+| 10 | [2015 May, Q2(a), Q2(c) (hand-corrected b)](CIVL2108-2015-05-18.pdf#page=2) | Draw the network with start-to-start lags, find the critical path and calculate early/late dates and floats. | Not solved | false |
+| 11 | [2014 Dec, Q5(a)(i-iii)](CIVL2108-2014-12-12.pdf#page=3) | Draw the activity-on-node network, identify its critical path and calculate/explain total and free floats. | Not solved | false |
+| 12 | [2013 May, Q2(b-c)](CIVL2108-2013-05-13.pdf#page=2) | Complete the activity-on-node network; calculate early/late dates and total/free floats. | Not solved | false |
 
 <a id="workflow-roles"></a>
 
@@ -99,20 +107,20 @@ Translate precedence and SS/FF lags into constraints; make forward/backward pass
 
 Organise the answer by stage; identify parties, decisions, deliverables and duties, and connect each duty to project/client/public objectives.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q1(c)](CIVL2108-2024-12-12.pdf#page=2) | Assign key parties and duties to conceptual planning/feasibility, design/engineering and procurement. | Not solved |
-| 2 | [2024 May, Q3(b)](CIVL2108-2024-05-17.pdf#page=3) | Map participants and responsibilities across the bridge project life cycle. | Not solved |
-| 3 | [2023 May, Q2(a)](CIVL2108-2023-05-17.pdf#page=2) | Describe project-manager duties throughout the building life cycle. | Not solved |
-| 4 | [2022 Dec, Q4(b)(i)-(iii)](CIVL2108-2022-12-09.pdf#page=3) | Assign participants/duties to conceptual planning/feasibility, procurement and construction. | Not solved |
-| 5 | [2019 May, Q3(a)](CIVL2108-2019-05-10.pdf#page=2) | Discuss civil-engineer duties at project stages to protect client and society interests. | Not solved |
-| 6 | [2018 Dec, Q5(a)](CIVL2108-2018-12-21.pdf#page=3) | Describe civil-engineer duties across a building life cycle. | Not solved |
-| 7 | [2017 Dec, Q5(a)](CIVL2108-2017-12-22.pdf#page=3) | Explain competent, collaborative and ethical civil-engineer responsibilities across the project life cycle. | Not solved |
-| 8 | [2017 May, Q3(b)](CIVL2108-2017-05-08.pdf#page=2) | Explain civil-engineer roles across stages and how they help achieve project objectives. | Not solved |
-| 9 | [2016 May, Q4(a)](CIVL2108-2016-05-16.pdf#page=2) | Identify pre/post-contract project-manager tasks that reduce the client's time, cost and quality risks. | Not solved |
-| 10 | [2015 May, Q3(a)](CIVL2108-2015-05-18.pdf#page=3) | Relate civil-engineering responsibilities to competent, collaborative and ethical project delivery. | Not solved |
-| 11 | [2014 Dec, Q4(b)](CIVL2108-2014-12-12.pdf#page=2) | Explain project-manager duties across stages and how they support project objectives. | Not solved |
-| 12 | [2013 Dec, Q1(a)](CIVL2108-2013-12-14.pdf#page=2) | Map civil engineers' competent, collaborative and ethical responsibilities across project stages. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q1(c)](CIVL2108-2024-12-12.pdf#page=2) | Assign key parties and duties to conceptual planning/feasibility, design/engineering and procurement. | Not solved | true: 2, 4 |
+| 2 | [2024 May, Q3(b)](CIVL2108-2024-05-17.pdf#page=3) | Map participants and responsibilities across the bridge project life cycle. | Not solved | false |
+| 3 | [2023 May, Q2(a)](CIVL2108-2023-05-17.pdf#page=2) | Describe project-manager duties throughout the building life cycle. | Not solved | true: 9, 11 |
+| 4 | [2022 Dec, Q4(b)(i)-(iii)](CIVL2108-2022-12-09.pdf#page=3) | Assign participants/duties to conceptual planning/feasibility, procurement and construction. | Not solved | false |
+| 5 | [2019 May, Q3(a)](CIVL2108-2019-05-10.pdf#page=2) | Discuss civil-engineer duties at project stages to protect client and society interests. | Not solved | false |
+| 6 | [2018 Dec, Q5(a)](CIVL2108-2018-12-21.pdf#page=3) | Describe civil-engineer duties across a building life cycle. | Not solved | false |
+| 7 | [2017 Dec, Q5(a)](CIVL2108-2017-12-22.pdf#page=3) | Explain competent, collaborative and ethical civil-engineer responsibilities across the project life cycle. | Not solved | true: 5, 6, 8, 10, 12 |
+| 8 | [2017 May, Q3(b)](CIVL2108-2017-05-08.pdf#page=2) | Explain civil-engineer roles across stages and how they help achieve project objectives. | Not solved | false |
+| 9 | [2016 May, Q4(a)](CIVL2108-2016-05-16.pdf#page=2) | Identify pre/post-contract project-manager tasks that reduce the client's time, cost and quality risks. | Not solved | false |
+| 10 | [2015 May, Q3(a)](CIVL2108-2015-05-18.pdf#page=3) | Relate civil-engineering responsibilities to competent, collaborative and ethical project delivery. | Not solved | false |
+| 11 | [2014 Dec, Q4(b)](CIVL2108-2014-12-12.pdf#page=2) | Explain project-manager duties across stages and how they support project objectives. | Not solved | false |
+| 12 | [2013 Dec, Q1(a)](CIVL2108-2013-12-14.pdf#page=2) | Map civil engineers' competent, collaborative and ethical responsibilities across project stages. | Not solved | false |
 
 <a id="workflow-progress"></a>
 
@@ -120,20 +128,20 @@ Organise the answer by stage; identify parties, decisions, deliverables and duti
 
 Identify the baseline and required records/resources; compare actual progress with plan; diagnose deviations and propose coordinated corrective actions.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q2(c)](CIVL2108-2024-12-12.pdf#page=2) | Describe project-manager measures for monitoring and controlling construction progress. | Not solved |
-| 2 | [2023 Dec, Q2(c)](CIVL2108-2023-12-20.pdf#page=2) | Describe measures to monitor and control project progress. | Not solved |
-| 3 | [2021 Dec, Q4(d)](CIVL2108-2021-12-16.pdf#page=3) | Describe monitoring and control measures for project progress. | Not solved |
-| 4 | [2019 May, Q4(b)](CIVL2108-2019-05-10.pdf#page=2) | Monitor/control construction progress to avoid deviation from the master programme. | Not solved |
-| 5 | [2018 Dec, Q2(c)](CIVL2108-2018-12-21.pdf#page=2) | Describe project-manager progress monitoring/control measures. | Not solved |
-| 6 | [2017 Dec, Q2(c)](CIVL2108-2017-12-22.pdf#page=2) | Identify and justify contractor site information and records needed for management decisions. | Not solved |
-| 7 | [2017 May, Q2(d)](CIVL2108-2017-05-08.pdf#page=2) | Specify coordination measures that keep the road-project turnover on schedule. | Not solved |
-| 8 | [2016 Dec, Q2(b)](CIVL2108-2016-12-16.pdf#page=2) | Explain the project manager's measures for monitoring and controlling progress. | Not solved |
-| 9 | [2016 May, Q4(b)](CIVL2108-2016-05-16.pdf#page=2) | Identify site information and records needed to support management decisions and justify retaining them. | Not solved |
-| 10 | [2015 May, Q2(d) (hand-corrected c)](CIVL2108-2015-05-18.pdf#page=2) | Explain project-manager measures for monitoring and controlling progress. | Not solved |
-| 11 | [2014 May, Q5(a)(i-iv)](CIVL2108-2014-05-12.pdf#page=3) | Explain and schedule coordination of information, materials, project parties, plant and equipment. | Not solved |
-| 12 | [2013 May, Q2(d)](CIVL2108-2013-05-13.pdf#page=2) | Explain measures to monitor and control project progress. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q2(c)](CIVL2108-2024-12-12.pdf#page=2) | Describe project-manager measures for monitoring and controlling construction progress. | Not solved | true: 2, 3, 4, 5, 8, 10, 12 |
+| 2 | [2023 Dec, Q2(c)](CIVL2108-2023-12-20.pdf#page=2) | Describe measures to monitor and control project progress. | Not solved | false |
+| 3 | [2021 Dec, Q4(d)](CIVL2108-2021-12-16.pdf#page=3) | Describe monitoring and control measures for project progress. | Not solved | false |
+| 4 | [2019 May, Q4(b)](CIVL2108-2019-05-10.pdf#page=2) | Monitor/control construction progress to avoid deviation from the master programme. | Not solved | false |
+| 5 | [2018 Dec, Q2(c)](CIVL2108-2018-12-21.pdf#page=2) | Describe project-manager progress monitoring/control measures. | Not solved | false |
+| 6 | [2017 Dec, Q2(c)](CIVL2108-2017-12-22.pdf#page=2) | Identify and justify contractor site information and records needed for management decisions. | Not solved | true: 9 |
+| 7 | [2017 May, Q2(d)](CIVL2108-2017-05-08.pdf#page=2) | Specify coordination measures that keep the road-project turnover on schedule. | Not solved | false |
+| 8 | [2016 Dec, Q2(b)](CIVL2108-2016-12-16.pdf#page=2) | Explain the project manager's measures for monitoring and controlling progress. | Not solved | false |
+| 9 | [2016 May, Q4(b)](CIVL2108-2016-05-16.pdf#page=2) | Identify site information and records needed to support management decisions and justify retaining them. | Not solved | false |
+| 10 | [2015 May, Q2(d) (hand-corrected c)](CIVL2108-2015-05-18.pdf#page=2) | Explain project-manager measures for monitoring and controlling progress. | Not solved | false |
+| 11 | [2014 May, Q5(a)(i-iv)](CIVL2108-2014-05-12.pdf#page=3) | Explain and schedule coordination of information, materials, project parties, plant and equipment. | Not solved | false |
+| 12 | [2013 May, Q2(d)](CIVL2108-2013-05-13.pdf#page=2) | Explain measures to monitor and control project progress. | Not solved | false |
 
 <a id="workflow-organisation"></a>
 
@@ -141,18 +149,18 @@ Identify the baseline and required records/resources; compare actual progress wi
 
 Draw authority/reporting relationships, compare functional/project/matrix strengths and weaknesses, and justify the scenario-specific choice.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q4(a)](CIVL2108-2024-12-12.pdf#page=3) | Explain matrix and project-oriented organisation structures. | Not solved |
-| 2 | [2023 Dec, Q4(b)](CIVL2108-2023-12-20.pdf#page=4) | Explain functional organisation, assess its pros/cons and give a civil-engineering consultancy example. | Not solved |
-| 3 | [2022 May, Q5(a)-(b)](CIVL2108-2022-05-16.pdf#page=3) | Compare functional/project/matrix structures; select and chart an organisation for a mega-bridge joint venture. | Not solved |
-| 4 | [2021 Dec, Q5(a)-(b)](CIVL2108-2021-12-16.pdf#page=3) | Evaluate functional organisation for new Belt and Road offices and conditions for project/matrix structures. | Not solved |
-| 5 | [2018 Dec, Q3(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Compare functional/project structures and assess whether matrix suits a first overseas mega-project. | Not solved |
-| 6 | [2017 Dec, Q3(a-c)](CIVL2108-2017-12-22.pdf#page=2) | Compare functional, project and matrix structures for a Greater Bay Area mega-project; recommend and chart one. | Not solved |
-| 7 | [2016 Dec, Q5(a-b)](CIVL2108-2016-12-16.pdf#page=3) | Assess functional branch offices for overseas tendering and when project or matrix structures suit later work. | Not solved |
-| 8 | [2015 Dec, Q3(a-c)](CIVL2108-2015-12-09.pdf#page=2) | Compare functional, project and matrix structures for a company's first mainland mega-project; select and chart one. | Not solved |
-| 9 | [2014 May, Q2(a-b)](CIVL2108-2014-05-12.pdf#page=2) | Compare functional, project and matrix structures; select and chart a structure for an airport joint venture. | Not solved |
-| 10 | [2013 May, Q3(a-b)](CIVL2108-2013-05-13.pdf#page=2) | Design functional units and an organisation chart for an expanding contractor; compare project and matrix structures. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q4(a)](CIVL2108-2024-12-12.pdf#page=3) | Explain matrix and project-oriented organisation structures. | Not solved | false |
+| 2 | [2023 Dec, Q4(b)](CIVL2108-2023-12-20.pdf#page=4) | Explain functional organisation, assess its pros/cons and give a civil-engineering consultancy example. | Not solved | false |
+| 3 | [2022 May, Q5(a)-(b)](CIVL2108-2022-05-16.pdf#page=3) | Compare functional/project/matrix structures; select and chart an organisation for a mega-bridge joint venture. | Not solved | true: 5, 6, 8, 9, 10 |
+| 4 | [2021 Dec, Q5(a)-(b)](CIVL2108-2021-12-16.pdf#page=3) | Evaluate functional organisation for new Belt and Road offices and conditions for project/matrix structures. | Not solved | true: 2, 7 |
+| 5 | [2018 Dec, Q3(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Compare functional/project structures and assess whether matrix suits a first overseas mega-project. | Not solved | false |
+| 6 | [2017 Dec, Q3(a-c)](CIVL2108-2017-12-22.pdf#page=2) | Compare functional, project and matrix structures for a Greater Bay Area mega-project; recommend and chart one. | Not solved | false |
+| 7 | [2016 Dec, Q5(a-b)](CIVL2108-2016-12-16.pdf#page=3) | Assess functional branch offices for overseas tendering and when project or matrix structures suit later work. | Not solved | false |
+| 8 | [2015 Dec, Q3(a-c)](CIVL2108-2015-12-09.pdf#page=2) | Compare functional, project and matrix structures for a company's first mainland mega-project; select and chart one. | Not solved | false |
+| 9 | [2014 May, Q2(a-b)](CIVL2108-2014-05-12.pdf#page=2) | Compare functional, project and matrix structures; select and chart a structure for an airport joint venture. | Not solved | false |
+| 10 | [2013 May, Q3(a-b)](CIVL2108-2013-05-13.pdf#page=2) | Design functional units and an organisation chart for an expanding contractor; compare project and matrix structures. | Not solved | false |
 
 <a id="workflow-residual"></a>
 
@@ -160,16 +168,16 @@ Draw authority/reporting relationships, compare functional/project/matrix streng
 
 Estimate completed development value from rent/yield and occupancy; deduct development, finance, fees, profit and acquisition costs using explicit timing assumptions.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q2(a)](CIVL2108-2022-05-16.pdf#page=2) | Calculate maximum site value for a 100-unit service apartment with staged occupancy, fees, finance and developer profit. | Not solved |
-| 2 | [2021 Dec, Q2(a)](CIVL2108-2021-12-16.pdf#page=2) | Calculate maximum site value for a 200-unit service apartment with initial voids, fees, finance and profit. | Not solved |
-| 3 | [2019 May, Q2(a)](CIVL2108-2019-05-10.pdf#page=2) | Calculate maximum site value from floor areas, rent, design/construction periods, finance and yield. | Not solved |
-| 4 | [2018 Dec, Q4(a)](CIVL2108-2018-12-21.pdf#page=3) | Calculate maximum site value for a 200-unit service apartment with initial occupancy voids, finance and yield. | Not solved |
-| 5 | [2018 May, Q3(a)](CIVL2108-2018-05-17.pdf#page=2) | Calculate maximum land value for a 300-room service apartment with declining vacancy and financing costs. | Not solved |
-| 6 | [2016 Dec, Q3(a)](CIVL2108-2016-12-16.pdf#page=3) | Calculate maximum hotel land-acquisition price using occupancy changes, floor area, costs, finance and yield. | Not solved |
-| 7 | [2015 Dec, Q2(a)](CIVL2108-2015-12-09.pdf#page=2) | Calculate maximum service-apartment site value using occupancy, floor space, rent, finance, yield and advertising cost. | Not solved |
-| 8 | [2014 May, Q3(a)](CIVL2108-2014-05-12.pdf#page=2) | Calculate a hotel site's maximum land price using floor areas, income, operating cost, finance, yield and developer profit. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q2(a)](CIVL2108-2022-05-16.pdf#page=2) | Calculate maximum site value for a 100-unit service apartment with staged occupancy, fees, finance and developer profit. | Not solved | true: 2, 4, 5, 7 |
+| 2 | [2021 Dec, Q2(a)](CIVL2108-2021-12-16.pdf#page=2) | Calculate maximum site value for a 200-unit service apartment with initial voids, fees, finance and profit. | Not solved | false |
+| 3 | [2019 May, Q2(a)](CIVL2108-2019-05-10.pdf#page=2) | Calculate maximum site value from floor areas, rent, design/construction periods, finance and yield. | Not solved | true: 6, 8 |
+| 4 | [2018 Dec, Q4(a)](CIVL2108-2018-12-21.pdf#page=3) | Calculate maximum site value for a 200-unit service apartment with initial occupancy voids, finance and yield. | Not solved | false |
+| 5 | [2018 May, Q3(a)](CIVL2108-2018-05-17.pdf#page=2) | Calculate maximum land value for a 300-room service apartment with declining vacancy and financing costs. | Not solved | false |
+| 6 | [2016 Dec, Q3(a)](CIVL2108-2016-12-16.pdf#page=3) | Calculate maximum hotel land-acquisition price using occupancy changes, floor area, costs, finance and yield. | Not solved | false |
+| 7 | [2015 Dec, Q2(a)](CIVL2108-2015-12-09.pdf#page=2) | Calculate maximum service-apartment site value using occupancy, floor space, rent, finance, yield and advertising cost. | Not solved | false |
+| 8 | [2014 May, Q3(a)](CIVL2108-2014-05-12.pdf#page=2) | Calculate a hotel site's maximum land price using floor areas, income, operating cost, finance, yield and developer profit. | Not solved | false |
 
 <a id="workflow-appraisal_methods"></a>
 
@@ -177,16 +185,16 @@ Estimate completed development value from rent/yield and occupancy; deduct devel
 
 State the method components and assumptions; explain how uncertain timing/income/costs affect the result; justify when a more explicit DCF treatment is needed.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q2(b)](CIVL2108-2022-05-16.pdf#page=2) | Explain residual-method strengths/weaknesses and when to use DCF. | Not solved |
-| 2 | [2021 Dec, Q2(b)](CIVL2108-2021-12-16.pdf#page=2) | Explain residual-method drawbacks and when DCF should be used. | Not solved |
-| 3 | [2018 May, Q3(b)](CIVL2108-2018-05-17.pdf#page=2) | Explain residual-method limitations and when to use discounted cash flow. | Not solved |
-| 4 | [2016 May, Q2(b)](CIVL2108-2016-05-16.pdf#page=2) | Explain the residual method and assess its suitability for the power-generation scheme. | Not solved |
-| 5 | [2015 Dec, Q2(b)](CIVL2108-2015-12-09.pdf#page=2) | Explain residual-method weaknesses and when discounted cash flow should be used instead. | Not solved |
-| 6 | [2015 May, Q5(a-b), first b](CIVL2108-2015-05-18.pdf#page=4) | Compare appraisal methods, recommend one for hotel-site auction valuation, and explain its components and assumptions. | Not solved |
-| 7 | [2014 May, Q3(b)](CIVL2108-2014-05-12.pdf#page=2) | Explain the stated limitation of discounted-cash-flow methods in the maximum-land-price exercise. | Not solved |
-| 8 | [2013 May, Q4(a-b)](CIVL2108-2013-05-13.pdf#page=3) | Critique residual land valuation using its components, assumptions, risks and sensitivity to uncertain inputs. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q2(b)](CIVL2108-2022-05-16.pdf#page=2) | Explain residual-method strengths/weaknesses and when to use DCF. | Not solved | true: 2, 3, 4, 5, 6, 8 |
+| 2 | [2021 Dec, Q2(b)](CIVL2108-2021-12-16.pdf#page=2) | Explain residual-method drawbacks and when DCF should be used. | Not solved | false |
+| 3 | [2018 May, Q3(b)](CIVL2108-2018-05-17.pdf#page=2) | Explain residual-method limitations and when to use discounted cash flow. | Not solved | false |
+| 4 | [2016 May, Q2(b)](CIVL2108-2016-05-16.pdf#page=2) | Explain the residual method and assess its suitability for the power-generation scheme. | Not solved | false |
+| 5 | [2015 Dec, Q2(b)](CIVL2108-2015-12-09.pdf#page=2) | Explain residual-method weaknesses and when discounted cash flow should be used instead. | Not solved | false |
+| 6 | [2015 May, Q5(a-b), first b](CIVL2108-2015-05-18.pdf#page=4) | Compare appraisal methods, recommend one for hotel-site auction valuation, and explain its components and assumptions. | Not solved | false |
+| 7 | [2014 May, Q3(b)](CIVL2108-2014-05-12.pdf#page=2) | Explain the stated limitation of discounted-cash-flow methods in the maximum-land-price exercise. | Not solved | false |
+| 8 | [2013 May, Q4(a-b)](CIVL2108-2013-05-13.pdf#page=3) | Critique residual land valuation using its components, assumptions, risks and sensitivity to uncertain inputs. | Not solved | false |
 
 <a id="workflow-npv"></a>
 
@@ -194,16 +202,16 @@ State the method components and assumptions; explain how uncertain timing/income
 
 Draw the dated cash-flow timeline; separate capital, recurring, stepped and periodic items; discount to one basis and apply the specified viability/comparison criterion.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q3(a)-(c)](CIVL2108-2024-12-12.pdf#page=3) | Discount highway administration, periodic replacements, stepped OMR and toll-income streams over the specified horizons. | Not solved |
-| 2 | [2024 May, Q4(a)-(b)](CIVL2108-2024-05-17.pdf#page=3) | Test sewerage investment viability over 30 years, first with constant fees and then with doubled income after ten years. | Not solved |
-| 3 | [2023 Dec, Q3(c)](CIVL2108-2023-12-20.pdf#page=3) | Evaluate Option A using equivalent net annual benefit at 10%. | Not solved |
-| 4 | [2023 May, Q4(b)-(c)](CIVL2108-2023-05-17.pdf#page=4) | Compare hall tenders over 18 months using monthly rent/quarterly payments; value compensation for delayed completion. | Not solved |
-| 5 | [2023 May, Q1(a)-(b)](CIVL2108-2023-05-17.pdf#page=2) | Derive a break-even toll charge for a highway, then a PPP toll that provides an 80% profit after 20 years. | Not solved |
-| 6 | [2022 Dec, Q2(a)-(b)](CIVL2108-2022-12-09.pdf#page=2) | Compare four hotel renovations using net annual benefit and net present worth at 10% over ten years. | Not solved |
-| 7 | [2021 Dec, Q3(a)](CIVL2108-2021-12-16.pdf#page=2) | Compute NPVs of two unequal-life investment schemes with maintenance and reversion cash flows at 8%. | Not solved |
-| 8 | [2017 May, Q4(a)](CIVL2108-2017-05-08.pdf#page=3) | Calculate the NPV of two unequal-life investment schemes at the specified discount rate. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q3(a)-(c)](CIVL2108-2024-12-12.pdf#page=3) | Discount highway administration, periodic replacements, stepped OMR and toll-income streams over the specified horizons. | Not solved | false |
+| 2 | [2024 May, Q4(a)-(b)](CIVL2108-2024-05-17.pdf#page=3) | Test sewerage investment viability over 30 years, first with constant fees and then with doubled income after ten years. | Not solved | false |
+| 3 | [2023 Dec, Q3(c)](CIVL2108-2023-12-20.pdf#page=3) | Evaluate Option A using equivalent net annual benefit at 10%. | Not solved | false |
+| 4 | [2023 May, Q1(a)-(b)](CIVL2108-2023-05-17.pdf#page=2) | Derive a break-even toll charge for a highway, then a PPP toll that provides an 80% profit after 20 years. | Not solved | false |
+| 5 | [2023 May, Q4(b)-(c)](CIVL2108-2023-05-17.pdf#page=4) | Compare hall tenders over 18 months using monthly rent/quarterly payments; value compensation for delayed completion. | Not solved | false |
+| 6 | [2022 Dec, Q2(a)-(b)](CIVL2108-2022-12-09.pdf#page=2) | Compare four hotel renovations using net annual benefit and net present worth at 10% over ten years. | Not solved | true: 2, 3 |
+| 7 | [2021 Dec, Q3(a)](CIVL2108-2021-12-16.pdf#page=2) | Compute NPVs of two unequal-life investment schemes with maintenance and reversion cash flows at 8%. | Not solved | true: 8 |
+| 8 | [2017 May, Q4(a)](CIVL2108-2017-05-08.pdf#page=3) | Calculate the NPV of two unequal-life investment schemes at the specified discount rate. | Not solved | false |
 
 <a id="workflow-ethics"></a>
 
@@ -211,16 +219,16 @@ Draw the dated cash-flow timeline; separate capital, recurring, stepped and peri
 
 Identify the conduct and affected parties, evaluate the professional issue in the question, and give a practical consultant response.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q4(a)](CIVL2108-2022-05-16.pdf#page=2) | Assess forming rings/cover prices and the consultant engineer response. | Not solved |
-| 2 | [2019 May, Q3(b)](CIVL2108-2019-05-10.pdf#page=2) | Evaluate collusive rings/cover pricing and the consultant response. | Not solved |
-| 3 | [2018 Dec, Q5(b)](CIVL2108-2018-12-21.pdf#page=3) | Identify problems with approved-list tenderer selection and actions when discovered. | Not solved |
-| 4 | [2017 Dec, Q5(b)](CIVL2108-2017-12-22.pdf#page=3) | Recognise unethical approved-list tender selection and state the consultant's response. | Not solved |
-| 5 | [2015 Dec, Q5(a)](CIVL2108-2015-12-09.pdf#page=3) | Explain cover pricing and ring formation and evaluate the associated ethical issues. | Not solved |
-| 6 | [2015 May, Q3(b)](CIVL2108-2015-05-18.pdf#page=3) | Identify unethical behaviour when selecting approved-list tenderers and propose the consultant's response. | Not solved |
-| 7 | [2014 Dec, Q2(c)](CIVL2108-2014-12-12.pdf#page=2) | Explain cover pricing and evaluate whether submitting a covered-price tender is ethical. | Not solved |
-| 8 | [2013 Dec, Q1(b)](CIVL2108-2013-12-14.pdf#page=2) | Evaluate forming rings and cover pricing, and explain how consultant engineers should respond. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q4(a)](CIVL2108-2022-05-16.pdf#page=2) | Assess forming rings/cover prices and the consultant engineer response. | Not solved | true: 2, 5, 7, 8 |
+| 2 | [2019 May, Q3(b)](CIVL2108-2019-05-10.pdf#page=2) | Evaluate collusive rings/cover pricing and the consultant response. | Not solved | false |
+| 3 | [2018 Dec, Q5(b)](CIVL2108-2018-12-21.pdf#page=3) | Identify problems with approved-list tenderer selection and actions when discovered. | Not solved | true: 4, 6 |
+| 4 | [2017 Dec, Q5(b)](CIVL2108-2017-12-22.pdf#page=3) | Recognise unethical approved-list tender selection and state the consultant's response. | Not solved | false |
+| 5 | [2015 Dec, Q5(a)](CIVL2108-2015-12-09.pdf#page=3) | Explain cover pricing and ring formation and evaluate the associated ethical issues. | Not solved | false |
+| 6 | [2015 May, Q3(b)](CIVL2108-2015-05-18.pdf#page=3) | Identify unethical behaviour when selecting approved-list tenderers and propose the consultant's response. | Not solved | false |
+| 7 | [2014 Dec, Q2(c)](CIVL2108-2014-12-12.pdf#page=2) | Explain cover pricing and evaluate whether submitting a covered-price tender is ethical. | Not solved | false |
+| 8 | [2013 Dec, Q1(b)](CIVL2108-2013-12-14.pdf#page=2) | Evaluate forming rings and cover pricing, and explain how consultant engineers should respond. | Not solved | false |
 
 <a id="workflow-unit_rate"></a>
 
@@ -228,15 +236,15 @@ Identify the conduct and affected parties, evaluate the professional issue in th
 
 Convert material proportions into quantities/costs, use labour constants and plant output with consistent units, apply justified difficulty allowances, and convert to the measured item.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q4(b)](CIVL2108-2022-05-16.pdf#page=2) | Build a unit rate for a 100 mm in-situ reinforced-concrete wall from material, labour and mixer cost data. | Not solved |
-| 2 | [2019 May, Q5(a)](CIVL2108-2019-05-10.pdf#page=3) | Calculate a curved 150 mm concrete-roof-slab unit rate, including the extra effort for curvature. | Not solved |
-| 3 | [2018 May, Q5(a)](CIVL2108-2018-05-17.pdf#page=3) | Audit the contractor concrete-slab variation unit rate and correct quantities, plant and labour productivity calculations. | Not solved |
-| 4 | [2017 May, Q5](CIVL2108-2017-05-08.pdf#page=3) | Build a block-wall unit rate from block dimensions, mortar mix, material prices, unloading and labour productivity. | Not solved |
-| 5 | [2015 May, Q4(a-b)](CIVL2108-2015-05-18.pdf#page=3) | Build a tapered concrete retaining-wall unit rate; justify labour allowances and the effect of wall thickness. | Not solved |
-| 6 | [2014 May, Q4(b)](CIVL2108-2014-05-12.pdf#page=3) | Audit and revise the contractor's 150 mm concrete-slab estimate in Appendix I, checking quantities, plant and gang-output calculations. | Not solved |
-| 7 | [2013 May, Q5(a)](CIVL2108-2013-05-13.pdf#page=3) | Build the unit rate of a sloping reinforced-concrete roof slab from materials, gang constants, plant and difficulty allowances. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q4(b)](CIVL2108-2022-05-16.pdf#page=2) | Build a unit rate for a 100 mm in-situ reinforced-concrete wall from material, labour and mixer cost data. | Not solved | true: 2, 5, 7 |
+| 2 | [2019 May, Q5(a)](CIVL2108-2019-05-10.pdf#page=3) | Calculate a curved 150 mm concrete-roof-slab unit rate, including the extra effort for curvature. | Not solved | false |
+| 3 | [2018 May, Q5(a)](CIVL2108-2018-05-17.pdf#page=3) | Audit the contractor concrete-slab variation unit rate and correct quantities, plant and labour productivity calculations. | Not solved | true: 6 |
+| 4 | [2017 May, Q5](CIVL2108-2017-05-08.pdf#page=3) | Build a block-wall unit rate from block dimensions, mortar mix, material prices, unloading and labour productivity. | Not solved | false |
+| 5 | [2015 May, Q4(a-b)](CIVL2108-2015-05-18.pdf#page=3) | Build a tapered concrete retaining-wall unit rate; justify labour allowances and the effect of wall thickness. | Not solved | false |
+| 6 | [2014 May, Q4(b)](CIVL2108-2014-05-12.pdf#page=3) | Audit and revise the contractor's 150 mm concrete-slab estimate in Appendix I, checking quantities, plant and gang-output calculations. | Not solved | false |
+| 7 | [2013 May, Q5(a)](CIVL2108-2013-05-13.pdf#page=3) | Build the unit rate of a sloping reinforced-concrete roof slab from materials, gang constants, plant and difficulty allowances. | Not solved | false |
 
 <a id="workflow-tender_errors"></a>
 
@@ -244,15 +252,15 @@ Convert material proportions into quantities/costs, use labour constants and pla
 
 Identify patent errors, qualifications or front/rear loading; explain their effect and propose a consistent tender-evaluation response.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2019 May, Q5(b)](CIVL2108-2019-05-10.pdf#page=3) | Explain front/rear loading with examples and how the client should handle loaded tenders. | Not solved |
-| 2 | [2018 May, Q2(a)](CIVL2108-2018-05-17.pdf#page=2) | Explain patent errors, front/rear loading and tender qualifications; advise the consultant response. | Not solved |
-| 3 | [2016 Dec, Q4(a-c)](CIVL2108-2016-12-16.pdf#page=3) | Evaluate qualifications, front loading, cover prices and tender errors; explain lump-sum and remeasurement responses. | Not solved |
-| 4 | [2015 Dec, Q5(b)](CIVL2108-2015-12-09.pdf#page=3) | Explain qualifications and front loading and determine the engineer's response. | Not solved |
-| 5 | [2014 Dec, Q2(a)](CIVL2108-2014-12-12.pdf#page=2) | Diagnose front loading and qualifications in a tender and explain the engineer's response. | Not solved |
-| 6 | [2013 Dec, Q3(a)](CIVL2108-2013-12-14.pdf#page=2) | Explain a tender qualification and respond to the contractor's proposed extra substructure cost. | Not solved |
-| 7 | [2013 May, Q5(b)](CIVL2108-2013-05-13.pdf#page=3) | Explain front/rear loading with an example and the client's response to loaded tenders. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2019 May, Q5(b)](CIVL2108-2019-05-10.pdf#page=3) | Explain front/rear loading with examples and how the client should handle loaded tenders. | Not solved | true: 7 |
+| 2 | [2018 May, Q2(a)](CIVL2108-2018-05-17.pdf#page=2) | Explain patent errors, front/rear loading and tender qualifications; advise the consultant response. | Not solved | true: 3, 4, 5, 6 |
+| 3 | [2016 Dec, Q4(a-c)](CIVL2108-2016-12-16.pdf#page=3) | Evaluate qualifications, front loading, cover prices and tender errors; explain lump-sum and remeasurement responses. | Not solved | false |
+| 4 | [2015 Dec, Q5(b)](CIVL2108-2015-12-09.pdf#page=3) | Explain qualifications and front loading and determine the engineer's response. | Not solved | false |
+| 5 | [2014 Dec, Q2(a)](CIVL2108-2014-12-12.pdf#page=2) | Diagnose front loading and qualifications in a tender and explain the engineer's response. | Not solved | false |
+| 6 | [2013 Dec, Q3(a)](CIVL2108-2013-12-14.pdf#page=2) | Explain a tender qualification and respond to the contractor's proposed extra substructure cost. | Not solved | false |
+| 7 | [2013 May, Q5(b)](CIVL2108-2013-05-13.pdf#page=3) | Explain front/rear loading with an example and the client's response to loaded tenders. | Not solved | false |
 
 <a id="workflow-irr"></a>
 
@@ -260,15 +268,15 @@ Identify patent errors, qualifications or front/rear loading; explain their effe
 
 Construct net cash flows including maintenance and terminal values; locate the rate where NPV is zero and compare with the required return or competing scheme.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2023 Dec, Q3(b)](CIVL2108-2023-12-20.pdf#page=3) | Evaluate Option C against a 5% required return using its IRR. | Not solved |
-| 2 | [2021 Dec, Q3(b)](CIVL2108-2021-12-16.pdf#page=2) | Compute both scheme IRRs and judge attractiveness by that criterion. | Not solved |
-| 3 | [2017 Dec, Q4(a)](CIVL2108-2017-12-22.pdf#page=3) | Calculate a toll-road BOOT scheme's IRR with construction time, operating income, maintenance and handback. | Not solved |
-| 4 | [2017 May, Q4(b)](CIVL2108-2017-05-08.pdf#page=3) | Calculate both schemes' IRRs and rank them by IRR. | Not solved |
-| 5 | [2016 May, Q2(a)](CIVL2108-2016-05-16.pdf#page=2) | Calculate power-plant IRR with changing annual income, six-year replacement costs and terminal reversion. | Not solved |
-| 6 | [2014 Dec, Q3(a)](CIVL2108-2014-12-12.pdf#page=2) | Calculate toll-road IRR and assess viability with periodic major maintenance and concession handback. | Not solved |
-| 7 | [2013 Dec, Q4(a)](CIVL2108-2013-12-14.pdf#page=3) | Calculate wind-farm IRR with changing revenue, operating costs, six-year replacement costs and reversion. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2023 Dec, Q3(b)](CIVL2108-2023-12-20.pdf#page=3) | Evaluate Option C against a 5% required return using its IRR. | Not solved | false |
+| 2 | [2021 Dec, Q3(b)](CIVL2108-2021-12-16.pdf#page=2) | Compute both scheme IRRs and judge attractiveness by that criterion. | Not solved | true: 4 |
+| 3 | [2017 Dec, Q4(a)](CIVL2108-2017-12-22.pdf#page=3) | Calculate a toll-road BOOT scheme's IRR with construction time, operating income, maintenance and handback. | Not solved | false |
+| 4 | [2017 May, Q4(b)](CIVL2108-2017-05-08.pdf#page=3) | Calculate both schemes' IRRs and rank them by IRR. | Not solved | false |
+| 5 | [2016 May, Q2(a)](CIVL2108-2016-05-16.pdf#page=2) | Calculate power-plant IRR with changing annual income, six-year replacement costs and terminal reversion. | Not solved | true: 3, 6, 7 |
+| 6 | [2014 Dec, Q3(a)](CIVL2108-2014-12-12.pdf#page=2) | Calculate toll-road IRR and assess viability with periodic major maintenance and concession handback. | Not solved | false |
+| 7 | [2013 Dec, Q4(a)](CIVL2108-2013-12-14.pdf#page=3) | Calculate wind-farm IRR with changing revenue, operating costs, six-year replacement costs and reversion. | Not solved | false |
 
 <a id="workflow-tender_arithmetic"></a>
 
@@ -276,13 +284,13 @@ Construct net cash flows including maintenance and terminal values; locate the r
 
 Reconcile the tender sum, calculate signed percentage adjustment where required, and apply the stated confirm/withdraw/correction rules for the contract type and timing.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2018 May, Q2(b)](CIVL2108-2018-05-17.pdf#page=2) | Handle an erroneous lump-sum tender when genuine errors cannot be corrected and the client seeks the correct sum. | Not solved |
-| 2 | [2016 May, Q5(a-d)](CIVL2108-2016-05-16.pdf#page=3) | Explain tender-error options, calculate the signed percentage error, and apply pre/post-contract and negotiation consequences. | Not solved |
-| 3 | [2015 Dec, Q5(c)](CIVL2108-2015-12-09.pdf#page=3) | Explain confirm-or-withdraw tender-error procedures for lump sum and whether they also apply to remeasurement. | Not solved |
-| 4 | [2014 Dec, Q2(b)](CIVL2108-2014-12-12.pdf#page=2) | Explain arithmetic-error procedures for a lump-sum tender and their purpose from the client's perspective. | Not solved |
-| 5 | [2013 Dec, Q3(b-d)](CIVL2108-2013-12-14.pdf#page=2) | Calculate and interpret the percentage adjustment after an arithmetic error; explain the two tender-error procedure options. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2018 May, Q2(b)](CIVL2108-2018-05-17.pdf#page=2) | Handle an erroneous lump-sum tender when genuine errors cannot be corrected and the client seeks the correct sum. | Not solved | false |
+| 2 | [2016 May, Q5(a-d)](CIVL2108-2016-05-16.pdf#page=3) | Explain tender-error options, calculate the signed percentage error, and apply pre/post-contract and negotiation consequences. | Not solved | true: 5 |
+| 3 | [2015 Dec, Q5(c)](CIVL2108-2015-12-09.pdf#page=3) | Explain confirm-or-withdraw tender-error procedures for lump sum and whether they also apply to remeasurement. | Not solved | true: 1, 4 |
+| 4 | [2014 Dec, Q2(b)](CIVL2108-2014-12-12.pdf#page=2) | Explain arithmetic-error procedures for a lump-sum tender and their purpose from the client's perspective. | Not solved | false |
+| 5 | [2013 Dec, Q3(b-d)](CIVL2108-2013-12-14.pdf#page=2) | Calculate and interpret the percentage adjustment after an arithmetic error; explain the two tender-error procedure options. | Not solved | false |
 
 <a id="workflow-project_risks"></a>
 
@@ -290,13 +298,13 @@ Reconcile the tender sum, calculate signed percentage adjustment where required,
 
 Link sources of uncertainty to time/cost/quality or investment outcomes; give scenario-specific prevention, allocation or mitigation measures.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2017 May, Q3(a)](CIVL2108-2017-05-08.pdf#page=2) | Explain with examples why civil-engineering projects face delay and cost-overrun risks. | Not solved |
-| 2 | [2016 Dec, Q3(b)](CIVL2108-2016-12-16.pdf#page=3) | Identify hotel-investment risks and ways to avoid or reduce them. | Not solved |
-| 3 | [2015 May, Q5(b), second b](CIVL2108-2015-05-18.pdf#page=4) | Discuss risks affecting the success of the hotel investment. | Not solved |
-| 4 | [2014 Dec, Q4(a)](CIVL2108-2014-12-12.pdf#page=2) | Explain why major infrastructure is exposed to delay, cost-overrun and quality risks, using examples. | Not solved |
-| 5 | [2014 Dec, Q3(b)](CIVL2108-2014-12-12.pdf#page=2) | Identify the toll-road investment's main risks and ways to avoid or reduce them. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2017 May, Q3(a)](CIVL2108-2017-05-08.pdf#page=2) | Explain with examples why civil-engineering projects face delay and cost-overrun risks. | Not solved | true: 5 |
+| 2 | [2016 Dec, Q3(b)](CIVL2108-2016-12-16.pdf#page=3) | Identify hotel-investment risks and ways to avoid or reduce them. | Not solved | true: 3, 4 |
+| 3 | [2015 May, Q5(b), second b](CIVL2108-2015-05-18.pdf#page=4) | Discuss risks affecting the success of the hotel investment. | Not solved | false |
+| 4 | [2014 Dec, Q3(b)](CIVL2108-2014-12-12.pdf#page=2) | Identify the toll-road investment's main risks and ways to avoid or reduce them. | Not solved | false |
+| 5 | [2014 Dec, Q4(a)](CIVL2108-2014-12-12.pdf#page=2) | Explain why major infrastructure is exposed to delay, cost-overrun and quality risks, using examples. | Not solved | false |
 
 <a id="workflow-tendering"></a>
 
@@ -304,13 +312,13 @@ Link sources of uncertainty to time/cost/quality or investment outcomes; give sc
 
 Explain bidder selection and stages; compare open/selective/two-stage/serial/negotiated approaches against technical complexity, repetition and client needs.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2023 Dec, Q4(a)](CIVL2108-2023-12-20.pdf#page=4) | Choose and justify a competitive tendering approach for a technically specialised project above $10 billion. | Not solved |
-| 2 | [2018 Dec, Q1(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Compare two-stage/conventional selective tendering; assess serial tendering for Lantau reclamation projects. | Not solved |
-| 3 | [2017 Dec, Q1(a-b)](CIVL2108-2017-12-22.pdf#page=2) | Evaluate serial tendering, negotiation and open tendering for Smart City projects. | Not solved |
-| 4 | [2016 May, Q1(a-b)](CIVL2108-2016-05-16.pdf#page=2) | Evaluate open tendering, negotiation and serial tendering for university halls on different sites and schedules. | Not solved |
-| 5 | [2015 May, Q1(a-b)](CIVL2108-2015-05-18.pdf#page=2) | Evaluate two-stage selective and serial tendering for a series of Smart City projects. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2023 Dec, Q4(a)](CIVL2108-2023-12-20.pdf#page=4) | Choose and justify a competitive tendering approach for a technically specialised project above $10 billion. | Not solved | false |
+| 2 | [2018 Dec, Q1(a)-(b)](CIVL2108-2018-12-21.pdf#page=2) | Compare two-stage/conventional selective tendering; assess serial tendering for Lantau reclamation projects. | Not solved | true: 1, 5 |
+| 3 | [2017 Dec, Q1(a-b)](CIVL2108-2017-12-22.pdf#page=2) | Evaluate serial tendering, negotiation and open tendering for Smart City projects. | Not solved | true: 4 |
+| 4 | [2016 May, Q1(a-b)](CIVL2108-2016-05-16.pdf#page=2) | Evaluate open tendering, negotiation and serial tendering for university halls on different sites and schedules. | Not solved | false |
+| 5 | [2015 May, Q1(a-b)](CIVL2108-2015-05-18.pdf#page=2) | Evaluate two-stage selective and serial tendering for a series of Smart City projects. | Not solved | false |
 
 <a id="workflow-repetitive"></a>
 
@@ -318,12 +326,12 @@ Explain bidder selection and stages; compare open/selective/two-stage/serial/neg
 
 Identify repeated units and crew sequence; derive turnover from the deadline, draw the repetitive programme and test idle time or productivity improvements.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2018 May, Q4(a)-(d)](CIVL2108-2018-05-17.pdf#page=3) | Plan repetitive identical residential units: determine turnover to meet 270 days, draw the programme and improve productivity. | Not solved |
-| 2 | [2017 May, Q2(a-c)](CIVL2108-2017-05-08.pdf#page=2) | Calculate turnover and draw a repetitive programme for eighty road sections within the overall deadline; justify the method. | Not solved |
-| 3 | [2015 Dec, Q4(a-c)](CIVL2108-2015-12-09.pdf#page=3) | Calculate turnover and prepare a repetitive programme for twenty identical residential units; justify turnover planning. | Not solved |
-| 4 | [2014 Dec, Q5(b)](CIVL2108-2014-12-12.pdf#page=3) | Diagram a repetitive programme to avoid idle resources and explain how turnover is determined. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2018 May, Q4(a)-(d)](CIVL2108-2018-05-17.pdf#page=3) | Plan repetitive identical residential units: determine turnover to meet 270 days, draw the programme and improve productivity. | Not solved | true: 2, 3, 4 |
+| 2 | [2017 May, Q2(a-c)](CIVL2108-2017-05-08.pdf#page=2) | Calculate turnover and draw a repetitive programme for eighty road sections within the overall deadline; justify the method. | Not solved | false |
+| 3 | [2015 Dec, Q4(a-c)](CIVL2108-2015-12-09.pdf#page=3) | Calculate turnover and prepare a repetitive programme for twenty identical residential units; justify turnover planning. | Not solved | false |
+| 4 | [2014 Dec, Q5(b)](CIVL2108-2014-12-12.pdf#page=3) | Diagram a repetitive programme to avoid idle resources and explain how turnover is determined. | Not solved | false |
 
 <a id="workflow-contract_types"></a>
 
@@ -331,12 +339,12 @@ Identify repeated units and crew sequence; derive turnover from the deadline, dr
 
 Evaluate scope certainty, measurement, urgency and repetition; explain risk/payment consequences and recommend the suitable pricing/term arrangement.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2016 Dec, Q1(a-b)](CIVL2108-2016-12-16.pdf#page=2) | Compare lump-sum, remeasurement and term contracts for prolonged alteration of vacant public-housing units. | Not solved |
-| 2 | [2015 Dec, Q1(a-c)](CIVL2108-2015-12-09.pdf#page=2) | Select contracts for urgent bridge-damage repairs and planned pavement replacement; justify their mechanisms. | Not solved |
-| 3 | [2014 May, Q1(a-c)](CIVL2108-2014-05-12.pdf#page=2) | Assess lump-sum pricing for emergency railway repairs; recommend alternatives and a contract for planned track maintenance. | Not solved |
-| 4 | [2013 May, Q1(a-b)](CIVL2108-2013-05-13.pdf#page=1) | Compare lump-sum and remeasurement contracts for phased university renovations; explain and recommend or reject a term contract. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2016 Dec, Q1(a-b)](CIVL2108-2016-12-16.pdf#page=2) | Compare lump-sum, remeasurement and term contracts for prolonged alteration of vacant public-housing units. | Not solved | true: 4 |
+| 2 | [2015 Dec, Q1(a-c)](CIVL2108-2015-12-09.pdf#page=2) | Select contracts for urgent bridge-damage repairs and planned pavement replacement; justify their mechanisms. | Not solved | true: 3 |
+| 3 | [2014 May, Q1(a-c)](CIVL2108-2014-05-12.pdf#page=2) | Assess lump-sum pricing for emergency railway repairs; recommend alternatives and a contract for planned track maintenance. | Not solved | false |
+| 4 | [2013 May, Q1(a-b)](CIVL2108-2013-05-13.pdf#page=1) | Compare lump-sum and remeasurement contracts for phased university renovations; explain and recommend or reject a term contract. | Not solved | false |
 
 <a id="workflow-circular"></a>
 
@@ -344,11 +352,11 @@ Evaluate scope certainty, measurement, urgency and repetition; explain risk/paym
 
 Define circularity, evaluate benefits and sustainability trade-offs, then connect specific design/construction/operation strategies to management changes.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 May, Q1(a)-(c)](CIVL2108-2024-05-17.pdf#page=2) | Define circular economy, explain benefits and adapt project management for Northern Metropolis housing. | Not solved |
-| 2 | [2023 May, Q2(b)](CIVL2108-2023-05-17.pdf#page=2) | Propose circular construction strategies with new-building examples. | Not solved |
-| 3 | [2022 Dec, Q1(a)-(c)](CIVL2108-2022-12-09.pdf#page=2) | Explain circular economy, examine whether circular means sustainable, and recommend strategies for a university hall. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 May, Q1(a)-(c)](CIVL2108-2024-05-17.pdf#page=2) | Define circular economy, explain benefits and adapt project management for Northern Metropolis housing. | Not solved | true: 2, 3 |
+| 2 | [2023 May, Q2(b)](CIVL2108-2023-05-17.pdf#page=2) | Propose circular construction strategies with new-building examples. | Not solved | false |
+| 3 | [2022 Dec, Q1(a)-(c)](CIVL2108-2022-12-09.pdf#page=2) | Explain circular economy, examine whether circular means sustainable, and recommend strategies for a university hall. | Not solved | false |
 
 <a id="workflow-programmes"></a>
 
@@ -356,11 +364,11 @@ Define circularity, evaluate benefits and sustainability trade-offs, then connec
 
 Identify the detail, audience, timing and purpose of outline, master and repetitive programmes; illustrate their differing uses.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q3(a)](CIVL2108-2022-05-16.pdf#page=2) | Distinguish outline and master construction programmes with diagrams. | Not solved |
-| 2 | [2019 May, Q4(a)](CIVL2108-2019-05-10.pdf#page=2) | Explain outline, master and sequence/repetitive programmes and illustrate their uses. | Not solved |
-| 3 | [2015 Dec, Q4(d)](CIVL2108-2015-12-09.pdf#page=3) | Distinguish the repetitive programme from outline and master programmes. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q3(a)](CIVL2108-2022-05-16.pdf#page=2) | Distinguish outline and master construction programmes with diagrams. | Not solved | false |
+| 2 | [2019 May, Q4(a)](CIVL2108-2019-05-10.pdf#page=2) | Explain outline, master and sequence/repetitive programmes and illustrate their uses. | Not solved | true: 1, 3 |
+| 3 | [2015 Dec, Q4(d)](CIVL2108-2015-12-09.pdf#page=3) | Distinguish the repetitive programme from outline and master programmes. | Not solved | false |
 
 <a id="workflow-direct_bc"></a>
 
@@ -368,10 +376,10 @@ Identify the detail, audience, timing and purpose of outline, master and repetit
 
 Separate discounted benefits and costs on the specified horizon; calculate each direct B/C ratio and answer the requested ranking.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q3(d)](CIVL2108-2024-12-12.pdf#page=3) | Compare three toll-highway options by their direct benefit/cost ratios over 30 years. | Not solved |
-| 2 | [2022 Dec, Q2(c)](CIVL2108-2022-12-09.pdf#page=2) | Find the hotel renovation alternative with the highest direct B/C ratio. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q3(d)](CIVL2108-2024-12-12.pdf#page=3) | Compare three toll-highway options by their direct benefit/cost ratios over 30 years. | Not solved | true: 2 |
+| 2 | [2022 Dec, Q2(c)](CIVL2108-2022-12-09.pdf#page=2) | Find the hotel renovation alternative with the highest direct B/C ratio. | Not solved | false |
 
 <a id="workflow-estimate_theory"></a>
 
@@ -379,10 +387,12 @@ Separate discounted benefits and costs on the specified horizon; calculate each 
 
 Identify cost elements and productivity/material factors, then explain why the same volume or nominal item can yield different rates.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2019 May, Q2(b)](CIVL2108-2019-05-10.pdf#page=2) | Explain factors causing construction-cost changes in a residual valuation. | Not solved |
-| 2 | [2016 May, Q3(a-c)](CIVL2108-2016-05-16.pdf#page=2) | Explain unit-rate elements and raw-material factors; compare concrete column and foundation rates of equal volume. | Not solved |
+**Priority note:** Residual-valuation cost variation and assembling/comparing unit-rate elements are related cost topics but do not repeat the same task.
+
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2019 May, Q2(b)](CIVL2108-2019-05-10.pdf#page=2) | Explain factors causing construction-cost changes in a residual valuation. | Not solved | false |
+| 2 | [2016 May, Q3(a-c)](CIVL2108-2016-05-16.pdf#page=2) | Explain unit-rate elements and raw-material factors; compare concrete column and foundation rates of equal volume. | Not solved | false |
 
 <a id="workflow-activity_logic"></a>
 
@@ -390,10 +400,10 @@ Identify cost elements and productivity/material factors, then explain why the s
 
 Define activity logic and use examples/diagrams to distinguish the common start/finish relationships.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q3(b)](CIVL2108-2022-05-16.pdf#page=2) | Define activity logic and illustrate different predecessor relationship types. | Not solved |
-| 2 | [2013 Dec, Q5(a)](CIVL2108-2013-12-14.pdf#page=3) | Explain activity logic and the four common predecessor relationships using examples. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q3(b)](CIVL2108-2022-05-16.pdf#page=2) | Define activity logic and illustrate different predecessor relationship types. | Not solved | true: 2 |
+| 2 | [2013 Dec, Q5(a)](CIVL2108-2013-12-14.pdf#page=3) | Explain activity logic and the four common predecessor relationships using examples. | Not solved | false |
 
 <a id="workflow-social_impacts"></a>
 
@@ -401,10 +411,10 @@ Define activity logic and use examples/diagrams to distinguish the common start/
 
 Identify affected groups and the project counterfactual; distinguish positive/negative external effects across construction and operation.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 May, Q3(a)](CIVL2108-2024-05-17.pdf#page=3) | Identify social benefits and social costs of the Hong Kong-Zhuhai-Macao Bridge. | Not solved |
-| 2 | [2022 Dec, Q4(a)](CIVL2108-2022-12-09.pdf#page=3) | Identify social costs and benefits of the Tseung Kwan O Cross Bay Link. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 May, Q3(a)](CIVL2108-2024-05-17.pdf#page=3) | Identify social benefits and social costs of the Hong Kong-Zhuhai-Macao Bridge. | Not solved | true: 2 |
+| 2 | [2022 Dec, Q4(a)](CIVL2108-2022-12-09.pdf#page=3) | Identify social costs and benefits of the Tseung Kwan O Cross Bay Link. | Not solved | false |
 
 <a id="workflow-incremental_bc"></a>
 
@@ -412,10 +422,10 @@ Identify affected groups and the project counterfactual; distinguish positive/ne
 
 Order alternatives appropriately, compare incremental discounted benefits and costs, and retain/reject each increment using the stated decision rule.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2023 Dec, Q3(a)](CIVL2108-2023-12-20.pdf#page=3) | Rank four investment options using incremental B/C at an 8% discount rate. | Not solved |
-| 2 | [2022 Dec, Q2(d)](CIVL2108-2022-12-09.pdf#page=2) | Select the best hotel renovation using incremental benefit/cost analysis. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2023 Dec, Q3(a)](CIVL2108-2023-12-20.pdf#page=3) | Rank four investment options using incremental B/C at an 8% discount rate. | Not solved | true: 2 |
+| 2 | [2022 Dec, Q2(d)](CIVL2108-2022-12-09.pdf#page=2) | Select the best hotel renovation using incremental benefit/cost analysis. | Not solved | false |
 
 <a id="workflow-npv_irr_comparison"></a>
 
@@ -423,9 +433,9 @@ Order alternatives appropriately, compare incremental discounted benefits and co
 
 Explain how the criteria rank investments and justify the criterion appropriate to the decision.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2017 May, Q4(c)](CIVL2108-2017-05-08.pdf#page=3) | Compare NPV and IRR and justify the method used to make the investment decision. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2017 May, Q4(c)](CIVL2108-2017-05-08.pdf#page=3) | Compare NPV and IRR and justify the method used to make the investment decision. | Not solved | false |
 
 <a id="workflow-delay_entitlements"></a>
 
@@ -433,9 +443,9 @@ Explain how the criteria rank investments and justify the criterion appropriate 
 
 Identify who causes the delay and distinguish the resulting contractual consequences in the paper context.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2014 May, Q5(b)](CIVL2108-2014-05-12.pdf#page=3) | Distinguish client-caused and contractor-caused delay and explain their different consequences. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2014 May, Q5(b)](CIVL2108-2014-05-12.pdf#page=3) | Distinguish client-caused and contractor-caused delay and explain their different consequences. | Not solved | false |
 
 <a id="workflow-cost_indices"></a>
 
@@ -443,9 +453,9 @@ Identify who causes the delay and distinguish the resulting contractual conseque
 
 Explain what each index measures and give an appropriate construction-industry application.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2018 Dec, Q4(b)](CIVL2108-2018-12-21.pdf#page=3) | Distinguish tender price and building cost indices and illustrate applications. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2018 Dec, Q4(b)](CIVL2108-2018-12-21.pdf#page=3) | Distinguish tender price and building cost indices and illustrate applications. | Not solved | false |
 
 <a id="workflow-resource_profile"></a>
 
@@ -453,9 +463,9 @@ Explain what each index measures and give an appropriate construction-industry a
 
 Allocate the stated resource values to activity periods, plot the resulting profile, then identify peaks/idle resources and propose smoothing.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2013 Dec, Q5(b-c)](CIVL2108-2013-12-14.pdf#page=3) | Draw a resource-requirement histogram from dates, durations and BQ amounts; assess and improve its resource profile. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2013 Dec, Q5(b-c)](CIVL2108-2013-12-14.pdf#page=3) | Draw a resource-requirement histogram from dates, durations and BQ amounts; assess and improve its resource profile. | Not solved | false |
 
 <a id="workflow-labour_management"></a>
 
@@ -463,9 +473,9 @@ Allocate the stated resource values to activity periods, plot the resulting prof
 
 Relate off-site prefabrication and on-site assembly to labour needs, material use, logistics and management benefits.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2024 Dec, Q4(b)](CIVL2108-2024-12-12.pdf#page=3) | Explain MiC advantages for labour and material management. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2024 Dec, Q4(b)](CIVL2108-2024-12-12.pdf#page=3) | Explain MiC advantages for labour and material management. | Not solved | false |
 
 <a id="workflow-network_methods"></a>
 
@@ -473,9 +483,9 @@ Relate off-site prefabrication and on-site assembly to labour needs, material us
 
 Describe how the network represents activities/events and explain the disadvantage asked about.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2013 May, Q2(a)](CIVL2108-2013-05-13.pdf#page=2) | Explain activity-on-arrow networks and their main disadvantage. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2013 May, Q2(a)](CIVL2108-2013-05-13.pdf#page=2) | Explain activity-on-arrow networks and their main disadvantage. | Not solved | false |
 
 <a id="workflow-feasibility_purpose"></a>
 
@@ -483,9 +493,9 @@ Describe how the network represents activities/events and explain the disadvanta
 
 Explain the decisions, alternatives and impacts a feasibility study investigates and how that evidence benefits the public.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2023 Dec, Q4(c)](CIVL2108-2023-12-20.pdf#page=4) | Explain feasibility-study purpose and benefits to the general public. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2023 Dec, Q4(c)](CIVL2108-2023-12-20.pdf#page=4) | Explain feasibility-study purpose and benefits to the general public. | Not solved | false |
 
 <a id="workflow-markup"></a>
 
@@ -493,9 +503,9 @@ Explain the decisions, alternatives and impacts a feasibility study investigates
 
 Distinguish the tender addition from base estimated cost and explain where it is reflected.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2018 May, Q5(b)](CIVL2108-2018-05-17.pdf#page=3) | Define markup and explain how it appears in a tender. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2018 May, Q5(b)](CIVL2108-2018-05-17.pdf#page=3) | Define markup and explain how it appears in a tender. | Not solved | false |
 
 <a id="workflow-time_value_concept"></a>
 
@@ -503,9 +513,9 @@ Distinguish the tender addition from base estimated cost and explain where it is
 
 Explain why amounts at different dates require a common value basis before comparison.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2023 Dec, Q3(d)](CIVL2108-2023-12-20.pdf#page=3) | Explain the time value of money. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2023 Dec, Q3(d)](CIVL2108-2023-12-20.pdf#page=3) | Explain the time value of money. | Not solved | false |
 
 <a id="workflow-engineer_instruction"></a>
 
@@ -513,9 +523,9 @@ Explain why amounts at different dates require a common value basis before compa
 
 Relate the requested instruction to the circumstances described in the examination contract context.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2014 May, Q4(a)](CIVL2108-2014-05-12.pdf#page=3) | Identify five circumstances permitting an Engineer's Instruction under the civil-engineering conditions of contract. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2014 May, Q4(a)](CIVL2108-2014-05-12.pdf#page=3) | Identify five circumstances permitting an Engineer's Instruction under the civil-engineering conditions of contract. | Not solved | false |
 
 <a id="workflow-sensitivity"></a>
 
@@ -523,9 +533,9 @@ Relate the requested instruction to the circumstances described in the examinati
 
 Vary one input at a time, relate changes to IRR/financial viability, and identify the most influential uncertain inputs.
 
-| # | Source | Question description | Status |
-| --- | --- | --- | --- |
-| 1 | [2022 May, Q2(c)](CIVL2108-2022-05-16.pdf#page=2) | Use an IRR sensitivity diagram to discuss financial viability uncertainty as input variables change. | Not solved |
+| # | Source | Question description | Status | Priority status |
+| ---: | --- | --- | --- | --- |
+| 1 | [2022 May, Q2(c)](CIVL2108-2022-05-16.pdf#page=2) | Use an IRR sensitivity diagram to discuss financial viability uncertainty as input variables change. | Not solved | false |
 
 ## Papers and source coverage
 
