@@ -115,7 +115,7 @@ Reference: Lecture 9.
 
 | # | Source | Question description | Status | Priority status |
 | ---: | --- | --- | --- | --- |
-| 1 | [2026 May, Q2(b)(i)](CIVL1113-2026-may-mechanics.pdf#page=2) | Transform the plane-stress state to a 45-degree counterclockwise rotated element. | solved | true: 2, 3, 4, 8, 9, 17 |
+| 1 | [2026 May, Q2(b)(i)](CIVL1113-2026-may-mechanics.pdf#page=2) | Transform the plane-stress state to a 45-degree counterclockwise rotated element. | Solved | true: 2, 3, 4, 8, 9, 17 |
 | 2 | [2025 Dec, Q2(b)(i)](CIVL1113-2025-dec-mechanics.pdf#page=2) | Transform the given plane-stress state to a 60-degree counterclockwise orientation. | Not solved | false |
 | 3 | [2025 May, Q2(b)(i)](CIVL1113-2025-may-mechanics.pdf#page=2) | Transform the plane-stress element through 30 degrees counterclockwise. | Not solved | false |
 | 4 | [2024 Dec, Q2(b)(i)](CIVL1113-2024-dec-mechanics.pdf#page=2) | Transform the given plane-stress state to an element rotated 45 degrees counterclockwise. | Not solved | false |
@@ -123,13 +123,13 @@ Reference: Lecture 9.
 | 6 | [2023 Dec, Q2(b)(i)](CIVL1113-2023-dec-mechanics.pdf#page=3) | Calculate maximum and minimum principal stresses for the given plane-stress element. | Not solved | false |
 | 7 | [2022 May, Q2(d)](CIVL1113-2022-may-mechanics.pdf#page=1) | Build the stress element at the section centroid including transverse shear, then find principal tensile/compressive stresses. | Not solved | false |
 | 8 | [2021 Dec, Q2(a)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use plane-stress transformation equations to find stresses on a plane rotated 40 degrees counterclockwise for a given biaxial-plus-shear state. | Not solved | false |
-| 9 | [2021 Dec, Q2(b)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Find stresses on the same rotated plane using Mohr's circle. | solved | false |
-| 10 | [2021 Dec, Q2(c)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use Mohr's circle to find principal stresses, maximum shear stress and their directions; show the stress states. | solved | true: 5, 6, 11, 12, 18, 19 |
+| 9 | [2021 Dec, Q2(b)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Find stresses on the same rotated plane using Mohr's circle. | Solved | false |
+| 10 | [2021 Dec, Q2(c)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use Mohr's circle to find principal stresses, maximum shear stress and their directions; show the stress states. | Solved | true: 5, 6, 11, 12, 18, 19 |
 | 11 | [2021 May, Q3(a)](CIVL1113-2021-may-mechanics.pdf#page=2) | Find maximum shear stress and its directions for a biaxial stress state using plane-stress transformation equations; show the stress state. | Not solved | false |
 | 12 | [2021 May, Q3(b)](CIVL1113-2021-may-mechanics.pdf#page=2) | Find the same maximum shear stress and directions using Mohr's circle; show the stress state. | Not solved | false |
 | 13 | [2020 Dec, Q3(c–d)](CIVL1113-2020-dec-mechanics.pdf#page=2) | Locate and calculate maximum and minimum principal stresses under combined torsion and bending. | Not solved | false |
 | 14 | [2020 May, Q2(c–d)](CIVL1113-2020-may-mechanics.pdf#page=2) | Locate and calculate maximum and minimum principal stresses under combined torsion and bending. | Not solved | false |
-| 15 | [2016 May, Q2](CIVL1113-2016-may-mechanics.pdf#page=3) | At a specified point in a Z-section beam, calculate principal stresses and maximum shear stress, with their directions. | solved | true: 7, 13, 14, 16 |
+| 15 | [2016 May, Q2](CIVL1113-2016-may-mechanics.pdf#page=3) | At a specified point in a Z-section beam, calculate principal stresses and maximum shear stress, with their directions. | Solved | true: 7, 13, 14, 16 |
 | 16 | [2014 Dec, Q3(b)](CIVL1113-2014-dec-mechanics.pdf#page=3) | Find bending/shear stresses at the specified T-beam point and obtain principal stresses and maximum shear stress. | Not solved | false |
 | 17 | [2012 Dec, Q3(b)](CIVL1113-2012-dec-mechanics.pdf#page=3) | Construct Mohr's circle and plot the stress state for a counterclockwise rotated element. | Not solved | false |
 | 18 | [2010 May, Q3(a)](CIVL1113-2010-may-mechanics.pdf#page=3) | Construct Mohr's circle and calculate the principal stresses of the given stress element. | Not solved | false |
