@@ -142,14 +142,14 @@ Reference: Lecture 11.
 
 | # | Source | Question description | Status | Priority status |
 | ---: | --- | --- | --- | --- |
-| 1 | [2026 May, Q3(b)](CIVL1113-2026-may-mechanics.pdf#page=3) | Compare in-plane and out-of-plane Euler buckling of a rectangular column with midpoint restraint in only one direction. | Not solved | true: 4, 5, 12, 14 |
-| 2 | [2025 Dec, Q3](CIVL1113-2025-dec-mechanics.pdf#page=3) | Use the beam load split and different lower-end restraints to find the critical applied load governed by either supporting column. | Not solved | true: 3, 9, 10 |
+| 1 | [2026 May, Q3(b)](CIVL1113-2026-may-mechanics.pdf#page=3) | Compare in-plane and out-of-plane Euler buckling of a rectangular column with midpoint restraint in only one direction. | Solved | true: 4, 5, 12, 14 |
+| 2 | [2025 Dec, Q3](CIVL1113-2025-dec-mechanics.pdf#page=3) | Use the beam load split and different lower-end restraints to find the critical applied load governed by either supporting column. | Solved | true: 3, 9, 10 |
 | 3 | [2025 May, Q3](CIVL1113-2025-may-mechanics.pdf#page=3) | Check the hollow steel tube supporting a rigid loaded beam for buckling with the stated guided/sliding base restraint. | Not solved | false |
 | 4 | [2024 Dec, Q3(i)](CIVL1113-2024-dec-mechanics.pdf#page=3) | Compare both principal-axis buckling modes for a midpoint-restrained column and find allowable load with a factor of safety of two. | Not solved | false |
 | 5 | [2024 May, Q3(b)](CIVL1113-2024-may-mechanics.pdf#page=2) | Compare in-plane and out-of-plane buckling of a rectangular column with one-direction midpoint restraint; find governing load and compressive stress. | Not solved | false |
 | 6 | [2023 Dec, Q3(b)(i)](CIVL1113-2023-dec-mechanics.pdf#page=3) | Find allowable load of a circular pin-ended column with midpoint lateral restraint and a factor of safety. | Not solved | false |
 | 7 | [2022 May, Q3(b)(i-ii)](CIVL1113-2022-may-mechanics.pdf#page=2) | Calculate truss member axial forces, then check which compression members buckle individually under Euler theory. | Not solved | false |
-| 8 | [2021 Dec, Q3(b)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use Euler buckling to find each truss critical applied load and identify the bar that buckles. | Not solved | true: 7, 11, 13 |
+| 8 | [2021 Dec, Q3(b)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use Euler buckling to find each truss critical applied load and identify the bar that buckles. | Solved | true: 7, 11, 13 |
 | 9 | [2019 May, Q3(a)](CIVL1113-2019-may-mechanics.pdf#page=2) | Find the applied load limited by Euler buckling of the circular steel brace supporting a T-section beam. | Not solved | false |
 | 10 | [2017 May, Q3(a)](CIVL1113-2017-may-mechanics.pdf#page=1) | Use end-restraint conditions and Euler theory to calculate critical loads of two frames with axially rigid members. | Not solved | false |
 | 11 | [2016 Dec, Q3(b)](CIVL1113-2016-dec-mechanics.pdf#page=1) | Use Euler buckling of pin-ended truss members to find each truss critical applied load and identify the member that buckles. | Not solved | false |
