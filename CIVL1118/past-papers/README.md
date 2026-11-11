@@ -121,7 +121,7 @@ Reference: Lecture 9.
 | 4 | [2024 Dec, Q2(b)(i)](CIVL1113-2024-dec-mechanics.pdf#page=2) | Transform the given plane-stress state to an element rotated 45 degrees counterclockwise. | Not solved | false |
 | 5 | [2024 May, Q2(b)(i)](CIVL1113-2024-may-mechanics.pdf#page=2) | Find principal tensile/compressive stresses and the direction of the principal compressive stress. | Not solved | false |
 | 6 | [2023 Dec, Q2(b)(i)](CIVL1113-2023-dec-mechanics.pdf#page=3) | Calculate maximum and minimum principal stresses for the given plane-stress element. | Not solved | false |
-| 7 | [2022 May, Q2(d)](CIVL1113-2022-may-mechanics.pdf#page=1) | Build the stress element at the section centroid including transverse shear, then find principal tensile/compressive stresses. | Not solved | false |
+| 7 | [2022 May, Q2(d)](CIVL1113-2022-may-mechanics.pdf#page=1) | Build the stress element at the section centroid including transverse shear, then find principal tensile/compressive stresses. | Solved | false |
 | 8 | [2021 Dec, Q2(a)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use plane-stress transformation equations to find stresses on a plane rotated 40 degrees counterclockwise for a given biaxial-plus-shear state. | Not solved | false |
 | 9 | [2021 Dec, Q2(b)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Find stresses on the same rotated plane using Mohr's circle. | Solved | false |
 | 10 | [2021 Dec, Q2(c)](CIVL1113-2021-dec-mechanics.pdf#page=2) | Use Mohr's circle to find principal stresses, maximum shear stress and their directions; show the stress states. | Solved | true: 5, 6, 11, 12, 18, 19 |
@@ -165,9 +165,9 @@ Reference: Lectures 1 and 3.
 
 | # | Source | Question description | Status | Priority status |
 | ---: | --- | --- | --- | --- |
-| 1 | [2026 May, Q1(b)(i-ii)](CIVL1113-2026-may-mechanics.pdf#page=2) | Resolve an inclined end load and draw AFD/SFD/BMD for every member of a rigidly joined beam-column frame. | Not solved | true: 2, 5, 8, 9, 12 |
+| 1 | [2026 May, Q1(b)(i-ii)](CIVL1113-2026-may-mechanics.pdf#page=2) | Resolve an inclined end load and draw AFD/SFD/BMD for every member of a rigidly joined beam-column frame. | Solved | true: 2, 5, 8, 9, 12 |
 | 2 | [2025 Dec, Q1(b)(i)](CIVL1113-2025-dec-mechanics.pdf#page=2) | Draw BMD for every member of a rigidly connected beam-column frame under horizontal point load and beam UDL. | Not solved | false |
-| 3 | [2025 May, Q1(b)(i-ii)](CIVL1113-2025-may-mechanics.pdf#page=2) | Draw SFD/BMD for all members of a frame with an internal hinge, two hinge supports, and loads on a column and beam. | Not solved | true: 4, 6, 7, 10, 11 |
+| 3 | [2025 May, Q1(b)(i-ii)](CIVL1113-2025-may-mechanics.pdf#page=2) | Draw SFD/BMD for all members of a frame with an internal hinge, two hinge supports, and loads on a column and beam. | Solved | true: 4, 6, 7, 10, 11 |
 | 4 | [2024 Dec, Q1(b)(i-ii)](CIVL1113-2024-dec-mechanics.pdf#page=2) | Draw SFD/BMD for every member of a two-pin-supported frame with an internal hinge. | Not solved | false |
 | 5 | [2024 May, Q1(b)(i-ii)](CIVL1113-2024-may-mechanics.pdf#page=2) | Draw SFD/BMD for a fixed/pin/roller frame under lateral distributed load and a beam point load. | Not solved | false |
 | 6 | [2023 Dec, Q1(b)(i-ii)](CIVL1113-2023-dec-mechanics.pdf#page=2) | Use the zero moment at a release joint to draw frame SFD/BMD under column point load and beam UDL. | Not solved | false |
@@ -187,14 +187,14 @@ Reference: Lectures 4–5.
 | ---: | --- | --- | --- | --- |
 | 1 | [2025 Dec, Q1(a)(ii)](CIVL1113-2025-dec-mechanics.pdf#page=2) | Choose the smallest square solid beam section satisfying the flexural stress limit. | Not solved | false |
 | 2 | [2025 Dec, Q1(b)(ii)](CIVL1113-2025-dec-mechanics.pdf#page=2) | Determine maximum compressive normal stress in the box-section frame, including the internal axial force where applicable. | Not solved | false |
-| 3 | [2022 May, Q2(c)](CIVL1113-2022-may-mechanics.pdf#page=1) | Find extreme tensile/compressive normal stress from the combination of axial force and bending moment. | Not solved | true: 2, 9 |
+| 3 | [2022 May, Q2(c)](CIVL1113-2022-may-mechanics.pdf#page=1) | Find extreme tensile/compressive normal stress from the combination of axial force and bending moment. | Solved | true: 2, 9 |
 | 4 | [2020 Dec, Q3(b)](CIVL1113-2020-dec-mechanics.pdf#page=2) | For the same circular bar, locate and calculate maximum bending stress. | Not solved | false |
 | 5 | [2020 May, Q2(b)](CIVL1113-2020-may-mechanics.pdf#page=2) | For the same circular bar, locate and calculate maximum bending stress. | Not solved | false |
 | 6 | [2019 May, Q2(d)](CIVL1113-2019-may-mechanics.pdf#page=1) | Determine the largest additional central point load before tensile cracking and identify where the first crack occurs. | Not solved | false |
 | 7 | [2019 May, Q3(c)](CIVL1113-2019-may-mechanics.pdf#page=2) | Calculate maximum tensile and compressive bending stresses and their positions in the T-section beam. | Not solved | false |
 | 8 | [2017 May, Q2(c)](CIVL1113-2017-may-mechanics.pdf#page=1) | Find maximum beam stress and its location for the beam-truss assembly. | Not solved | false |
 | 9 | [2016 Dec, Q2(c)](CIVL1113-2016-dec-mechanics.pdf#page=1) | Find maximum tensile and compressive stresses and their positions in the T-beam under combined axial force and bending. | Not solved | false |
-| 10 | [2015 Dec, Q1](CIVL1113-2015-dec-mechanics.pdf#page=2) | Find allowable UDL for an overhanging beam with unequal I-section flanges and different tension/compression limits. | Not solved | true: 1, 6, 7, 8, 11, 12 |
+| 10 | [2015 Dec, Q1](CIVL1113-2015-dec-mechanics.pdf#page=2) | Find allowable UDL for an overhanging beam with unequal I-section flanges and different tension/compression limits. | Solved | true: 1, 6, 7, 8, 11, 12 |
 | 11 | [2013 Dec, Q2(a-c)](CIVL1113-2013-dec-mechanics.pdf#page=2) | Locate the T-section centroid, find maximum allowable UDL from the tensile limit, and calculate the largest flange bending stress. | Not solved | false |
 | 12 | [2011 May, Q1(a,b,d)](CIVL1113-2011-may-mechanics.pdf#page=2) | Express box-section second moment of area, size its width for a point load, and find load capacity for a specified width. | Not solved | false |
 
