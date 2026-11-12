@@ -272,8 +272,8 @@ Reference: Lecture 8.
 | # | Source | Question description | Status | Priority status |
 | ---: | --- | --- | --- | --- |
 | 1 | [2026 May, Q3(a)](CIVL1113-2026-may-mechanics.pdf#page=3) | Find the maximum rod diameter consistent with a specified end rotation and allowable shear strain. | Not solved | false |
-| 2 | [2025 May, Q1(a)(i-ii)](CIVL1113-2025-may-mechanics.pdf#page=2) | Find maximum shear stress and free-end twist of a thick-walled circular tube, using a nonuniform shear-stress distribution. | Not solved | true: 4, 5, 6, 7 |
-| 3 | [2024 May, Q3(a)](CIVL1113-2024-may-mechanics.pdf#page=2) | Choose the minimum solid-shaft diameter satisfying both allowable shear stress and allowable twist per unit length. | Not solved | true: 1 |
+| 2 | [2025 May, Q1(a)(i-ii)](CIVL1113-2025-may-mechanics.pdf#page=2) | Find maximum shear stress and free-end twist of a thick-walled circular tube, using a nonuniform shear-stress distribution. | Solved | true: 4, 5, 6, 7 |
+| 3 | [2024 May, Q3(a)](CIVL1113-2024-may-mechanics.pdf#page=2) | Choose the minimum solid-shaft diameter satisfying both allowable shear stress and allowable twist per unit length. | Solved | true: 1 |
 | 4 | [2023 Dec, Q3(a)(i-ii)](CIVL1113-2023-dec-mechanics.pdf#page=3) | Find maximum shaft shear stress and the angle of twist at C for a solid circular shaft with torque at an interior point. | Not solved | false |
 | 5 | [2022 May, Q3(a)(i-ii)](CIVL1113-2022-may-mechanics.pdf#page=1) | Calculate shear stress and angle of twist of a thin-walled hollow circular cantilever shaft. | Not solved | false |
 | 6 | [2020 Dec, Q3(a)](CIVL1113-2020-dec-mechanics.pdf#page=2) | For a circular bar under end torque and bending moment, locate and calculate maximum torsional shear stress. | Not solved | false |
