@@ -223,10 +223,10 @@ Reference: Lectures 4–7 and 10.
 
 | # | Source | Question description | Status | Priority status |
 | ---: | --- | --- | --- | --- |
-| 1 | [2026 May, Q2(a)(i-ii)](CIVL1113-2026-may-mechanics.pdf#page=2) | Find tensile/compressive normal stresses and maximum shear in the given beam section, then check Tresca safety. | Not solved | true: 3, 8 |
+| 1 | [2026 May, Q2(a)(i-ii)](CIVL1113-2026-may-mechanics.pdf#page=2) | Find tensile/compressive normal stresses and maximum shear in the given beam section, then check Tresca safety. | Solved | true: 3, 8 |
 | 2 | [2025 Dec, Q2(a)(i-ii)](CIVL1113-2025-dec-mechanics.pdf#page=2) | Find maximum normal/shear stresses in a point-loaded simply supported beam and check von Mises safety. | Not solved | false |
 | 3 | [2025 May, Q2(a)(i-ii)](CIVL1113-2025-may-mechanics.pdf#page=2) | Combine self-weight bending, transverse shear and axial tension in a thin-web cantilever; check strength using Tresca. | Not solved | false |
-| 4 | [2024 Dec, Q2(a)(i-ii)](CIVL1113-2024-dec-mechanics.pdf#page=2) | Find maximum bending/shear stresses in a UDL-loaded cantilever I-beam and evaluate von Mises safety. | Not solved | true: 2, 5, 6, 7 |
+| 4 | [2024 Dec, Q2(a)(i-ii)](CIVL1113-2024-dec-mechanics.pdf#page=2) | Find maximum bending/shear stresses in a UDL-loaded cantilever I-beam and evaluate von Mises safety. | Solved | true: 2, 5, 6, 7 |
 | 5 | [2024 May, Q2(a)](CIVL1113-2024-may-mechanics.pdf#page=2) | Convert beam self-weight to loading, determine combined bending/shear stresses and check a slender-web cantilever with von Mises. | Not solved | false |
 | 6 | [2023 Dec, Q2(a)(i-ii)](CIVL1113-2023-dec-mechanics.pdf#page=2) | Find maximum normal/shear stresses of an axially loaded cantilever I-beam and check von Mises safety, including its flange/web junction. | Not solved | false |
 | 7 | [2022 May, Q2(e)](CIVL1113-2022-may-mechanics.pdf#page=1) | Evaluate von Mises safety at top, bottom and centre on both sides of a critical section and locate the governing point. | Not solved | false |
