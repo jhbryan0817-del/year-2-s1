@@ -12,6 +12,8 @@ The tables below are sorted by **row count, largest first**. A row represents on
 
 Current-course caveat: groundwater well hydraulics, population projections, reclamation assessment and noise occur in older papers but are not explicit topics in the current first-lecture schedule. Keep those lower-priority until current teaching confirms them. Historical AQHI/criteria-pollutant questions should be interpreted in their original paper context. The original PDFs govern wording, diagrams, units and any source typos.
 
+For air pollution practice, use [Chapter 7 Air Quality](../lecture-slides/07-air-quality.pdf) alongside [pollutant sources and controls](#workflow-1) (PDF pages 13–19 and 46–60), [photochemical smog](#workflow-71) (pages 28–30), [criteria pollutants and AQHI](#workflow-34) (pages 19 and 38–45), [stability and inversions](#workflow-15) and [mixing depth](#workflow-41) (pages 61–71), and [air box models](#workflow-45) (pages 75–81).
+
 ## Row ordering and priority status
 
 Every workflow table lists **newest papers first**; question/part order breaks ties within a paper. The `#` column is renumbered within each table. Workflow tables themselves remain ordered by row count, largest first.

@@ -1,6 +1,6 @@
 {
   "course": "CIVL1105",
-  "downloaded_files": 6,
+  "downloaded_files": 7,
   "records": [
     {
       "file": "01-introduction-mass-energy-transfer.pdf",
@@ -49,6 +49,15 @@
       "pages": 82,
       "sha256": "b1fc1b5a51bb70ce6a2233c3f3124cb5de82a00c869e94b85d8ee857444e8519",
       "accessed": "2026-10-28"
+    },
+    {
+      "file": "07-air-quality.pdf",
+      "title": "Chapter 7 Air Quality",
+      "source_url": null,
+      "pages": 82,
+      "sha256": "12ed19227f43149ef2acce59c168084e646cbaaa011bffee25fa0b3a4f1e1229",
+      "accessed": "2026-11-14",
+      "source": "User-supplied PDF (Chapter 7 Air Pollution.pdf)"
     }
   ]
 }

@@ -16,7 +16,7 @@ The authoritative current outline is **"Topics and Schedule", PDF page 11 of the
 | 5-6 | Drinking-water treatment; wastewater overview and preliminary/primary treatment |
 | 8-10 | Biological wastewater-treatment principles, activated sludge and biological nutrient removal |
 | 11-12 | Solid-waste management and resource recovery |
-| 12-13 | Air pollution, climate change and final review |
+| 12-13 | [Air pollution](lecture-slides/07-air-quality.pdf), climate change and final review |
 
 The first lecture's page 15 further specifies unit conversion, ideal-gas law, reaction orders, mass balances, CSTR versus plug-flow reactors, thermodynamic laws, sensible/latent heat and phase change. Page 13 lists exam 80% and assignments 20%, with further details to be announced. These are course-slide statements, not a prediction of the next exam paper.
 
@@ -30,6 +30,6 @@ The first lecture's page 15 further specifies unit conversion, ideal-gas law, re
 
 ## Collection coverage
 
-Collected on 28 October 2026: **20 downloadable exam PDFs from 23 catalogue records, six available lecture/tutorial slide PDFs, and 404 question/workflow tracker rows**. Restricted papers dated 2026 May 13, 2025 May 14 and 2021 May 17 were skipped as requested. Source URLs, page counts and hashes are saved in the folder manifests.
+The 28 October 2026 collection included **20 downloadable exam PDFs from 23 catalogue records, six lecture/tutorial slide PDFs, and 404 question/workflow tracker rows**. [Chapter 7 Air Quality](lecture-slides/07-air-quality.pdf) was added on 14 November 2026, bringing the lecture/tutorial total to **seven**. Restricted papers dated 2026 May 13, 2025 May 14 and 2021 May 17 were skipped as requested. The folder manifests record provenance, page counts and file hashes.
 
 The current schedule extends beyond the material posted so far. Older papers contain some topics not explicitly listed in that schedule, notably groundwater well hydraulics, population/reclamation calculations and noise. Use past-paper recurrence together with current teaching coverage; frequency alone does not establish current examinability.

@@ -4,7 +4,7 @@ Use the past-paper workflow tables to learn a concept by attempting a question, 
 
 | Course | Course map | Ranked question tracker | Practice rows | Downloaded exam files | Lecture decks |
 | --- | --- | --- | ---: | ---: | ---: |
-| CIVL1105 Environmental Engineering | [Course overview](CIVL1105/README.md) | [Workflow tables](CIVL1105/past-papers/README.md) | 404 | 20 | 6, including the mass-balance tutorial |
+| CIVL1105 Environmental Engineering | [Course overview](CIVL1105/README.md) | [Workflow tables](CIVL1105/past-papers/README.md) | 404 | 20 | 7, including the mass-balance tutorial |
 | CIVL1118 Structural Mechanics | [Course overview](CIVL1118/README.md) | [Workflow tables](CIVL1118/past-papers/README.md) | 179 | 27 source files / 26 distinct papers, plus 3 comment files | 12 |
 | CIVL2108 Principles of Civil Engineering Management | [Course overview](CIVL2108/README.md) | [Workflow tables](CIVL2108/past-papers/README.md) | 162 | 20 | 12, including Project delivery |
 
@@ -22,6 +22,6 @@ Counts measure practice opportunities in the available papers; they do not predi
 
 ## Collection scope
 
-Collected from authenticated HKU Moodle and [HKU ExamBase](https://julac-hku.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=852JULAC_HKU:HKU&inst=852JULAC_HKU&collectionId=81719117110003414) on **28 October 2026** (Asia/Singapore). Each course includes source manifests and downloaded PDFs. Papers marked as restricted and requiring lecturer contact were skipped, as requested; their metadata is recorded without question rows. Moodle folders contain the slides available on the collection date, with course outlines/schedules where supplied.
+Collected from authenticated HKU Moodle and [HKU ExamBase](https://julac-hku.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=852JULAC_HKU:HKU&inst=852JULAC_HKU&collectionId=81719117110003414) on **28 October 2026** (Asia/Singapore). Each course includes source manifests and downloaded PDFs. Papers marked as restricted and requiring lecturer contact were skipped, as requested; their metadata is recorded without question rows. The lecture folders include the slides available on the collection date, with course outlines or schedules where supplied. CIVL1105 also includes the [Chapter 7 Air Quality slides](CIVL1105/lecture-slides/07-air-quality.pdf), added on 14 November 2026.
 
 Original course and examination materials retain their authors' rights. The course overviews and question descriptions are study aids, and no official solution key is implied. Every tracker starts with all questions unsolved.
